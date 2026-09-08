@@ -3,6 +3,9 @@
     "id": 1,
     "instrument": "International Plant Protection Convention (IPPC)",
     "type": "Treaty",
+    "parties": 185,
+    "year": "1951, 1997",
+    "governingBody": "Commission on Phytosanitary Measures (FAO)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -14,12 +17,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The IPPC aims to prevent the introduction and spread of plant pests across borders while facilitating safe trade. It establishes standards for phytosanitary measures, encourages harmonization across countries, and creates a framework for international surveillance, certification, and response. Through national plant protection organizations (NPPOs), regional bodies, and the Commission on Phytosanitary Measures, the IPPC coordinates efforts to protect plant health, food security, biodiversity, and trade. The 1997 revision emphasizes science-based measures, risk analysis, and the One Health relevance of preventing plant pest outbreaks that can destabilize ecosystems.",
+    "governanceRole": "Legally binding framework for coordinated global plant health governance: The IPPC requires countries to establish national plant protection organizations (NPPOs) and adopt science-based phytosanitary measures, creating an institutional backbone for coordinated, rules-based pest management.\nHarmonized international standards and surveillance systems: Through the Commission on Phytosanitary Measures, the IPPC enables the development of global standards (ISPMs) and promotes pest surveillance and risk analysis that underpin early detection and cross-border response.\nIntegration of plant health with trade, food security, and environmental protection: The treaty recognizes that protecting plants also safeguards ecosystems, food systems, and trade, embedding environmental and economic stability into One Health-compatible governance.",
+    "limitations": "No binding obligations on environmental monitoring or climate-related plant risks: The treaty emphasizes phytosanitary measures related to trade but does not require parties to monitor or address broader environmental drivers of plant health, such as biodiversity loss or land-use change.\nCollaboration with other One Health instruments is not formally structured: While the IPPC references cooperation and technical assistance, it does not establish mechanisms to align activities with frameworks related to AMR, zoonotic disease surveillance, or chemical safety, reflecting its pre-One Health era design.",
+    "provisions": "Preamble: \"Taking into account internationally approved principles governing the protection of plant, human and animal health, and the environment…\"\n\nArticle VIII(1): \"The contracting parties shall cooperate with one another to the fullest practicable extent... particularly in the exchange of information on plant pests, especially the reporting of the occurrence, outbreak or spread of pests that may be of immediate or potential danger, and in participating in special campaigns for combatting pests that may seriously threaten crop production and need international action.\"\n\nArticle XX: \"The contracting parties agree to promote the provision of technical assistance to contracting parties, especially those that are developing contracting parties, either bilaterally or through the appropriate international organizations, with the objective of facilitating the implementation of this Convention.\"",
+    "interlinkages": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS) as recognized international standards"
   },
   {
     "id": 2,
     "instrument": "International Convention for Protection of New Plant Varieties (UPOV)",
     "type": "Treaty",
+    "parties": 78,
+    "year": "1961, 1991",
+    "governingBody": "Council of the Union (WIPO)",
     "actionTracks": [
       "Track 4: Food safety risks",
       "Track 6: Integrating the environment"
@@ -29,12 +40,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Provides and promotes an effective system of plant variety protection to encourage the development of new varieties of plants. Grants plant breeders exclusive rights for their new varieties that meet specific criteria.",
+    "governanceRole": "Breeder's Exemption (Article 15, 1991 Act):Allows use of protected varieties for breeding new varieties, promoting genetic diversity and innovation in plant breeding.\nClimate Change Adaptation (UPOV Seminar, 2024): Recognizes the role of plant breeding in developing climate-smart varieties, supporting sustainable agriculture and food security.\nCapacity Building (UPOV Report on Impact, 2005): Associates UPOV membership with increased breeding activities and number of new varieties, potentially improving agricultural productivity.",
+    "limitations": "Implementation challenges (Article 12, 1991 Act): Requirements for testing distinctness, uniformity, and stability may involve substantial technical work, which can be demanding for countries with limited resources.\nAccess considerations (Article 14, 1991 Act): Strong breeders’ rights protections may influence the ability of some farmers or researchers—particularly those with fewer resources—to access improved varieties, depending on national implementation and context.",
+    "provisions": "Article 15(1)(iii) – Breeders’ Exemption: Excludes from breeders’ rights any “acts done for the purpose of breeding other varieties”​ to encourage ongoing research\n\nArticle 15(2) – Farmer’s Privilege: Allows countries to permit farmers to save and reuse seeds of protected varieties on their own holdings, within reasonable limits and safeguarding breeders’ interests​\n\nArticle 17 – Public Interest Exception: Allows governments to restrict breeders’ rights for reasons of “public interest\" (i.e., a compulsory license could be issued to produce seeds or planting material in a national food emergency or to introduce traits crucial for environmental sustainability)",
+    "interlinkages": "Convention on Biological Diversity (CBD)\nNagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization"
   },
   {
     "id": 3,
     "instrument": "Convention on Wetlands of International Importance especially as Waterfowl Habitat (Ramsar Convention)",
     "type": "Treaty",
+    "parties": 172,
+    "year": "1971; 1975",
+    "governingBody": "Conference of the Contracting Parties (IUCN)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 3: Endemic zoonotic diseases",
@@ -46,12 +65,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Establishes a global framework for wise use and conservation of wetlands, defined broadly (including marshes, peatlands, rivers, coastal areas up to 6 m deep) ; Parties must designate at least one Ramsar site, maintain ecological character, monitor changes, and encourage reserve establishment and public awareness.",
+    "governanceRole": "Mandated ecological monitoring and reporting: Regular assessments safeguard wetland health (Art. 3(2), Art. 8(1))\nInfrastructure for cooperation: COP, Standing Committee & STRP ensure multisectoral coordination\nWise-use principle: Offers flexible implementation that considers health, livelihoods, and ecosystems",
+    "limitations": "Broad obligations without binding enforcement mechanisms: Although the Convention creates commitments for wetland conservation, it does not include binding targets or formalized enforcement arrangements.\nVariation in implementation of the “wise use” principle: The principle provides overall guidance for maintaining ecological character but does not specify measurable targets, resulting in differences in application across parties.\nLimited explicit reference to human health: While wetland benefits for well-being can be inferred, the Convention does not explicitly frame obligations around human health outcomes beyond links that may be drawn through sustainable development objectives.",
+    "provisions": "Article 1: Defines wetlands broadly, including diverse ecosystems.\n\nArticle 2(1,4): Requires Parties to designate at least one Ramsar site.\n\nArticle 3(1): Mandates planning promoting conservation and wise use.\n\nArticle 3(2): Emphasizes maintaining ecological character.\n\nArticle 8: Encourages international cooperation on shared wetlands and species.",
+    "interlinkages": "UN Framework Convention on Climate Change\nUN Convention on Biological Diversity\nCMS Convention"
   },
   {
     "id": 4,
     "instrument": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)",
     "type": "Treaty",
+    "parties": 184,
+    "year": "1973",
+    "governingBody": "Conference of the Parties (UNEP)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 6: Integrating the environment"
@@ -61,12 +88,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Regulates international trade in wildlife to ensure that international trade does not endanger the survival of vulnerable species. Appendix I prohibits commercial trade in species at risk of extinction, Appendix II allows regulated trade with permits to prevent population decline, and Appendix III includes species protected in at least one country that requires international cooperation. CITES operates through a permit and certification system, requiring member states to implement domestic enforcement measures.",
+    "governanceRole": "Reducing the risk of zoonotic disease emergence (COP19, Decision 19.15-19.19): Decisions request Parties to report on measures to reduce pathogen spillover in trade, collaborate with CMS, and summarize the work of and collaborate with the Quadripartite\nCollaboration with WOAH: CITES Secretariat initiated an MOU with WOAH for a joint programme of work on practical solutions to reduce pathogen spillover risk\nPermitting system (CITES Appendices): Determine which species are traded and how, which indirectly regulates the human-animal contact points where zoonotic spillover can occur",
+    "limitations": "Limited scope of coverage: The treaty focuses primarily on international trade in listed species and does not fully address broader ecosystem or health considerations connected to One Health.\nIllegal wildlife trade data use: Although CITES does not regulate illegal trade, its database tracks reported incidents that can relate indirectly to spillover risks and monitoring needs. (https://citesdata.un.org/)\nResource considerations (COP18 Report, 2019): Some parties note ongoing challenges in accessing technical or financial resources necessary for full implementation of CITES measures. (https://cites.org/eng/cop/18/source/cop18changes.php)",
+    "provisions": "Article III(2)(c) – Safe Transport of Live Specimens: An export permit for Appendix I species can only be issued if any living specimen is prepared and shipped “so as to minimize the risk of injury, damage to health or cruel treatment”​\n\nArticle III(3)(b) – Suitable Housing: Import permits for Appendix I live animals require Scientific Authority certification that the proposed recipient is “suitably equipped to house and care for” the specimen, mitigating risks to humans\n\nArticle VIII(3) – Care in Transit: Parties must ensure that all living specimens in transit, holding or shipment “are properly cared for so as to minimize the risk of injury, damage to health or cruel treatment”​",
+    "interlinkages": "CMS Convention\nWHO Pandemic Agreement"
   },
   {
     "id": 5,
     "instrument": "Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention; CMS)",
     "type": "Treaty",
+    "parties": 131,
+    "year": "1979; 1983",
+    "governingBody": "Conference of the Parties (UNEP)",
     "actionTracks": [
       "Track 6: Integrating the environment"
     ],
@@ -75,12 +110,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Provides framework to restore or maintain favorable conservation status of migratory species by protecting habitats, regulating use, enabling research, and fostering regional/global Agreements or MoUs for Appendix II species.",
+    "governanceRole": "Multisectoral surveillance & rapid risk response via COP resolutions (e.g., wildlife health, avian influenza) and Scientific Council recommendations\nFramework for cooperation via MoUs and Agreements across range states for coordinated governance\nGlobal data-sharing platforms (COP decisions, Scientific Council, resolutions) enhance One Health implementation through further implementation of the treaty beyond its mandate for migratory species conservation efforts",
+    "limitations": "Fragmented adoption of regional Agreements/MoUs: Geographic and species-level variation in agreements may limit consistent coordination of surveillance and conservation measures.\nEnforcement gaps: Implementation relies on national systems that differ in capacity and prioritization.\nPublic health considerations are only indirectly referenced: Disease-related issues are noted in some contexts but are not supported by formal mechanisms for integration with health sectors.",
+    "provisions": "Art. 2(2–3): Obliges protection of Appendix I species & encourages Agreements under Appendix II for habitat/connectivity preservation\n\nArt. 3: Prohibits specified forms of take and trade for Appendix I species\n\nArt. 6(3): Requires national reporting on implementation steps for listed species\n\nCOP Resolutions (e.g., 14.18, 12.6): Address wildlife health including zoonoses, disease surveillance, spillover prevention, and biosecurity across species interfaces",
+    "interlinkages": "CITES\nRamsar Convention"
   },
   {
     "id": 6,
     "instrument": "United Nations Convention on the Law of the Sea (UNCLOS)",
     "type": "Treaty",
+    "parties": 168,
+    "year": "1982; 1994",
+    "governingBody": "Meeting of States Parties (UN)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -92,12 +135,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Establishes a comprehensive legal framework governing all uses of the world's oceans and seas. Defines the rights and duties of states over maritime zones, regulates the exploitation of marine living resources, and imposes binding obligations on states to protect and preserve the marine environment from all sources of pollution. Part XII creates a global architecture for marine environmental protection, requiring states to prevent, reduce, and control pollution; monitor environmental risks; conduct environmental impact assessments; and cooperate internationally to harmonize rules and standards. Part V and Part VII govern conservation and sustainable use of living marine resources in exclusive economic zones and the high seas respectively.",
+    "governanceRole": "Binding legal framework for marine environmental protection: Part XII imposes enforceable obligations on states to prevent all forms of marine pollution and to protect rare and fragile marine ecosystems (Articles 192, 194, 207). This creates a legal baseline for aquatic and coastal ecosystem health directly relevant to One Health.\nMandatory monitoring and transboundary notification: Articles 204–206 require states to monitor pollution risks, assess potential environmental effects of planned activities, and publish findings; Article 198 requires immediate notification to other states when the marine environment faces imminent pollution damage, establishing early-warning obligations analogous to those in the IHR for human health.\nConservation of aquatic living resources as a shared responsibility: Articles 61, 62, and 119 establish science-based conservation and data-sharing obligations for marine living resources across EEZs and the high seas.",
+    "limitations": "Limited direct integration with human or animal health systems: UNCLOS was designed as an oceans governance instrument; its One Health relevance must be drawn through interpretation and linkage to other instruments.\nEnforcement dependent on flag state compliance: Many of UNCLOS's pollution prevention obligations rely on flag state enforcement, which could create gaps particularly relevant to pollution affecting fisheries and coastal food systems.",
+    "provisions": "Article 192: States have the obligation to protect and preserve the marine environment.\n\nArticle 194(5): Measures taken under Part XII shall include those necessary to protect and preserve rare or fragile ecosystems as well as the habitat of depleted, threatened or endangered species and other forms of marine life.\n\nArticle 196(1): States shall take all measures necessary to prevent, reduce and control pollution of the marine environment resulting from the intentional or accidental introduction of species, alien or new, to a particular part of the marine environment, which may cause significant and harmful changes thereto.\n\nArticle 197: States shall cooperate on a global basis and, as appropriate, on a regional basis… in formulating and elaborating international rules, standards and recommended practices and procedures… for the protection and preservation of the marine environment.",
+    "interlinkages": "Aquatic Animal Health Code\nConvention on Biological Diversity (CBD)\nKunming-Montreal GBF\nRamsar Convention"
   },
   {
     "id": 7,
     "instrument": "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal",
     "type": "Treaty",
+    "parties": 190,
+    "year": "1989, 1992",
+    "governingBody": "Conference of the Parties",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 6: Integrating the environment"
@@ -107,12 +158,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The Basel Convention aims to control the transboundary movement and environmentally sound management of hazardous and other wastes. It regulates export, import, and disposal of toxic waste, prevents illegal dumping, especially in low-income countries, and promotes national and regional capacity for waste risk reduction.",
+    "governanceRole": "Reduces shared health risks from waste-related pollution: Controls environmental exposure to heavy metals, POPs, and biomedical waste that cause disease in humans, livestock, and wildlife (Articles 1, 4).\nSupports national system strengthening for waste governance and monitoring: Requires countries to designate competent authorities and develop national waste inventories (Article 5).\nPromotes international cooperation and technology transfer: Facilitates knowledge-sharing and technical assistance to improve hazardous waste management capacities in low-resource settings (Article 10).",
+    "limitations": "Focus primarily on waste management rather than broader health pathways: The treaty addresses toxic exposure without extending to related health surveillance or treatment systems.\nVariation in enforcement across contexts: Implementation can be influenced by differences in customs oversight, regulatory capacity, and informal sector activity.",
+    "provisions": "Article 4 – General Obligations: Prohibits export or import of hazardous waste without prior informed consent, and mandates environmentally sound disposal.\n\nArticle 5 – Competent Authorities and Focal Points: Requires each Party to designate national authorities to oversee compliance and response.\n\nArticle 10 – International Cooperation: Encourages technical assistance, training, and institutional strengthening to help countries implement the Convention effectively.",
+    "interlinkages": "Rotterdam, Stockholm Conventions and Minamata Convention"
   },
   {
     "id": 8,
     "instrument": "Convention on Biological Diversity (CBD)",
     "type": "Treaty",
+    "parties": 196,
+    "year": "1992, 1993",
+    "governingBody": "Conference of the Parties",
     "actionTracks": [
       "Track 2: Emerging zoonotic epidemics",
       "Track 3: Endemic zoonotic diseases",
@@ -124,12 +183,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Based on the principle that ecosystems, species and genetic resources should be used for the benefit of humans, but not in a way that leads to the decline of biodiversity. Provides an overarching framework on biodiversity, guided by three main objectives: conservation of biodiversity; sustainable use of biodiversity; and the fair and equitable sharing of the benefits arising from the use of genetic resources.",
+    "governanceRole": "Global One Health Policy (COP16): Adopted binding targets for pandemic prevention and antimicrobial resistance (AMR) reduction.\nWHO-CBD Collaboration (SBSTTA26): Created joint monitoring frameworks for zoonotic disease risks.\nRisk Management Tools (COP15/16): Introduced tools to track ecosystem health and disease risks.\nEquity Focus (COP16): Established a special group to protect Indigenous knowledge in health-biodiversity plans.",
+    "limitations": "Voluntary action: Many health-related components remain non-binding, and participation from the health sector varies.\nSectoral silos (COP15/16): The treaty does not include binding provisions to harmonize environmental, agricultural, and health legislation, though later global action plans provide guidance.\nMonitoring considerations (SBSTTA26): Indicators for pathogen surveillance or animal welfare are still under development.",
+    "provisions": "Article 8 - In-situ Conservation\n§ 8(g) Establish or maintain means to manage risks around the use and release of living modified organisms, resulting from biotechnology, which are likely to have adverse environmental, biological diversity, or human health impacts.\n§ 8(h) requires parties to prevent the introduction of, control, or eradicate alien species which threaten ecosystems, habitats, or species\n§ 8(j) Mandates respect and preservation of indigenous and local communities’ knowledge relevant to biodiversity conservation and sustainable use\n\nArticle 14 - Impact Assessment and Minimizing Adverse Impacts: Requires parties to introduce procedures for environmental impact assessment of proposed projects likely to have significant adverse effects on biological diversity.\n\nArticle 15 - Access to Genetic Resources: Recognizes sovereignty over natural resources and governs access to genetic resources, including for fair and equitable sharing of resources by other Parties.",
+    "interlinkages": "Mother Convention of the Cartagena and Nagoya Protocols"
   },
   {
     "id": 9,
     "instrument": "Cartagena Protocol on Biosafety (Cartagena Protocol)",
     "type": "Treaty",
+    "parties": 173,
+    "year": "2000, 2003",
+    "governingBody": "Meeting of the Parties",
     "actionTracks": [
       "Track 4: Food safety risks",
       "Track 6: Integrating the environment"
@@ -140,12 +207,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Protocol to the CBD. Supplements CBD and aims to ensure the safe transport, handling and use of living modified organisms (LMOs) resulting from modern biotechnology that may have adverse effects on biodiversity, also taking into account risks to human health. Establishes procedures for regulating the import and export of LMOs from one country to another, primarily through LMOs intended for direct introduction into the environment (AIA) and LMOs intended for direct use as food or feed, or for processing (LMOs-FFP).",
+    "governanceRole": "Risk Assessment (COP-MOP 9, 2018): Adopted updated guidance on risk assessment of LMOs, enhancing One Health-aligned biosafety measures.\nCapacity Building (COP-MOP 10, 2021): Established the Biosafety Clearing-House to improve information sharing on LMOs, supporting cross-sector collaboration.\nMonitoring and Reporting (COP-MOP 10, 2021): Implemented a new reporting format that includes health-related indicators, indirectly supporting One Health surveillance.",
+    "limitations": "Limited scope (Article 4): Primary emphasis on environmental impacts of LMOs may not fully encompass human, plant, or animal health considerations.\nVoluntary compliance (COP-MOP 9, 2018): Risk assessment and risk management guidelines remain non-binding, contributing to varied national approaches.\nResource constraints (COP-MOP 10, 2021): Some parties report ongoing needs for financial and technical support to implement biosafety systems.",
+    "provisions": "Article 1 – Objective (Precautionary Approach): Aims to ensure an adequate level of protection in the safe transfer, handling and use of living modified organisms that may have adverse effects on biodiversity, “taking also into account risks to human health,” with a focus on transboundary movements\n\nArticle 15 – Risk Assessment: Requires scientific risk assessments for LMOs before decisions on import/use, evaluating potential effects on the conservation of biodiversity and human health, thereby applying a One Health lens to biotech governance.\n\nArticle 16 – Risk Management: Obliges Parties to adopt measures to manage and control LMO risks identified by risk assessment in order to prevent adverse effects on biodiversity and human health (e.g. safety protocols and monitoring), reinforcing precaution across environmental and public health sectors.",
+    "interlinkages": "Codex Principles for the Risk Analysis of Foods Derived from Modern Biotechnology\nCompilation of Codex Texts Relevant to the Labelling of Foods Derived from Modern Biotechnology (CXG 76-2011)"
   },
   {
     "id": 10,
     "instrument": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization",
     "type": "Treaty",
+    "parties": 137,
+    "year": "2010, 2014",
+    "governingBody": "Meeting of the Parties",
     "actionTracks": [
       "Track 2: Emerging zoonotic epidemics",
       "Track 3: Endemic zoonotic diseases",
@@ -155,12 +230,20 @@
       "Equity",
       "Parity",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Protocol to the CBD. International agreement that aims to ensure the fair and equitable sharing of benefits arising from the utilization of genetic resources. It provides a transparent legal framework for the effective implementation of one of the three objectives of the Convention on Biological Diversity: the fair and equitable sharing of benefits arising out of the utilization of genetic resources. It enables the adoption of specialized international access and benefit-sharing instruments.",
+    "governanceRole": "Equity and Fairness (COP-MOP 3, 2018): Established a framework for fair and equitable sharing of benefits from genetic resources, supporting global health equity in pathogen sharing and access to treatments.\nInformation Sharing (COP-MOP 3, 2018): Implemented the ABS Clearing-House to improve information exchange on genetic resources, enhancing cross-sector collaboration for One Health.\nCapacity Building (COP-MOP 3, 2018): Emphasized the need for capacity-building measures, potentially improving developing countries' abilities in disease surveillance and R&D.\nMultisectoral Engagement (COP-MOP 3, 2018): Recognized the need for participation of indigenous peoples, local communities, and relevant stakeholders, supporting a more comprehensive One Health approach.",
+    "limitations": "Implementation challenges (COP-MOP 3, 2018): Many parties have developed diverse ABS legislation and institutions, leading to varied implementation.\nAdministrative considerations: Complex authorization and decision-making processes may influence the timeliness of access in emergency contexts.\nLegal uncertainty (COP-MOP 3, 2018): Differences in how countries interpret the Protocol’s scope may affect predictability in accessing genetic resources.\nCompliance monitoring (COP-MOP 3, 2018): Some parties report challenges with establishing checkpoints and monitoring systems.",
+    "provisions": "Article 8(b) – Special Considerations for Health: Encourages expeditious access to genetic resources for developing treatments during health emergencies, emphasizing rapid response to protect human, animal, or plant health.\n\nArticle 9 – Contribution to Conservation and Sustainable Use: Promotes directing benefits from genetic resource utilization towards biodiversity conservation and sustainable use\n\nArticle 12 – Traditional Knowledge Associated with Genetic Resources: Mandates fair and equitable benefit-sharing with indigenous and local communities holding traditional knowledge, recognizing their role in maintaining biodiversity and health practices",
+    "interlinkages": "WHO Pandemic Agreement\nInternational Health Regulations"
   },
   {
     "id": 11,
     "instrument": "United Nations Framework Convention on Climate Change (UNFCCC)",
     "type": "Treaty",
+    "parties": 198,
+    "year": "1992, 1994",
+    "governingBody": "Conference of the Parties",
     "actionTracks": [
       "Track 2: Emerging zoonotic epidemics",
       "Track 3: Endemic zoonotic diseases",
@@ -172,12 +255,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The Convention on Climate Change sets an overall framework for intergovernmental efforts to tackle the challenge posed by climate change. It recognizes that the climate system is a shared resource whose stability can be affected by industrial and other emissions of carbon dioxide and other greenhouse gases. On this basis, the Convention commits Parties to cooperate in limiting greenhouse gas emissions and in developing responses to climate impacts, particularly in ways that protect vulnerable populations and support sustainable development.",
+    "governanceRole": "Health-Climate Nexus (COP26, 2021): Established the first Health Programme within the UNFCCC, recognizing climate change as a health crisis and promoting One Health approaches in climate action.\nMultisectoral Collaboration (COP27, 2022): Launched the \"Sharm el-Sheikh Initiative for Resilient Agriculture for Adaptation to Climate Change\", integrating agriculture, food security, and climate adaptation, aligning with One Health principles.\nCapacity Building (COP28, 2023): Operationalized the Loss and Damage Fund, potentially supporting developing countries in addressing climate-related health impacts and ecosystem disruptions.\nKnowledge Sharing (SBSTA-IPCC Special Event, 2023): Facilitated dialogue on the IPCC AR6 Synthesis Report, emphasizing interconnections between climate, biodiversity, and human health, supporting evidence-based One Health strategies.",
+    "limitations": "Rate of progress on mitigation (Global Stock take, COP28, 2023): Parties acknowledge the need for transitioning away from fossil fuels, though commitments vary in specificity.\nFinance gaps (Standing Committee on Finance, 2023): Shortfalls in adaptation and mitigation finance continue to influence implementation, particularly in developing countries.\nFragmented governance: While health is increasingly referenced, it is not a central component of core climate negotiations.\nImplementation challenges (Enhanced Transparency Framework, 2024): Some countries continue developing diverse systems to report on climate–health linkages.",
+    "provisions": "Article 1 – Definition of Adverse Effects: Defines “adverse effects of climate change” as changes in the environment that have deleterious effects on ecosystems or on “human health and welfare”\n\nArticle 2 – Objective: Seeks stabilization of greenhouse gas levels at a point that prevents dangerous interference with the climate system, allowing ecosystems to adapt naturally, safeguarding food production, and enabling sustainable development\n\nArticle 4.1(e) – Adaptation Planning: Calls on Parties to develop plans for adaptation to climate impacts, including integrated management of water, agriculture, and areas prone to droughts and floods\n\nArticle 4.1(f) – Minimize Adverse Impacts: Parties must consider climate measures in broader policies and use tools (e.g. impact assessments) to minimize adverse effects of climate action on the economy, public health, and the environment",
+    "interlinkages": "WHO Pandemic Agreement\nMother Convention of the Paris Agreement\nUNCCD"
   },
   {
     "id": 12,
     "instrument": "Paris Agreement",
     "type": "Treaty",
+    "parties": 195,
+    "year": "2015, 2016",
+    "governingBody": "Meeting of the Parties",
     "actionTracks": [
       "Track 2: Emerging zoonotic epidemics",
       "Track 6: Integrating the environment"
@@ -188,12 +279,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Agreement related to the UNFCCC. Aims to limit global temperature rise above pre-industrial levels through nationally determined contributions (NDCs). Combines legally binding elements with voluntary national targets, creating a universal framework for all countries to combat climate change.",
+    "governanceRole": "Health-Climate Adaptation (Article 7.9): Encourages parties to engage in adaptation planning processes that consider vulnerable groups, communities and ecosystems, implicitly supporting One Health approaches.\nMultisectoral Collaboration (COP26, 2021): Launched the Glasgow Climate Pact, emphasizing the need for integrated approaches to address climate change, biodiversity loss, and human health, aligning with One Health principles.\nCapacity Building (Article 11): Establishes a framework for enhancing climate change education, training, and public awareness, potentially supporting the development of One Health competencies.\nKnowledge Sharing (Article 12): Promotes cooperation on climate change measures, including information sharing and joint research, facilitating cross-sector collaboration essential for One Health.",
+    "limitations": "Limited explicit health focus: The agreement references the right to health but does not formally integrate One Health concepts across its provisions.\nImplementation challenges (Global Stock take, 2023): Variation in achieving emissions and finance commitments may influence health integration, because of prioriziation of the core mandate.\nResource constraints (Standing Committee on Finance, 2024): Some countries experience ongoing difficulty accessing resources for climate-related health measures.",
+    "provisions": "Article 7(2) – Adaptation Goal: Establishes a global goal to enhance adaptive capacity and resilience and reduce vulnerability to climate change “to protect people, livelihoods and ecosystems”\n\nArticle 7(5) – Inclusive Adaptation: Mandates that adaptation action be country-driven, gender-responsive, participatory, and take into consideration vulnerable groups, communities, and ecosystems, and be guided by science and traditional knowledge — integrating adaptation into socioeconomic and environmental policies\n\nArticle 8(4)(h) – Resilience in Loss & Damage: Identifies priority areas for cooperation on loss and damage, including building the “resilience of communities, livelihoods and ecosystems.”",
+    "interlinkages": "WHO Pandemic Agreement\nUNFCCC\nUNCCD"
   },
   {
     "id": 13,
     "instrument": "United Nations Convention to Combat Desertification in those Countries Experiencing Serious Drought and/or Desertification, Particularly in Africa (UNCCD)",
     "type": "Treaty",
+    "parties": 197,
+    "year": "1994, 1996",
+    "governingBody": "Conference of the Parties",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -205,12 +304,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The UNCCD is the only legally binding international agreement focused on land degradation and desertification, particularly in drylands. It promotes sustainable land management, ecosystem restoration, and climate resilience—linking environmental health to rural livelihoods, food systems, biodiversity, and the health and well-being of vulnerable populations.",
+    "governanceRole": "Recognizes that biodiversity loss, deforestation, and water scarcity increase exposure to disease spillover, malnutrition, and displacement (Articles 1 & 2).\nPromotes integrated land management: Encourages approaches that balance ecosystem function, food security, animal health, and rural livelihoods (Article 10).\nStrengthens global collaboration and financing for cross-sector resilience: Provides platforms, partnerships, and funding (e.g., GEF, LDN Fund) for governments to implement nature-based solutions that also improve human and animal health outcomes (Articles 16–18).",
+    "limitations": "Health impacts are implied but not explicitly embedded: Links between desertification and health appear in supporting documents rather than operational provisions.\nImplementation gaps related to capacity and reporting: National focal points often operate with limited resources, affecting continuity of reporting and cross-sector engagement.",
+    "provisions": "Article 2 – Objective: Establishes combating desertification and mitigating drought as global priorities tied to sustainable development and poverty alleviation.\n\nArticle 10 – National Action Programmes: Requires parties to develop national plans for integrated land management, tailored to ecological, social, and economic contexts.\n\nArticle 16 – Science and Technology: Encourages the use of traditional knowledge and modern science in designing land use strategies, with potential application to food systems, climate adaptation, and rural health resilience.",
+    "interlinkages": "UN Framework Convention on Climate Change\nUN Convention on Biological Diversity"
   },
   {
     "id": 14,
     "instrument": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS)",
     "type": "Treaty",
+    "parties": 164,
+    "year": "1995",
+    "governingBody": "WTO, SPS Committee",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -222,12 +329,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Sets rules for food safety and animal/plant health standards in international trade. Allows countries to set their own standards based on science while preventing arbitrary trade barriers.",
+    "governanceRole": "Science-Based Approach (Article 2.2): Requires measures to be based on scientific principles and evidence, supporting evidence-based One Health strategies.\nHarmonization (Article 3.1): Encourages members to base measures on international standards, promoting consistency in addressing health risks across sectors.\nCapacity Building (Article 9): Provides for technical assistance to developing countries, potentially improving their ability to implement One Health-aligned measures.\nTransparency (Article 7): Mandates notification of new or changed SPS measures, facilitating information exchange crucial for One Health approaches.",
+    "limitations": "Implementation challenges (Sixth Review, 2024): Achieving harmonization across diverse national contexts remains complex.\nResource constraints (CAC47, 2024): Some countries face ongoing challenges in securing financial or technical resources for SPS implementation, particularly LLDCs.",
+    "provisions": "Annex A(1)(c) – Coverage of Zoonoses: SPS measures are defined to include those protecting “human life or health… from risks arising from diseases carried by animals, plants or products thereof”​\n\nArticle 3(1) – Harmonization: Urges Members to base their SPS measures on international standards or guidelines​, notably from Codex, WOAH, and IPPC\n\nArticle 5(7) – Precautionary Measures: Permits provisional SPS measures when scientific evidence is insufficient, provided Members seek more information and review the measure in a timely manner (to mitigate potential human or animal health threats)",
+    "interlinkages": "1) The standards, guidelines and recommendations established by the Codex Alimentarius Commission relating to food additives, veterinary drug and pesticide residues, contaminants, methods of analysis and sampling, and codes and guidelines of hygienic practice;\n2) The standards, guidelines and recommendations developed under the auspices of WOAH\n3) The international standards, guidelines and recommendations developed under the auspices of the Secretariat of the International Plant Protection Convention"
   },
   {
     "id": 15,
     "instrument": "Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade",
     "type": "Treaty",
+    "parties": 157,
+    "year": "1998, 2004",
+    "governingBody": "Conference of the Parties (UNEP/FAO)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -239,12 +354,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The Rotterdam Convention promotes shared responsibility and cooperative efforts among countries in the international trade of certain hazardous chemicals and pesticides. It establishes a Prior Informed Consent (PIC) procedure, requiring exporters to obtain consent from importing countries before shipping listed substances. The Convention enhances transparency, reduces health and environmental risks from toxic exposures, and strengthens regulatory capacity—particularly in low- and middle-income countries—through information sharing and technical support.",
+    "governanceRole": "Empowers countries to prevent harmful chemical exposures across humans, animals, and ecosystems: The Convention enables importing countries to reject or restrict chemicals that threaten environmental integrity, livestock health, and community well-being, reducing multi-species exposure to toxins.\nBuilds regulatory capacity for multisectoral chemical governance: By supporting national decision-making and information exchange between agriculture, health, and environment ministries, the Convention creates infrastructure for integrated chemical risk management.\nMandates transparent, science-based decision-making in international trade: It requires that hazard assessments and risk communications be shared with all parties, enhancing One Health-aligned accountability in cross-border pesticide and industrial chemical flows.",
+    "limitations": "Integration of health sector leadership varies: Environmental and agricultural institutions typically lead implementation, with variable involvement from public health authorities.\nProcesses for listing substances may involve multiple steps: Differences in national positions can affect the time required to reach decisions.\nNon-compliance challenges may arise in some contexts due to differing national enforcement capacities.",
+    "provisions": "Article 5 – Procedures for Banned or Severely Restricted Chemicals: Establishes the process for notifying and listing hazardous chemicals that are banned or severely restricted, enabling countries to prevent environmental and public health harms from pesticides and industrial toxins that may affect humans, animals, and ecosystems alike.\n\nArticle 10 – Obligations in Relation to Imports of Chemicals Listed in Annex III: Requires each party to decide whether to allow imports of listed hazardous substances and to communicate those decisions transparently, empowering national governments to manage cross-sector risks to food safety, environmental health, and community well-being.\n\nArticle 14 – Information Exchange: Mandates the circulation of scientific, regulatory, and risk-related information among parties, facilitating cross-sectoral coordination between environmental, agricultural, and health institutions to support evidence-based decision-making on chemical risks.",
+    "interlinkages": "Basel and Minamata Convention (Stockholm?)"
   },
   {
     "id": 16,
     "instrument": "Stockholm Convention on Persistent Organic Pollutants (POPs)",
     "type": "Treaty",
+    "parties": 152,
+    "year": "2001, 2004",
+    "governingBody": "Conference of the Parties (UNEP)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -256,12 +379,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "The treaty protects human health and the environment from chemicals that persist in the environment, bioaccumulate through the food web, and pose risks of causing adverse effects. It aims to eliminate or restrict the production, use, and release of specific POPs, many of which are linked to serious health issues, including cancer, immune system disruption, and reproductive disorders, by controlling their trade, disposal, and emissions.",
+    "governanceRole": "Links ecosystem health to human and animal health through binding controls on pollutants: The Convention targets chemicals that bioaccumulate and disrupt endocrine, reproductive, and immune systems across species, reinforcing the shared health risks of environmental contamination.\nStrengthens national capacity for chemical risk governance: It requires countries to develop national implementation plans and adopt legal and technical measures that bridge environmental protection with public and veterinary health objectives.\nDrives international cooperation and resource mobilization for pollution control: Through mechanisms for financial assistance, technology transfer, and capacity building, the Convention enables low-resource countries to participate in pollution control efforts with One Health relevance.",
+    "limitations": "Sectoral focus limits explicit One Health integration: While environmental contaminants can affect health, the treaty does not formally link its implementation to coordinated health-sector strategies.\nNational implementation varies: Differences in monitoring capacity and regulatory systems influence consistent application. Cross-sector coordination mechanisms are not explicitly defined within the treaty text.",
+    "provisions": "Article 3 – Measures to Reduce or Eliminate Releases from Intentional Production and Use: Bans or restricts highly toxic chemicals like DDT and PCBs that bioaccumulate across food chains, causing immune and developmental harm in wildlife, livestock, and humans, especially in vulnerable communities and ecosystems.\n\nArticle 5 – Measures to Reduce or Eliminate Releases from Unintentional Production: Targets the release of POPs from industrial combustion and open burning, which contaminate air, soil, and water, elevating risks of chronic disease, cancer, and reproductive failure across species and disrupting ecological health in rural and peri-urban zones.\n\nArticle 11 – Research, Development and Monitoring: Promotes collaborative research on POPs exposure pathways, effects, and alternatives—opening space for integrated environmental-health surveillance, toxicology, and early warning systems that bridge animal, environmental, and public health data.",
+    "interlinkages": "Basel and Minamata Conventions"
   },
   {
     "id": 17,
     "instrument": "International Health Regulations",
     "type": "Treaty",
+    "parties": 196,
+    "year": "2005, 2014, 2022, 2024",
+    "governingBody": "World Health Assembly",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -272,12 +403,20 @@
       "Parity",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Provides a framework for the international management of public health risks, including public health emergencies of international concern and pandemic emergencies. Requires countries to report significant health events and improve their public health capacities. It regulates public health measures and points of entry",
+    "governanceRole": "Enhanced Early Warning System (2024): Introduced a new \"pandemic emergency\" designation, allowing for a tiered warning system.\nMultisectoral Collaboration: Mandates parties to promote a coordinated and collaborative One Health approach, recognizing interconnections between human, animal, and environmental health.\nCapacity Building: Strengthens provisions for technical assistance to developing countries, potentially improving their ability to implement One Health-aligned measures.\nImproved Governance: Establishes a States Parties Committee and National IHR Authorities to support implementation and compliance",
+    "limitations": "Resource constraints: Some countries experience ongoing challenges in meeting IHR core capacity requirements.\nSovereignty considerations: The non-binding nature of recommendations may lead to varied implementation, in particular during health emergencies.",
+    "provisions": "Article 2 – Purpose and Scope: The IHR’s purpose is “to prevent, protect against, control and provide a public health response to the international spread of disease” in a way that is commensurate with risks and avoids unnecessary interference with travel and trade​\n\nArticle 6 – Notification: Requires States Parties to notify WHO within 24 hours of all events that may constitute a Public Health Emergency of International Concern (e.g. novel zoonotic outbreaks) and to share relevant public health information\n\nArticle 14 – Collaboration with Other Agencies: WHO is mandated to “cooperate and coordinate its activities, as appropriate, with other competent intergovernmental organizations or bodies such as the FAO and the OIE” in implementing the IHR",
+    "interlinkages": "WHO Pandemic Agreement\nSPS"
   },
   {
     "id": 18,
     "instrument": "Minamata Convention on Mercury",
     "type": "Treaty",
+    "parties": 128,
+    "year": "2013, 2017",
+    "governingBody": "Conference of the Parties (UNEP)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -289,12 +428,20 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "A global treaty to protect human health and the environment from anthropogenic emissions and releases of mercury and mercury compounds. It includes measures on the life-cycle of mercury, from mining and product use to waste management, and targets sectors like artisanal and small-scale gold mining, healthcare, and industrial production.",
+    "governanceRole": "Addresses cross-species neurotoxic exposure through pollution control: Limits mercury emissions that impact human cognitive health, wildlife reproduction, and food chain stability (Articles 8, 9).\nMandates national implementation plans across sectors: Requires countries to create legal and institutional frameworks linking environmental and health authorities (Article 20).\nSupports global cooperation and technology transfer for health and environment: Enables access to cleaner alternatives in healthcare and mining, supporting environmental justice and capacity building (Article 14).",
+    "limitations": "Informal sector engagement can be difficult: Activities such as artisanal gold mining may be harder to regulate.\nTimelines for phasing out mercury-containing products vary: Adoption of alternatives depends on national availability and capacity.",
+    "provisions": "Article 4 – Mercury-added products: Phases out medical, industrial, and consumer products containing mercury, including thermometers and sphygmomanometers, reducing mercury exposure in health and domestic settings.\n\nArticle 7 – Artisanal and small-scale gold mining (ASGM): Requires countries with ASGM to reduce and, where feasible, eliminate mercury use, targeting a major environmental and occupational source of mercury poisoning.\n\nArticle 16 – Health aspects: Encourages national strategies to protect vulnerable populations and promote awareness and health surveillance related to mercury exposure.",
+    "interlinkages": "Basel and Rotterdam Conventions"
   },
   {
     "id": 19,
     "instrument": "WHO Pandemic Agreement",
     "type": "Treaty",
+    "parties": null,
+    "year": "2025, TBD",
+    "governingBody": "Conference of the Parties (WHO)",
     "actionTracks": [
       "Track 1: Strengthen health systems",
       "Track 2: Emerging zoonotic epidemics",
@@ -307,6 +454,11 @@
       "Socio-ecological equilibrium",
       "Stewardship",
       "Transdisciplinarity"
-    ]
+    ],
+    "description": "Establishes a comprehensive global framework for pandemic prevention, preparedness, and response, with equity as a core principle. The agreement explicitly integrates a One Health approach (Article 5), requiring cross-sectoral action to address drivers of disease at the human–animal–environment interface. Key provisions include strengthening surveillance, resilient health systems, workforce development, equitable access to medical countermeasures, technology transfer, a pathogen access and benefit-sharing system, sustainable financing, and institutional mechanisms such as a Conference of the Parties and a Coordinating Financial Mechanism.",
+    "governanceRole": "Equity (Articles 2, 17, 18): Prioritizes equitable access, financing, and support for developing countries, which strengthens global capacity for One Health action.\nOne Health Integration (Article 5): Mandates cross-sectoral collaboration to address human–animal–environment drivers of disease, embedding One Health in pandemic governance.\nTechnology Transfer and Pathogen Sharing (Articles 11–12): Creates mechanisms for technology transfer and a pathogen access and benefit-sharing system to promote global cooperation.\nMultisectoral Governance (Articles 15, 19): Establishes a Conference of the Parties and whole-of-society mechanisms that can align sectors and disciplines under a shared governance structure.",
+    "limitations": "Sovereignty clauses (Articles 1, 24, 30): Emphasis on national decision-making may influence the degree of coordinated global implementation.\nResource dependence (Articles 17–18): Several obligations rely on available resources and voluntary support.\nAnnex timing (Articles 12, 31): Further operational details on pathogen and benefits-sharing will be established in a later annex that will determine the entry into force of the entire agreement.\nNon-binding implementation mechanism (Article 19.6): The facilitative approach does not include enforcement provisions.",
+    "provisions": "Article 4 - Pandemic prevention and surveillance: Requires Parties to progressively strengthen pandemic prevention and surveillance measures and capacities\n\nArticle 5 - One Health approach for Pandemic Prevention, Preparedness and Response: Promotes a One Health approach recognizing the interconnection of human and animal health and the environment\n\nArticle 12 - Pathogen Access and Benefit-Sharing System (PABS): establishes a multilateral PABS for safe, transparent and accountable access to materials and sequence information and related benefits.\n\nArticle 18 - Sustainable financing: promotes sustainable and predictable financing for the implementation of the Agreement and establishes a Coordinating Financial Mechanism.",
+    "interlinkages": "International Health Regulations"
   }
 ]
