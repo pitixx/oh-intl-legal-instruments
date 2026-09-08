@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "instrument": "The International Code of Conduct for the Sustainable Use and Management of Fertilizers",
+    "type": "Codes of Conduct",
+    "actionTracks": ["Track 6: Integrating the environment"],
+    "principles": ["Stewardship"]
+  },
+  {
+    "id": 2,
+    "instrument": "The Code of Conduct for Responsible Fisheries",
+    "type": "Codes of Conduct",
+    "actionTracks": ["Track 6: Integrating the environment", "Track 4: Food safety risks"],
+    "principles": ["Stewardship", "Socio-ecological equilibrium"]
+  },
+  {
+    "id": 3,
+    "instrument": "The Voluntary Code of Conduct on Food Loss and Waste Reduction",
+    "type": "Codes of Conduct",
+    "actionTracks": ["Track 4: Food safety risks"],
+    "principles": ["Equity", "Stewardship"]
+  },
+  {
+    "id": 4,
+    "instrument": "PVS Pathway Tools: Evaluation of the Performance of Veterinary Services",
+    "type": "Framework",
+    "actionTracks": ["Track 1: Strengthen health systems"],
+    "principles": ["Transdisciplinarity"]
+  },
+  {
+    "id": 5,
+    "instrument": "PVS Pathway Tools: Evaluation of the Performance of Aquatic Animal Health Services",
+    "type": "Framework",
+    "actionTracks": ["Track 1: Strengthen health systems"],
+    "principles": ["Transdisciplinarity"]
+  },
+  {
+    "id": 6,
+    "instrument": "National IHR and PVS Pathway Bridging Workshop: The Road to One Health",
+    "type": "Framework",
+    "actionTracks": ["Track 1: Strengthen health systems"],
+    "principles": ["Transdisciplinarity", "Multisectoral collaboration"]
+  },
+  {
+    "id": 7,
+    "instrument": "Joint External Evaluation within the International Health Regulations (JEE)",
+    "type": "Framework",
+    "actionTracks": ["Track 1: Strengthen health systems", "Track 2: Emerging zoonotic epidemics"],
+    "principles": ["Transdisciplinarity"]
+  },
+  {
+    "id": 8,
+    "instrument": "The Global Strategic Plan to end human deaths from dog-mediated rabies by 2030",
+    "type": "Guidelines",
+    "actionTracks": ["Track 3: Endemic zoonotic diseases"],
+    "principles": ["Equity", "Parity"]
+  },
+  {
+    "id": 9,
+    "instrument": "Guidelines for Addressing Disease Risks in Wildlife Trade",
+    "type": "Guidelines",
+    "actionTracks": ["Track 2: Emerging zoonotic epidemics", "Track 6: Integrating the environment"],
+    "principles": ["Socio-ecological equilibrium", "Stewardship"]
+  }
+]
