@@ -1,65 +1,312 @@
 [
   {
     "id": 1,
-    "instrument": "The International Code of Conduct for the Sustainable Use and Management of Fertilizers",
-    "type": "Codes of Conduct",
-    "actionTracks": ["Track 6: Integrating the environment"],
-    "principles": ["Stewardship"]
+    "instrument": "International Plant Protection Convention (IPPC)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 2,
-    "instrument": "The Code of Conduct for Responsible Fisheries",
-    "type": "Codes of Conduct",
-    "actionTracks": ["Track 6: Integrating the environment", "Track 4: Food safety risks"],
-    "principles": ["Stewardship", "Socio-ecological equilibrium"]
+    "instrument": "International Convention for Protection of New Plant Varieties (UPOV)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 3,
-    "instrument": "The Voluntary Code of Conduct on Food Loss and Waste Reduction",
-    "type": "Codes of Conduct",
-    "actionTracks": ["Track 4: Food safety risks"],
-    "principles": ["Equity", "Stewardship"]
+    "instrument": "Convention on Wetlands of International Importance especially as Waterfowl Habitat (Ramsar Convention)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 4,
-    "instrument": "PVS Pathway Tools: Evaluation of the Performance of Veterinary Services",
-    "type": "Framework",
-    "actionTracks": ["Track 1: Strengthen health systems"],
-    "principles": ["Transdisciplinarity"]
+    "instrument": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 5,
-    "instrument": "PVS Pathway Tools: Evaluation of the Performance of Aquatic Animal Health Services",
-    "type": "Framework",
-    "actionTracks": ["Track 1: Strengthen health systems"],
-    "principles": ["Transdisciplinarity"]
+    "instrument": "Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention; CMS)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 6,
-    "instrument": "National IHR and PVS Pathway Bridging Workshop: The Road to One Health",
-    "type": "Framework",
-    "actionTracks": ["Track 1: Strengthen health systems"],
-    "principles": ["Transdisciplinarity", "Multisectoral collaboration"]
+    "instrument": "United Nations Convention on the Law of the Sea (UNCLOS)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 7,
-    "instrument": "Joint External Evaluation within the International Health Regulations (JEE)",
-    "type": "Framework",
-    "actionTracks": ["Track 1: Strengthen health systems", "Track 2: Emerging zoonotic epidemics"],
-    "principles": ["Transdisciplinarity"]
+    "instrument": "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 8,
-    "instrument": "The Global Strategic Plan to end human deaths from dog-mediated rabies by 2030",
-    "type": "Guidelines",
-    "actionTracks": ["Track 3: Endemic zoonotic diseases"],
-    "principles": ["Equity", "Parity"]
+    "instrument": "Convention on Biological Diversity (CBD)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   },
   {
     "id": 9,
-    "instrument": "Guidelines for Addressing Disease Risks in Wildlife Trade",
-    "type": "Guidelines",
-    "actionTracks": ["Track 2: Emerging zoonotic epidemics", "Track 6: Integrating the environment"],
-    "principles": ["Socio-ecological equilibrium", "Stewardship"]
+    "instrument": "Cartagena Protocol on Biosafety (Cartagena Protocol)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 10,
+    "instrument": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 11,
+    "instrument": "United Nations Framework Convention on Climate Change (UNFCCC)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 12,
+    "instrument": "Paris Agreement",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 13,
+    "instrument": "United Nations Convention to Combat Desertification in those Countries Experiencing Serious Drought and/or Desertification, Particularly in Africa (UNCCD)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 14,
+    "instrument": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 4: Food safety risks"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 15,
+    "instrument": "Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 16,
+    "instrument": "Stockholm Convention on Persistent Organic Pollutants (POPs)",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 17,
+    "instrument": "International Health Regulations",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 18,
+    "instrument": "Minamata Convention on Mercury",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
+  },
+  {
+    "id": 19,
+    "instrument": "WHO Pandemic Agreement",
+    "type": "Treaty",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Socio-ecological equilibrium",
+      "Stewardship",
+      "Transdisciplinarity"
+    ]
   }
 ]
