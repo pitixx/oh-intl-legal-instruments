@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One Health Instruments Inventory</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 p-8 font-sans text-gray-800">
+
+    <div class="max-w-6xl mx-auto">
+        <h1 class="text-3xl font-bold text-blue-900 mb-6">One Health Instruments Inventory</h1>
+        
+        <!-- Filters & Search -->
+        <div class="bg-white p-4 rounded-lg shadow-sm mb-6 flex gap-4 border border-gray-200">
+            <input type="text" id="searchInput" placeholder="Search instruments..." class="flex-1 p-2 border border-gray-300 rounded">
+            
+            <select id="typeFilter" class="p-2 border border-gray-300 rounded bg-white">
+                <option value="">All Types</option>
+                <option value="Codes of Conduct">Codes of Conduct</option>
+                <option value="Guidelines">Guidelines</option>
+                <option value="Policy brief">Policy brief</option>
+            </select>
+        </div>
+
+        <!-- Results Grid -->
+        <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- JavaScript will inject cards here -->
+        </div>
+    </div>
+
+    <script>
+        let instrumentsData = [];
+
+        // 1. Fetch the data from the JSON file
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                instrumentsData = data;
+                renderCards(instrumentsData);
+            });
+
+        // 2. Render data to the screen
+        function renderCards(data) {
+            const grid = document.getElementById('resultsGrid');
+            grid.innerHTML = ''; 
+            
+            data.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition';
+                card.innerHTML = `
+                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider">${item.type}</span>
+                    <h3 class="text-lg font-semibold mt-2 mb-3">${item.instrument}</h3>
+                    <div class="flex flex-wrap gap-2 mt-auto">
+                        ${item.actionTracks.map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">${track}</span>`).join('')}
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // 3. Handle Searching and Filtering
+        function filterData() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const typeFilter = document.getElementById('typeFilter').value;
+
+            const filtered = instrumentsData.filter(item => {
+                const matchesSearch = item.instrument.toLowerCase().includes(searchTerm);
+                const matchesType = typeFilter === "" || item.type === typeFilter;
+                return matchesSearch && matchesType;
+            });
+
+            renderCards(filtered);
+        }
+
+        // Event Listeners for the inputs
+        document.getElementById('searchInput').addEventListener('input', filterData);
+        document.getElementById('typeFilter').addEventListener('change', filterData);
+    </script>
+</body>
+</html>
