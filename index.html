@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>One Health Instruments Inventory</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Prevents the body from scrolling when the modal is open */
+        body.modal-open { overflow: hidden; }
+    </style>
 </head>
 <body class="bg-gray-50 p-8 font-sans text-gray-800">
 
@@ -12,10 +16,10 @@
         <h1 class="text-3xl font-bold text-blue-900 mb-6">One Health Instruments Inventory</h1>
         
         <!-- Filters & Search -->
-        <div class="bg-white p-4 rounded-lg shadow-sm mb-6 flex gap-4 border border-gray-200">
-            <input type="text" id="searchInput" placeholder="Search instruments..." class="flex-1 p-2 border border-gray-300 rounded">
+        <div class="bg-white p-4 rounded-lg shadow-sm mb-6 flex flex-wrap gap-4 border border-gray-200">
+            <input type="text" id="searchInput" placeholder="Search instruments by keyword..." class="flex-1 min-w-[250px] p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500">
             
-            <select id="typeFilter" class="p-2 border border-gray-300 rounded bg-white">
+            <select id="typeFilter" class="p-2 border border-gray-300 rounded bg-white focus:outline-none focus:ring-2 focus:ring-blue-500">
                 <option value="">All Types</option>
                 <option value="Treaty">Treaty</option>
                 <option value="Codes of Conduct">Codes of Conduct</option>
@@ -25,8 +29,30 @@
         </div>
 
         <!-- Results Grid -->
-        <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- JavaScript will inject cards here -->
+        </div>
+    </div>
+
+    <!-- Hidden Modal Definition -->
+    <div id="instrumentModal" class="fixed inset-0 bg-black bg-opacity-60 hidden flex items-center justify-center p-4 z-50 transition-opacity">
+        <div class="bg-white rounded-lg shadow-2xl w-full max-w-4xl max-h-[90vh] flex flex-col relative">
+            
+            <!-- Modal Header -->
+            <div class="flex justify-between items-start p-6 border-b">
+                <div>
+                    <span id="modalType" class="text-xs font-bold text-blue-600 uppercase tracking-wider"></span>
+                    <h2 id="modalTitle" class="text-2xl font-bold mt-1 text-gray-900"></h2>
+                    <p id="modalMeta" class="text-sm text-gray-500 mt-2"></p>
+                </div>
+                <button onclick="closeModal()" class="text-gray-400 hover:text-gray-800 text-3xl font-bold leading-none ml-4">&times;</button>
+            </div>
+            
+            <!-- Modal Body (Scrollable) -->
+            <div id="modalContent" class="p-6 overflow-y-auto space-y-6 text-gray-700 text-sm">
+                <!-- Content injected via JS -->
+            </div>
+            
         </div>
     </div>
 
@@ -39,21 +65,25 @@
             .then(data => {
                 instrumentsData = data;
                 renderCards(instrumentsData);
-            });
+            })
+            .catch(error => console.error('Error loading JSON:', error));
 
-        // 2. Render data to the screen
+        // 2. Render cards to the screen
         function renderCards(data) {
             const grid = document.getElementById('resultsGrid');
             grid.innerHTML = ''; 
             
             data.forEach(item => {
                 const card = document.createElement('div');
-                card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition';
+                // Added cursor-pointer and an onclick event to trigger the modal
+                card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-lg hover:border-blue-300 transition cursor-pointer flex flex-col h-full';
+                card.onclick = () => openModal(item.id);
+                
                 card.innerHTML = `
                     <span class="text-xs font-bold text-blue-600 uppercase tracking-wider">${item.type}</span>
-                    <h3 class="text-lg font-semibold mt-2 mb-3">${item.instrument}</h3>
-                    <div class="flex flex-wrap gap-2 mt-auto">
-                        ${item.actionTracks.map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">${track}</span>`).join('')}
+                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3">${item.instrument}</h3>
+                    <div class="flex flex-wrap gap-1 mt-auto">
+                        ${item.actionTracks.map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded border border-green-200">${track}</span>`).join('')}
                     </div>
                 `;
                 grid.appendChild(card);
@@ -66,13 +96,99 @@
             const typeFilter = document.getElementById('typeFilter').value;
 
             const filtered = instrumentsData.filter(item => {
-                const matchesSearch = item.instrument.toLowerCase().includes(searchTerm);
+                // Search across the title and the description
+                const textToSearch = (item.instrument + " " + (item.description || "")).toLowerCase();
+                const matchesSearch = textToSearch.includes(searchTerm);
                 const matchesType = typeFilter === "" || item.type === typeFilter;
+                
                 return matchesSearch && matchesType;
             });
 
             renderCards(filtered);
         }
+
+        // 4. Modal Logic
+        function formatText(text) {
+            // Converts line breaks in the JSON text into actual HTML paragraph breaks
+            if (!text) return '<p class="text-gray-500 italic">No information available.</p>';
+            return text.split('\n').map(para => para.trim()).filter(para => para).map(para => `<p class="mb-2">${para}</p>`).join('');
+        }
+
+        function openModal(id) {
+            const item = instrumentsData.find(i => i.id === id);
+            if (!item) return;
+
+            document.getElementById('modalType').textContent = item.type;
+            document.getElementById('modalTitle').textContent = item.instrument;
+            
+            const metaInfo = [
+                item.governingBody ? `<strong>Body:</strong> ${item.governingBody}` : '',
+                item.year ? `<strong>Year:</strong> ${item.year}` : '',
+                item.parties ? `<strong>Parties:</strong> ${item.parties}` : ''
+            ].filter(Boolean).join(' | ');
+            
+            document.getElementById('modalMeta').innerHTML = metaInfo;
+
+            document.getElementById('modalContent').innerHTML = `
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Description</h3>
+                    ${formatText(item.description)}
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Foundational Principles</h3>
+                        <ul class="list-disc pl-5 space-y-1">
+                            ${(item.principles || []).map(p => `<li>${p}</li>`).join('')}
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Action Tracks</h3>
+                        <ul class="list-disc pl-5 space-y-1">
+                            ${(item.actionTracks || []).map(p => `<li>${p}</li>`).join('')}
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Role in One Health Governance</h3>
+                    ${formatText(item.governanceRole)}
+                </div>
+                
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Selected Relevant Provisions</h3>
+                    <div class="bg-gray-50 p-4 rounded border">
+                        ${formatText(item.provisions)}
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Scope Limitations & Operational Boundaries</h3>
+                    ${formatText(item.limitations)}
+                </div>
+
+                ${item.interlinkages ? `
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 border-b pb-1 mb-2">Possible Interlinkages</h3>
+                    ${formatText(item.interlinkages)}
+                </div>` : ''}
+            `;
+
+            document.getElementById('instrumentModal').classList.remove('hidden');
+            document.body.classList.add('modal-open');
+        }
+
+        function closeModal() {
+            document.getElementById('instrumentModal').classList.add('hidden');
+            document.body.classList.remove('modal-open');
+        }
+
+        // Close modal when clicking outside the white box
+        document.getElementById('instrumentModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
 
         // Event Listeners for the inputs
         document.getElementById('searchInput').addEventListener('input', filterData);
