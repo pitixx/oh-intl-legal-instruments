@@ -821,7 +821,7 @@
   }
 ,
   {
-    "id": 1,
+    "id": 20,
     "oneHealthRelevance": 3,
     "instrument": "Terrestrial Animal Health Code",
     "instrumentType": "Code / Standards",
@@ -865,7 +865,7 @@
     "interlinkages": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS)"
   },
   {
-    "id": 2,
+    "id": 21,
     "oneHealthRelevance": 2,
     "instrument": "Rio Declaration on Environment and Development",
     "instrumentType": "Declaration",
@@ -911,7 +911,7 @@
     "interlinkages": "Convention on Biological Diversity (CBD)\nKunming-Montreal Global Biodiversity Framework (Decision 15/4)\nSendai Framework for Disaster Risk Reduction"
   },
   {
-    "id": 3,
+    "id": 22,
     "oneHealthRelevance": 3,
     "instrument": "Aquatic Animal Health Code",
     "instrumentType": "Code / Standards",
@@ -954,7 +954,7 @@
     "interlinkages": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS)"
   },
   {
-    "id": 4,
+    "id": 23,
     "oneHealthRelevance": 3,
     "instrument": "The International Code of Conduct on Pesticide Management",
     "instrumentType": "Code of Conduct / Voluntary Framework",
@@ -1003,7 +1003,7 @@
     "interlinkages": "Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade\nStockholm Convention on Persistent Organic Pollutants\nBasel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal\nCodex Alimentarius\nConvention on Biological Diversity\nILO Convention No. 182 on the Worst Forms of Child Labour"
   },
   {
-    "id": 5,
+    "id": 24,
     "oneHealthRelevance": 2,
     "instrument": "Sendai Framework for Disaster Risk Reduction (2015-2030)",
     "instrumentType": "Framework / Strategy",
@@ -1050,7 +1050,7 @@
     "interlinkages": "International Health Regulations"
   },
   {
-    "id": 6,
+    "id": 25,
     "oneHealthRelevance": 2,
     "instrument": "WHO Global Action Plan on Antimicrobial Resistance",
     "instrumentType": "Action Plan / Strategy",
@@ -1099,7 +1099,7 @@
     "interlinkages": "Code of Practice to Minimize and Contain Foodborne Antimicrobial Resistance (CXC 61-2005), the Guidelines for Risk Analysis of Foodborne Antimicrobial Resistance (CXG 77-2011), and the Guidelines on Integrated Monitoring and Surveillance of Foodborne Antimicrobial Resistance (CXG 94-2021)\nWOAH Strategy on Antimicrobial Resistance"
   },
   {
-    "id": 7,
+    "id": 26,
     "oneHealthRelevance": 3,
     "instrument": "WOAH Strategy on Antimicrobial Resistance (AMR)",
     "instrumentType": "Strategy",
@@ -1136,7 +1136,7 @@
     "interlinkages": "Code of Practice to Minimize and Contain Foodborne Antimicrobial Resistance (CXC 61-2005), the Guidelines for Risk Analysis of Foodborne Antimicrobial Resistance (CXG 77-2011), and the Guidelines on Integrated Monitoring and Surveillance of Foodborne Antimicrobial Resistance\nWHO global action plan on antimicrobial resistance"
   },
   {
-    "id": 8,
+    "id": 27,
     "oneHealthRelevance": 3,
     "instrument": "WHA 72(9) WHO global strategy on health, environment and climate change: the transformation needed to improve lives and well-being sustainably through healthy environments",
     "instrumentType": "Resolution / Strategy",
@@ -1179,7 +1179,7 @@
     "interlinkages": "UNFCCC\nParis Agreement\nGlobal Action Plan on Climate Change and Health (A78/27)"
   },
   {
-    "id": 9,
+    "id": 28,
     "oneHealthRelevance": 3,
     "instrument": "Codex Code of Practice to Minimize and Contain Foodborne AMR (CXC 61-2005, revised 2021)",
     "instrumentType": "Code of Practice",
@@ -1221,7 +1221,7 @@
     "interlinkages": "WTO SPS Agreement\nWHO Global Action Plan on AMR\nWOAH AMR Strategy"
   },
   {
-    "id": 10,
+    "id": 29,
     "oneHealthRelevance": 2,
     "instrument": "Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995, Revised 2023)",
     "instrumentType": "Standard",
@@ -1258,7 +1258,7 @@
     "interlinkages": "WTO SPS Agreement"
   },
   {
-    "id": 11,
+    "id": 30,
     "oneHealthRelevance": 3,
     "instrument": "General Principles of Food Hygiene (CXC 1-1969, Revised 2022)",
     "instrumentType": "Code of Practice / Standard",
@@ -1299,7 +1299,7 @@
     "interlinkages": "WTO SPS Agreement"
   },
   {
-    "id": 12,
+    "id": 31,
     "oneHealthRelevance": 3,
     "instrument": "Decision 15/4: Kunming-Montreal Global Biodiversity Framework",
     "instrumentType": "COP Decision",
@@ -1343,7 +1343,7 @@
     "interlinkages": "UN Convention on Biological Diversity\nCBD Decision 16/19 (Biodiversity & Health)"
   },
   {
-    "id": 13,
+    "id": 32,
     "oneHealthRelevance": 3,
     "instrument": "One Health Joint Plan of Action",
     "instrumentType": "Strategy / Action Plan",
@@ -1393,7 +1393,7 @@
     "interlinkages": ""
   },
   {
-    "id": 14,
+    "id": 33,
     "oneHealthRelevance": 2,
     "instrument": "MRLs and Risk Management Recommendations for Residues of Veterinary Drugs in Foods (CXM 2-2023)",
     "instrumentType": "Standard / Compendium",
@@ -1430,7 +1430,7 @@
     "interlinkages": "WTO SPS Agreement"
   },
   {
-    "id": 15,
+    "id": 34,
     "oneHealthRelevance": 3,
     "instrument": "Decision 16/19: Global Action Plan for Biodiversity and Health",
     "instrumentType": "COP Decision",
@@ -1474,7 +1474,7 @@
     "interlinkages": "Convention on Biological Diversity\nKunming-Montreal GBF"
   },
   {
-    "id": 16,
+    "id": 35,
     "oneHealthRelevance": 3,
     "instrument": "Provisional Voluntary Code of Conduct on the Sustainable Management of Plastics in Agriculture",
     "instrumentType": "Voluntary Code of Conduct",
@@ -1515,7 +1515,7 @@
     "interlinkages": "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal\nInternational Code of Conduct on Pesticide Management"
   },
   {
-    "id": 17,
+    "id": 36,
     "oneHealthRelevance": 3,
     "instrument": "WOAH One Health Strategy",
     "instrumentType": "Strategy",
@@ -1560,7 +1560,7 @@
     "interlinkages": "One Health Joint Plan of Action\nInternational Health Regulations (IHR)"
   },
   {
-    "id": 18,
+    "id": 37,
     "oneHealthRelevance": 3,
     "instrument": "Global Action Plan on Climate Change and Health (A78/27)",
     "instrumentType": "Action Plan",
@@ -1608,7 +1608,7 @@
     "interlinkages": "UN Framework Convention on Climate Change\nParis Agreement\nWHA 72(9) Global Strategy on Health, Environment & Climate Change"
   },
   {
-    "id": 19,
+    "id": 38,
     "oneHealthRelevance": 3,
     "instrument": "Global strategy for the prevention and control of high pathogenic avian influenza (2024–2033)",
     "instrumentType": "Strategy",
@@ -1650,11 +1650,11 @@
     "provisions": "Objective 1, pg. 5: Using a One Health approach to prevent, detect early and rapidly respond is key to reducing the devastating impacts of HPAI outbreaks in domestic and wild animals, and to preventing virus spillover/spillback to wild animals and humans.\n\nOutput 3.1, pg. 11: The strategy supports transformation of poultry agrifood systems... using participatory processes involving poultry producers, wildlife ecologists, public health, and consumer groups to promote safe, resilient, and sustainable production aligned with One Health goals.\n\nOutput 1.1, pg. 7: Integrated One Health approaches for risk-based surveillance, prevention and response are required to address threats... Surveillance of diseases in wildlife should be integrated into wildlife management and conservation systems.",
     "interlinkages": "International Health Regulations\nPIP Framework\nTerrestrial Animal Health Code"
   }
-]
+
 ,
 
   {
-    "id": 1,
+    "id": 39,
     "oneHealthRelevance": 3,
     "instrument": "Ramsar Resolution IX.23: Highly pathogenic avian influenza and its consequences for wetland and waterbird conservation and wise use",
     "instrumentType": "COP Resolution",
@@ -1696,7 +1696,7 @@
     "interlinkages": "Ramsar Convention\nInternational Health Regulations\nWHO Pandemic Agreement\nPandemic Influenza Preparedness (PIP) Framework\nTerrestrial Animal Health Code\nCMS Resolution 14/18: Avian influenza"
   },
   {
-    "id": 2,
+    "id": 40,
     "oneHealthRelevance": 3,
     "instrument": "Ramsar Resolution VIII.18 Invasive species and wetlands",
     "instrumentType": "COP Resolution",
@@ -1736,7 +1736,7 @@
     "interlinkages": "Ramsar Convention\nConvention on Biological Diversity (CBD); Resolution Conf. 13.10 (Rev. CoP14): Trade in invasive alien species"
   },
   {
-    "id": 3,
+    "id": 41,
     "oneHealthRelevance": 3,
     "instrument": "Ramsar Resolution VIII.3: Climate change and wetlands: impacts, adaptation, and mitigation",
     "instrumentType": "COP Resolution",
@@ -1777,7 +1777,7 @@
     "interlinkages": "Ramsar Convention\nUnited Nations Framework Convention on Climate Change (UNFCCC)\nParis Agreement"
   },
   {
-    "id": 4,
+    "id": 42,
     "oneHealthRelevance": 3,
     "instrument": "Ramsar Resolution XI.12: Wetlands and health: taking an ecosystem approach",
     "instrumentType": "COP Resolution",
@@ -1819,7 +1819,7 @@
     "interlinkages": "Ramsar Convention\nInternational Health Regulations"
   },
   {
-    "id": 5,
+    "id": 43,
     "oneHealthRelevance": 3,
     "instrument": "WOAH Resolution 27: The “One Health” Approach to Address Health Risks at the Animal Human Ecosystem Interface",
     "instrumentType": "WOAH Resolution",
@@ -1862,7 +1862,7 @@
     "interlinkages": "One Health Joint Plan of Action\nInternational Health Regulations\nWHO Pandemic Agreement\nWOAH One Health Strategy"
   },
   {
-    "id": 6,
+    "id": 44,
     "oneHealthRelevance": 3,
     "instrument": "Conference Resolution 4/2015: Antimicrobial Resistance",
     "instrumentType": "FAO Conference Resolution",
@@ -1905,7 +1905,7 @@
     "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance"
   },
   {
-    "id": 7,
+    "id": 45,
     "oneHealthRelevance": 3,
     "instrument": "UNEA Resolution 2/16: Mainstreaming of biodiversity for well-being",
     "instrumentType": "UNEA Resolution",
@@ -1946,7 +1946,7 @@
     "interlinkages": "Convention on Biological Diversity (CBD)\nDecision 15/4: Kunming-Montreal Global Biodiversity Framework\nDecision 16/19: Global Action Plan for Biodiversity and Health"
   },
   {
-    "id": 8,
+    "id": 46,
     "oneHealthRelevance": 3,
     "instrument": "UNEA Resolution 3/4: Environment and Health",
     "instrumentType": "UNEA Resolution",
@@ -1988,7 +1988,7 @@
     "interlinkages": "Convention on Biological Diversity (CBD)\nDecision 15/4: Kunming-Montreal Global Biodiversity Framework\nDecision 16/19: Global Action Plan for Biodiversity and Health"
   },
   {
-    "id": 9,
+    "id": 47,
     "oneHealthRelevance": 3,
     "instrument": "Conference Resolution 6/2019: Antimicrobial Resistance",
     "instrumentType": "FAO Conference Resolution",
@@ -2031,7 +2031,7 @@
     "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance"
   },
   {
-    "id": 10,
+    "id": 48,
     "oneHealthRelevance": 3,
     "instrument": "Resolution 14: OIE's Engagement in the One Health Global Effort to Control Antimicrobial Resistance",
     "instrumentType": "WOAH Resolution",
@@ -2074,7 +2074,7 @@
     "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance\nCodex Code of Practice to Minimize and Contain Foodborne AMR (CXC 61-2005, revised 2021)"
   },
   {
-    "id": 11,
+    "id": 49,
     "oneHealthRelevance": 3,
     "instrument": "WHA 73.5: Strengthening efforts on food safety",
     "instrumentType": "WHA Resolution",
@@ -2115,7 +2115,7 @@
     "interlinkages": "Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995, Revised 2023)\nGeneral Principles of Food Hygiene (CXC 1-1969, Revised 2022)\nWTO Agreement on Sanitary and Phytosanitary Measures (SPS)"
   },
   {
-    "id": 12,
+    "id": 50,
     "oneHealthRelevance": 3,
     "instrument": "WHA 74.7: Strengthening WHO preparedness for and response to health emergencies",
     "instrumentType": "WHA Resolution",
@@ -2157,7 +2157,7 @@
     "interlinkages": "International Health Regulations\nWHO Pandemic Agreement\nPIP Framework"
   },
   {
-    "id": 13,
+    "id": 51,
     "oneHealthRelevance": 3,
     "instrument": "UNEA Resolultion 5/6: Biodiversity and Health",
     "instrumentType": "UNEA Resolution",
@@ -2199,7 +2199,7 @@
     "interlinkages": ""
   },
   {
-    "id": 14,
+    "id": 52,
     "oneHealthRelevance": 3,
     "instrument": "WHA 75.13: Global strategy on infection prevention and control",
     "instrumentType": "WHA Resolution",
@@ -2241,7 +2241,7 @@
     "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance"
   },
   {
-    "id": 15,
+    "id": 53,
     "oneHealthRelevance": 3,
     "instrument": "WHA 76.17: The impact of chemicals, waste and pollution on human health",
     "instrumentType": "WHA Resolution",
@@ -2277,7 +2277,7 @@
     "interlinkages": "Basel Convention\nRotterdam Convention\nStockholm Convention\nMinamata Convention"
   },
   {
-    "id": 16,
+    "id": 54,
     "oneHealthRelevance": 3,
     "instrument": "CMS Resolution 12.6: Wildlife health & migratory species",
     "instrumentType": "COP Resolution",
@@ -2319,7 +2319,7 @@
     "interlinkages": "Convention on the Conservation of Migratory Species of Wild Animals (CMS)\nRamsar Convention\nInternational Health Regulations"
   },
   {
-    "id": 17,
+    "id": 55,
     "oneHealthRelevance": 3,
     "instrument": "CMS Resolution 14/18: Avian influenza",
     "instrumentType": "COP Resolution",
@@ -2361,7 +2361,7 @@
     "interlinkages": "Convention on the Conservation of Migratory Species of Wild Animals (CMS)\nRamsar Convention\nInternational Health Regulations\nPandemic Influenza Preparedness (PIP) Framework\nTerrestrial Animal Health Code"
   },
   {
-    "id": 18,
+    "id": 56,
     "oneHealthRelevance": 3,
     "instrument": "Resolution Conf. 10.21 (Rev. CoP19): Transport of live specimens",
     "instrumentType": "CITES Resolution",
@@ -2397,7 +2397,7 @@
     "interlinkages": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)"
   },
   {
-    "id": 19,
+    "id": 57,
     "oneHealthRelevance": 3,
     "instrument": "Resolution Conf. 13.10 (Rev. CoP14): Trade in invasive alien species",
     "instrumentType": "CITES Resolution",
