@@ -93,21 +93,27 @@
         }
 
         // 3. Handle Searching and Filtering
+
+        
         function filterData() {
+            // 1. Get the current values from both the search box and the dropdown
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const typeFilter = document.getElementById('typeFilter').value;
-
+            // 2. Filter the data based on both conditions
             const filtered = instrumentsData.filter(item => {
-                // Search across the title and the description
-                const textToSearch = (item.instrument + " " + (item.description || "")).toLowerCase();
-                const matchesSearch = textToSearch.includes(searchTerm);
-                const matchesType = typeFilter === "" || item.type === typeFilter;
-                
-                return matchesSearch && matchesType;
-            });
+            // Search across the title (instrument) and the description
+            const textToSearch = (item.instrument + " " + (item.description || "")).toLowerCase();
+            // Check if the search term is in the text
+            const matchesSearch = textToSearch.includes(searchTerm);
+            // Check if the type matches (or if "All Categories" is selected)
+            const matchesType = typeFilter === "" || item.type === typeFilter;
+            // Only return true if BOTH conditions are met
+            return matchesSearch && matchesType;
+    });
 
-            renderCards(filtered);
-        }
+    // 3. Render the updated list
+    renderCards(filtered);
+}
 
         // 4. Modal Logic
         function formatText(text) {
