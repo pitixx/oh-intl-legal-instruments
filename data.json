@@ -938,4 +938,457 @@
     "provisions": "Objective 1, pg. 5: Using a One Health approach to prevent, detect early and rapidly respond is key to reducing the devastating impacts of HPAI outbreaks in domestic and wild animals, and to preventing virus spillover/spillback to wild animals and humans.\n\nOutput 3.1, pg. 11: The strategy supports transformation of poultry agrifood systems... using participatory processes involving poultry producers, wildlife ecologists, public health, and consumer groups to promote safe, resilient, and sustainable production aligned with One Health goals.\n\nOutput 1.1, pg. 7: Integrated One Health approaches for risk-based surveillance, prevention and response are required to address threats... Surveillance of diseases in wildlife should be integrated into wildlife management and conservation systems.",
     "interlinkages": "International Health Regulations\nPIP Framework\nTerrestrial Animal Health Code"
   }
+,
+  {
+    "id": 20,
+    "instrument": "Ramsar Resolution IX.23: Highly pathogenic avian influenza and its consequences for wetland and waterbird conservation and wise use",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2005",
+    "governingBody": "Conference of the Contracting Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Recognizes the ecological, health, and livelihood risks posed by the spread of HPAI (H5N1), rejects lethal control of wild birds and wetland habitat destruction, and calls for coordinated, multisectoral response planning and surveillance. It positions wetland integrity as critical to preventing disease spread and stresses scientific data, international cooperation, and ecosystem-based outbreak management.",
+    "governanceRole": "Encourages safe land use of environment with respect to animal health: Culling wild birds and habitat destruction are explicitly rejected as non-\"wise use\" (¶18).\nCalls for integrated contingency planning and data-sharing: Urges countries to develop multisectoral response plans and participate in international data coordination (¶16, ¶19, ¶24).\nPromotes cooperation with FAO, WHO, OIE, and CMS: Acknowledges and aligns with existing global HPAI strategies and surveillance platforms (¶7, ¶9, ¶14).",
+    "limitations": "Public health and veterinary integration is encouraged but not structurally institutionalized: Success depends on proactive cross-sector participation at the national level.\nScientific uncertainty limits attribution of disease transmission pathways: While migratory birds are acknowledged, trade and poultry vectors are under-emphasized in terms of regulation.",
+    "provisions": "¶16: Calls for integrated national and international planning linking conservation, veterinary, and health expertise.\n\n¶17–18: Rejects lethal control and habitat destruction as inappropriate and potentially harmful responses.\n\n¶19–20: Supports STRP and Scientific Task Force engagement in knowledge generation and transmission.\n\n¶21–23: Urges capacity-building, contingency planning, and enhanced farming standards.\n\n¶24: Requests the Ramsar Secretariat to coordinate with technical partners to support response and learning.",
+    "interlinkages": "Ramsar Convention\nInternational Health Regulations\nWHO Pandemic Agreement\nPandemic Influenza Preparedness (PIP) Framework\nTerrestrial Animal Health Code\nCMS Resolution 14/18: Avian influenza"
+  },
+  {
+    "id": 21,
+    "instrument": "Ramsar Resolution VIII.18 Invasive species and wetlands",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2002",
+    "governingBody": "Conference of the Contracting Parties",
+    "actionTracks": [
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Addresses the growing threat of invasive alien species (IAS) to wetland ecosystems, recognizing their ecological, economic, and health impacts. It calls for national risk assessments, early detection and rapid response, transboundary cooperation, and harmonization of IAS policies with CBD, GISP, and IUCN guidance, including aquatic, terrestrial, and climate-linked invasions.",
+    "governanceRole": "Integrates IAS control into national wetland and biodiversity policies: Encourages harmonized legislation and cross-treaty engagement (¶24).\nPromotes early detection, risk assessment, and transboundary coordination: Provides a framework for cross-sectoral ecosystem protection (¶16, ¶22).\nIncludes aquatic and terrestrial IAS in both inland and coastal wetlands: Recognizes hydrological and climate drivers of IAS spread (¶2, ¶21).",
+    "limitations": "Implementation relies on national reporting and voluntary alignment with CBD or GISP: Uptake of early warning and control tools is a domestic measure for voluntary uptake (¶4).\nRisk of access to information for implementing agencies: Training and capacity-building are encouraged but not resourced (¶26).",
+    "provisions": "¶1–2: Acknowledge the threat of IAS to ecological character and warn of climate-driven range expansions.\n\n¶16: Calls for urgent risk assessments of IAS in wetlands and use of Ramsar’s Risk Assessment Framework.\n\n¶22: Urges cooperation across transboundary wetlands and shared river/coastal systems.\n\n¶24: Instructs Parties to harmonize IAS strategies with other MEAs and national biodiversity plans.\n\n¶26: Supports regional awareness programs (e.g. Africa) and web-based guidance for early detection and management.",
+    "interlinkages": "Ramsar Convention\nConvention on Biological Diversity (CBD); Resolution Conf. 13.10 (Rev. CoP14): Trade in invasive alien species"
+  },
+  {
+    "id": 22,
+    "instrument": "Ramsar Resolution VIII.3: Climate change and wetlands: impacts, adaptation, and mitigation",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2002",
+    "governingBody": "Conference of the Contracting Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Parity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Highlights the dual role of wetlands as both vulnerable to and vital for climate change adaptation and mitigation. It urges Contracting Parties to integrate wetland resilience and carbon storage into national strategies, particularly for peatlands, and to prevent ecological damage from mitigation actions like afforestation or water diversion.",
+    "governanceRole": "Identifies wetland degradation as a risk to ecological and human resilience: Links climate vulnerability to waterborne disease, food insecurity, and disaster exposure (¶3, ¶6).\nPromotes wetland-based mitigation and adaptation: Supports peatland restoration, watershed protection, and ecosystem-based planning to reduce human and ecosystem vulnerability (¶15–17).\nEncourages collaboration with climate science bodies and other MEAs: Advances science-policy coherence across biodiversity, health, and climate frameworks (¶12, ¶22).",
+    "limitations": "Limited explicit public health framing: Focus remains on ecosystem protection, with indirect references to human health outcomes.\nNo operationalization of One Health in surveillance or planning tools: Lacks integration with ministries of health or disease-related monitoring systems.",
+    "provisions": "¶15: Calls for wetland management to reduce flooding, drought, and climate risk.\n\n¶16: Urges protection and restoration of carbon-rich wetlands like peatlands.\n\n¶17–19: Encourages integration of Ramsar guidance into UNFCCC implementation and carbon accounting.\n\n¶21–23: Requests STRP and IPCC collaboration on wetland-climate technical guidance.\n\n¶12: Highlights Ramsar–CBD–UNFCCC cooperation as a foundation for integrated climate–ecosystem–health governance.",
+    "interlinkages": "Ramsar Convention\nUnited Nations Framework Convention on Climate Change (UNFCCC)\nParis Agreement"
+  },
+  {
+    "id": 23,
+    "instrument": "Ramsar Resolution XI.12: Wetlands and health: taking an ecosystem approach",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2012",
+    "governingBody": "Conference of the Contracting Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Defines wetlands as central to human, animal, and ecosystem health. It affirms wetlands as critical settings for public health and livelihoods, embraces both One Health and Eco Health frameworks, and calls for integrated, cross-sectoral wetland management to address infectious disease risks, non-communicable burdens, waterborne diseases, and mental health.",
+    "governanceRole": "Endorses formal ecosystem approaches to health: Applies to infectious disease, non-communicable disease, mental health, and public health infrastructure (¶9, ¶11, Annex 2)\nPromotes Ramsar Technical Reports as governance tools: Includes Healthy Wetlands, Healthy People (RTR 6) and the Wetland Disease Manual (RTR 7) for integrated risk and health impact assessments (¶30, ¶31)\nSupports capacity-building and stakeholder engagement: Emphasizes wetland managers’ roles in biosecurity, surveillance, and communication (Annex 3 §§18–47)",
+    "limitations": "Health system integration depends on national interpretation: Ministries of health and veterinary authorities are not structurally engaged unless via national wetland committees.\nDisease linkages vary by ecosystem and are context-dependent: Application to human health outcomes requires health-specific policy alignment.",
+    "provisions": "¶11–12: Defines wetlands as key environments for public health, disease exposure, and well-being.\n\n¶15–17: Identifies anthropogenic threats—pollution, alien species, habitat loss—as drivers of disease emergence.\n\n¶29: Urges ecosystem-based health management across human health, wildlife, and agriculture.\n\n¶30–31: Calls for Ramsar’s Wetland Disease Manual and technical guidance to support integrated One Health risk management.\n\nAnnex 2: Summarizes key messages from Healthy Wetlands, Healthy People (Ramsar/WHO, RTR 6).",
+    "interlinkages": "Ramsar Convention\nInternational Health Regulations"
+  },
+  {
+    "id": 24,
+    "instrument": "WOAH Resolution 27: The “One Health” Approach to Address Health Risks at the Animal Human Ecosystem Interface",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2012",
+    "governingBody": "WOAH",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "The resolution promotes integrated One Health governance by linking human, animal, and ecosystem health through collaboration, strong veterinary services, and global partnerships. The resolution underscores Veterinary Services' role in preventing zoonoses, tackling antimicrobial resistance, and ensuring food safety, emphasizing intersectoral collaboration and integrated approaches. It highlights strengthening Veterinary Services, harmonizing WOAH and WHO standards, incorporating One Health into education, and using rabies control as a One Health model.",
+    "governanceRole": "Institutional coordination mechanisms: Promotes the development of cross-sectoral coordination platforms to align veterinary, public health, and environmental actions under a unified One Health approach.\nRisk-based policy design: Encourages evidence-informed strategies that integrate ecological and epidemiological data to prevent and control health risks at the animal-human-environment interface.\nMonitoring and surveillance systems: Strengthens integrated surveillance efforts across sectors to detect, assess, and respond to emerging zoonotic threats in real time.",
+    "limitations": "Fragmented veterinary and environmental integration: Veterinary services often operate independently of environmental health institutions, limiting the resolution’s call for joint action at the animal-human-ecosystem interface.\nChallenges for national veterinary services in One Health governance: In many countries, veterinary authorities lack formal mandates or decision-making power in intersectoral platforms, reducing their ability to implement the resolution’s multisectoral goals.\nBarriers to integrated surveillance systems: Persistent gaps in interagency data sharing and incompatible surveillance infrastructure across sectors hinder early detection and coordinated response to zoonotic threats.",
+    "provisions": "para 4: Recommends that (1) the Director General and the OIE Delegates advocate to governments and regional and international organisations for the fundamental role of Veterinary Services in the protection of animal, human and ecosystem health and the application of “One Health” approaches, and (5) the Director General encourage relevant OIE Reference Centres to further develop the “One Health” concept and approaches to animal disease detection, prevention and control, including economic studies, and further develop and provide capacity building programmes on implementing “One Health” approaches. \n\npara 5: The resolution encourages countries to use the WOAH PVS Tool—a diagnostic framework developed by WOAH that helps countries evaluate the capacity and performance of their national veterinary services, particularly in areas like disease surveillance, emergency response, legislation, and communication.—to identify institutional gaps, enhance veterinary governance, and benchmark progress in implementing cross-sectoral health strategies.\n\npara 8: Recommends that (8) veterinary and medical institutions and faculties worldwide be encouraged to incorporate relevant “One Health” approaches within their undergraduate and postgraduate curricula, including within continuing professional education programmes.",
+    "interlinkages": "One Health Joint Plan of Action\nInternational Health Regulations\nWHO Pandemic Agreement\nWOAH One Health Strategy"
+  },
+  {
+    "id": 25,
+    "instrument": "Conference Resolution 4/2015: Antimicrobial Resistance",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2015",
+    "governingBody": "FAO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Conference Resolution 4/2015 commits FAO to a central role in the global response to antimicrobial resistance, emphasizing a One Health approach that links agriculture, food systems, and public health. It endorses FAO’s action plan on AMR, urges Member States to develop national AMR strategies covering animal, plant, and environmental health, and calls for multisectoral cooperation with WHO and OIE (now WOAH). The resolution also directs FAO to integrate AMR into its normative work, surveillance systems, capacity building, and technical support, particularly in low- and middle-income countries.",
+    "governanceRole": "Institutional anchoring of AMR within FAO’s mandate: Gives FAO a clear leadership role on AMR in food, agriculture, and the environment, reinforcing its legitimacy in One Health coordination.\nSupport for multisectoral national action plans: Encourages Members to develop and implement cross-sectoral AMR strategies, promoting whole-of-government approaches.\nIntegration of AMR into food safety and surveillance systems: Links AMR to Codex, veterinary services, and national monitoring frameworks, enabling aligned standards and data systems.",
+    "limitations": "Limited operational detail on environmental implementation: Acknowledges environmental drivers of AMR but lacks concrete mechanisms or targets for environmental sector engagement.\nVoluntary nature weakens accountability: Encourages action but does not require binding commitments, leaving implementation uneven across Member States.\nNarrow focus on food and agriculture sectors: Does not fully address integration with human health systems, limiting its reach as a truly unified One Health instrument.",
+    "provisions": "Preamble, para 6: “Recognizes the need for a One Health approach to address AMR in humans, animals, plants and the environment…”\n\nOP 1: \"Endorses the FAO Action Plan on Antimicrobial Resistance and requests the Organization to implement it as a matter of priority...\"\n\nOP2: \"Urges Members to develop or strengthen national strategies and action plans on AMR… involving human, animal, plant and environmental health sectors.\"",
+    "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance"
+  },
+  {
+    "id": 26,
+    "instrument": "UNEA Resolution 2/16: Mainstreaming of biodiversity for well-being",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2016",
+    "governingBody": "UNEP",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "This resolution calls on governments to integrate biodiversity conservation and sustainable use into national policy and development agendas, particularly those aligned with the 2030 Agenda for Sustainable Development. It encourages cross-sectoral collaboration in agriculture, forestry, fisheries, and tourism, and other sectors to enhance human well-being and enjoyment of a healthy environment.",
+    "governanceRole": "Supports biodiversity mainstreaming across development sectors: Encourages integrated governance to link biodiversity with health, agriculture, tourism, and environmental outcomes (OP 3).\nAligns biodiversity conservation with the SDGs and Aichi Targets: Encourages Member States to use biodiversity frameworks as a unifying lens for intersectoral cooperation (OP 2).\nBuilds political momentum for biodiversity-health integration: Reaffirms support for the CBD and upcoming biodiversity conferences as coordination milestones (OP 1, OP 4)",
+    "limitations": "Focuses on planning over implementation: Emphasis on alignment and participation lacks concrete guidance for national-level One Health execution.",
+    "provisions": "OP 1: Recognizes the CBD COP-13 and its theme of “Mainstreaming biodiversity for well-being.”\n\nOP 2: Encourages alignment between biodiversity-related conventions and the 2030 Agenda for Sustainable Development.\n\nOP 3: Urges integration of biodiversity conservation into national development sectors (agriculture, forestry, fisheries, tourism), with explicit links to human health and well-being.",
+    "interlinkages": "Convention on Biological Diversity (CBD)\nDecision 15/4: Kunming-Montreal Global Biodiversity Framework\nDecision 16/19: Global Action Plan for Biodiversity and Health"
+  },
+  {
+    "id": 27,
+    "instrument": "UNEA Resolution 3/4: Environment and Health",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2017",
+    "governingBody": "UNEP",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "This resolution comprehensively addresses the interlinkages between environment and health, including pollution, biodiversity loss, climate change, sustainable consumption and production, antimicrobial resistance (AMR), and vector-borne and noncommunicable diseases. It frames these challenges within a systems approach, promotes One Health, and calls for integrated governance, regional cooperation, and sound management of chemicals, waste, and climate-health risks.",
+    "governanceRole": "Operationalizes One Health across environmental clusters: Calls for joint action on biodiversity, climate, chemicals, and AMR using a One Health approach (OP 24, 32, 33)\nExpands the environment–health evidence base: Requests UNEP, in collaboration with WHO, FAO, and WOAH, to develop guidelines and reports on environmental determinants of health (OP 7, 16, 22, 26)\nPromotes regional and national multisectoral coordination platforms: Supports regional forums and inter-ministerial collaboration across sectors (OP 6, 8, 27)",
+    "limitations": "No formal mandates for intersectoral coordination mechanisms: Implementation depends on voluntary national action and cross-ministerial cooperation without institutional mandates (OP 6, 27)\nLimited monitoring and follow-up structures: While it requests reporting (OP 41), there are no concrete indicators or compliance tracking mechanisms for One Health integration\nFunding and capacity constraints: LMICs may face barriers to implementing ambitious actions across chemicals, biodiversity, and AMR without designated resource streams",
+    "provisions": "OP 24: Emphasizes the One Health approach across human, animal, plant, and ecosystem health.\n\nOP 25–27: Encourages biodiversity-health policy integration, intersectoral dialogue, and ecosystem valuation for health co-benefits.\n\nOP 29–35: Calls for One Health-based AMR governance and monitoring of environmental sources and pathways.",
+    "interlinkages": "Convention on Biological Diversity (CBD)\nDecision 15/4: Kunming-Montreal Global Biodiversity Framework\nDecision 16/19: Global Action Plan for Biodiversity and Health"
+  },
+  {
+    "id": 28,
+    "instrument": "Conference Resolution 6/2019: Antimicrobial Resistance",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2019",
+    "governingBody": "FAO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Resolution 6/2019 reaffirms FAO’s leadership role in addressing AMR through a One Health approach, and calls for coordination across sectors and agencies. It endorses ongoing collaboration with WHO, WOAH, and UNEP; urges Members to strengthen evidence, surveillance, and prudent antimicrobial use in agriculture and the environment; and emphasizes support for developing countries and regular reporting on AMR progress.",
+    "governanceRole": "Endorses the Tripartite coordination framework: The resolution formally recognizes the expanded collaboration between FAO, WHO, WOAH, and notes UNEP workplan on AMR, as well as other relevant international organizations, by strengthening global governance of AMR by embedding environmental dimensions alongside human and animal health.\nAligns FAO’s AMR work with the WHO Global Action Plan: By calling for coordinated implementation and shared progress reporting among agencies, it fosters consistency and coherence across sectors—key to operationalizing One Health at global and national levels.\nPrioritizes technical support and equity for low- and middle-income countries: The resolution highlights the need for capacity building, access to diagnostics, vaccines, surveillance infrastructure, and prudent use policies in agriculture and food systems—empowering LMICs to participate fully in One Health-aligned AMR responses.",
+    "limitations": "Limited operational detail on environmental integration: the resolution lacks clarity on how environmental surveillance, waste management, and pollution control will be operationalized or resourced.\nAbsence of structured roles for civil society and local actors: The resolution focuses on intergovernmental cooperation but does not outline mechanisms for community engagement, local governance, or knowledge integration",
+    "provisions": "OP 1: Supports the ongoing work of FAO, including through the Tripartite collaboration with UNEP... to address antimicrobial resistance in food and agriculture systems…\n\nOP4: Encourages FAO, in close cooperation with the other Tripartite Agencies and UNEP, to establish clear coordination for implementation of the WHO Global Action Plan on Antimicrobial Resistance…\n\nOP7: Stresses the need for continued support for developing countries... to strengthen surveillance, ensure access to antimicrobials and diagnostics, and promote sustainable food systems",
+    "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance"
+  },
+  {
+    "id": 29,
+    "instrument": "Resolution 14: OIE's Engagement in the One Health Global Effort to Control Antimicrobial Resistance",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2019",
+    "governingBody": "WOAH",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "The resolution strengthens global coordination to tackle antimicrobial resistance (AMR) through a One Health approach, focusing on international collaboration, national action plans, and sustainable investments in AMR efforts. Key elements include Coordination through the Tripartite, support for National Action Plans, monitoring progress, resource mobilization via the AMR Multi-Partner Trust Fund, strengthening OIE’s role, and regular updates on AMR progress.",
+    "governanceRole": "Promotion of responsible antimicrobial stewardship: Drives national and global efforts to optimize antimicrobial use in animals, aligning veterinary practice with public health and environmental sustainability goals.\nSurveillance and data harmonization across sectors: Supports the development of integrated AMR surveillance systems, especially through WOAH’s global database (ANIMUSE), to improve data sharing and coordination across human, animal, and environmental sectors.\nCapacity building in veterinary governance: Strengthens veterinary systems through training, guidance, and policy support to implement AMR national action plans and engage effectively in One Health governance structures.",
+    "limitations": "Limited regulation of antimicrobial use in animal sectors: Many countries lack comprehensive legal frameworks to govern the use of antimicrobials in food-producing animals, undermining efforts to reduce misuse and overuse that fuel resistance.\nInconsistent AMR surveillance and reporting systems: Surveillance of antimicrobial resistance in animals is often fragmented or absent, and disparities in reporting to global systems like ANIMUSE hinder data-driven, cross-sectoral responses.\nInsufficient veterinary capacity for stewardship and enforcement: Veterinary services in several Member Countries lack the technical expertise, infrastructure, or political authority to implement AMR stewardship programs or enforce prudent-use guidelines effectively.",
+    "provisions": "Res. 14, para 3: The resolution reaffirms WOAH’s commitment to assist Member Countries in developing and implementing national AMR action plans that align with the Global Action Plan on AMR and apply a One Health lens across sectors.\n\nRes. 14, para 4: It urges Members to collect and report data on antimicrobial use in animals through WOAH’s global ANIMUSE system, and promotes harmonization of surveillance methodologies to enhance data comparability and global monitoring.\n\nRes. 14, end: The resolution encourages Members to improve legislation and governance around antimicrobial access and usage in animals, including efforts to eliminate non-therapeutic use and promote responsible veterinary practices through a permanent working group\n\nRes. 14, para 9: It urges contributions to the WOAH Partner Fund to enable low- and middle-income countries to implement national AMR plans, strengthen veterinary services, and access technical support—helping to translate guidance into action.",
+    "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance\nWOAH Strategy on Antimicrobial Resistance\nCodex Code of Practice to Minimize and Contain Foodborne AMR (CXC 61-2005, revised 2021)"
+  },
+  {
+    "id": 30,
+    "instrument": "WHA 73.5: Strengthening efforts on food safety",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2020",
+    "governingBody": "WHO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 4: Food safety risks",
+      "Track 5: AMR"
+    ],
+    "principles": [
+      "Equity",
+      "Parity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "The resolution reaffirms food safety as a core component of public health and sustainable development. Calls on Member States to strengthen national food safety systems through a One Health approach, cross-sector collaboration, and integration with health, agriculture, trade, and environment policies. Emphasizes investment in regulatory systems, surveillance, laboratory capacity, emergency response, and participation in Codex and INFOSAN. Requests WHO to update the global food safety strategy in coordination with FAO to address emerging challenges and new technologies.",
+    "governanceRole": "Promotes a One Health approach to food safety through cross-sector collaboration across health, agriculture, trade, and environment. Encourages investment, innovation, and data sharing to enhance national systems and equity across sectors.\nCalls for health-in-all-policies approach to ensure adequate collaboration to ensure sustainability, availability, and access to safe and nutritious food for all populations\nAdvocates for collaboration with other IOs: Refers to the need to increase the use of Codex standards and calls for collaboration between the WHO and FAO",
+    "limitations": "Focus remains largely on national government action, with less explicit integration of environmental sectors or community participation. Implementation may vary due to uneven national capacities and resources.",
+    "provisions": "Preamble: Underlining that a One Health approach to food safety includes managing food safety risks along the entire food and feed chain; and recognizing that the interconnection between food safety and human, animal, plant and environmental health is necessary for the protection of human life and health and food safety, and that it should be pursued in the vision and strategic objectives of WHO.\n\nOP 1(3): Urges Member States to strengthen cross-sector collaboration, using a health-in-all-policies approach, and to apply a One Health approach to promote the sustainability and availability of, and access to, safe, sufficient and nutritious food for all populations, while recognizing the importance of affordability.",
+    "interlinkages": "Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995, Revised 2023)\nGeneral Principles of Food Hygiene (CXC 1-1969, Revised 2022)\nWTO Agreement on Sanitary and Phytosanitary Measures (SPS)"
+  },
+  {
+    "id": 31,
+    "instrument": "WHA 74.7: Strengthening WHO preparedness for and response to health emergencies",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2021",
+    "governingBody": "WHO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 5: AMR",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "WHA 74.7 establishes a comprehensive roadmap for strengthening WHO and Member State capacities to prepare for and respond to health emergencies. It calls for enhanced One Health collaboration, improved surveillance, equitable access to health tools, and more effective governance. It also requests WHO to support countries with technical guidance, develop new emergency alert levels, and strengthen cross-sectoral early warning systems.",
+    "governanceRole": "Institutionalized One Health coordination at global level: Directs WHO to work with FAO, OIE (WOAH), and UNEP to develop a joint One Health strategy and workplan, formalizing cross-agency collaboration to prevent, detect, and respond to zoonotic outbreaks and health emergencies\nIntegrated early warning and surveillance systems across sectors: Calls for the strengthening of reporting mechanisms, notably the Global Early Warning System (GLEWS), and improvement of communication between human, animal, and environmental surveillance networks\nSupport for country-led, multisectoral emergency preparedness: Reinforces WHO’s role in supporting Member States to adopt all-hazard, multisectoral preparedness systems, grounded in the IHR (2005) and inclusive of One Health frameworks for detection and response",
+    "limitations": "Human health remains the dominant frame of reference: Despite referencing One Health, the resolution centers health emergencies within human health systems, limiting integration of environmental and animal health perspectives\nOne Health commitments lack operational specificity: Mandates coordination between WHO and FAO, OIE, and UNEP, but provides little detail on implementation mechanisms, accountability, or resourcing.\nMember State-driven design may marginalize non-state expertise: The WHO-led reform processes focus on Member States, potentially sidelining the voices of local communities, Indigenous knowledge holders, and frontline environmental actors critical to One Health",
+    "provisions": "OP 7(3): Urges Member States to adopt an all-hazard, multisectoral, coordinated approach in preparedness for health emergencies, recognizing the links between human, animal and environmental health and the need for a One Health approach\n\nOP 8, 9, 10: Requests the [DG], as soon as practicably possible and in consultation with Member States: … (8) to review and strengthen or reform, as applicable, existing tripartite reporting mechanisms, such as the Global Early Warning System for Major Animal Diseases (GLEWS), improving communication and information exchange across existing surveillance networks across the One Health sectors; (9) to build on and strengthen the existing cooperation between WHO, FAO, OIE and UNEP to develop options, for consideration by their respective governing bodies, including establishing a common strategy on One Health, including a joint workplan on One Health to improve prevention, monitoring, detection, control and containment of zoonotic disease outbreaks; (10) to report on efforts to accumulate expertise on and raise visibility of One Health issues with a specific focus on zoonoses, including from wildlife, through the work of the One Health High Level Expert Panel ….\n\nOP 8(2): CALLS ON international actors, partners, civil society and the private sector to strengthen partnerships, global coordination and cooperation in response to infectious diseases based on lessons learned from the COVID-19 pandemic and previous public health emergencies of international concern and fostering a One Health, whole-of-society and health systems strengthening approach, including between WHO and relevant multilateral organizations, including the signatory agencies of the global action plan for healthy lives and well-being for all …",
+    "interlinkages": "International Health Regulations\nWHO Pandemic Agreement\nPIP Framework"
+  },
+  {
+    "id": 32,
+    "instrument": "UNEA Resolution 5/6: Biodiversity and Health",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2022",
+    "governingBody": "UNEP",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "This resolution formally recognizes the interlinkages between biodiversity, ecosystem health, and human well-being. It emphasizes the role of One Health in preventing pandemics, supports coordinated action on biodiversity loss and environmental drivers of disease, and encourages integration of biodiversity-health considerations across national and international policies.",
+    "governanceRole": "Promotes capacity building and financing for LMICs: Encourages international cooperation and funding for health–environment programs in vulnerable settings (OP 9, OP 12)\nAligns biodiversity protection with zoonotic disease prevention: Connects restoration, conservation, and sustainable use to reduced disease emergence risk (OP 2, OP 8)\nHighlights health risks in the event of adverse events: Frames the need for monitoring and surveillance within the context of spillover events",
+    "limitations": "Health sector engagement is advisory, not structural: While supportive, the resolution does not require engagement or collaboration with health ministries or health surveillance systems in biodiversity governance, which would improve effective implementation\nNo measurable benchmarks or accountability indicators: The resolution lacks outcome metrics to track biodiversity–health integration progress",
+    "provisions": "OP 2: Encourages countries to mainstream biodiversity-health linkages in national programs and policies.\n\nOP 5: Encourages Member States to reduce zoonotic spillover and prevent pandemics through sustainable use and biodiversity restoration.\n\nOP 12: Calls on international partners to support developing countries with capacity building and financing for biodiversity-health priorities.\n\nOP 13: Highlights antimicrobial resistance as a priority issue tied to environmental transmission and pollution",
+    "interlinkages": "Convention on Biological Diversity (CBD)\nDecision 15/4: Kunming-Montreal Global Biodiversity Framework\nDecision 16/19: Global Action Plan for Biodiversity and Health"
+  },
+  {
+    "id": 33,
+    "instrument": "WHA 75.13: Global strategy on infection prevention and control",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2022",
+    "governingBody": "WHO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 4: Food safety risks",
+      "Track 5: AMR"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "WHA 75.13 mandates the development of a global strategy on infection prevention and control (IPC) to strengthen health systems and reduce the burden of healthcare-associated infections and antimicrobial resistance. It urges Member States to implement and monitor IPC programs across all levels of care, incorporate a One Health approach, and align efforts with existing frameworks on AMR, WASH, and health emergencies. It also tasks WHO with creating a measurable action plan through 2030, supported by ongoing technical guidance and biennial progress reporting.",
+    "governanceRole": "Integration of IPC with AMR, WASH, and emergency response systems: Calls for IPC programs to be aligned with national strategies on antimicrobial resistance, water and sanitation, and health emergencies, creating cross-sectoral entry points for One Health coordination.\nWorkforce development and education: Emphasizes creating IPC-specific career pathways, mandates, and accredited education programs—enabling health systems to build skilled, accountable IPC leadership across settings.\nMeasurable, system-wide implementation and monitoring: Establishes a framework for national and facility-level IPC implementation, monitored through WHO core components and a forthcoming action plan with 2030 targets—creating institutional accountability for One Health-aligned infection control.",
+    "limitations": "Weak IPC presence outside hospitals: When infection control is narrowly confined to hospitals, it disrupts One Health-aligned governance by excluding the community, long-term care, and home-based sectors, where risks related to zoonoses, environmental exposures, and antimicrobial misuse can also arise. This undermines system-wide resilience and One Health coordination.\nFragmented HAI and AMR data: The lack of integrated, multilevel monitoring of healthcare-associated infections and resistance patterns prevents public health, veterinary, and environmental authorities from coordinating early responses\nIPC professionals lack structural authority to drive multisectoral alignment: Without defined mandates and recognition, IPC leads cannot participate meaningfully in national or multisectoral governance platforms, which limits their ability to contribute to One Health-aligned planning on AMR, emergency response, or health facility design.",
+    "provisions": "OP3, Section 1: Calls on Member States: … (3) to take steps to support and/or to ensure that science-based functional infection prevention and control programmes exist – for both community-acquired and health care-associated infections, taking into account the One Health approach – are implemented, monitored and updated at national, subnational, and/or facility levels, as appropriate to national contexts and in line with WHO’s core components of such programmes...\n\nOP6, Section 1: Calls on Member States… to ensure that sustainable IPC, water, sanitation and hygiene infrastructures and resources are in place and utilized across all healthcare facilities, including in primary healthcare, home and community-based settings, and long-term care…\n\nOP2, Section 2: Requests the Director-General… to translate this global strategy… into an action plan for infection prevention and control, including a framework for tracking progress with clear measurable targets to be achieved by 2030",
+    "interlinkages": "WHO Global Action Plan on Antimicrobial Resistance"
+  },
+  {
+    "id": 34,
+    "instrument": "WHA 76.17: The impact of chemicals, waste and pollution on human health",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2023",
+    "governingBody": "WHO",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "The resolution calls upon Member States to strengthen their commitments to the WHO Global Strategy on Health, Environment, and Climate in order to address the risk of plastics, hazardous chemicals, and waste to health by continuing to support cross-sectoral policy engagement on these topics to minmize human harm and understand the impacts of chemical production.",
+    "governanceRole": "Strengthening of surveillance, biomonitoring, and poison control systems The resolution and DG report both emphasize the need to build national capacity in biomonitoring, poison centres, and surveillance of chemical exposures, including human biomonitoring systems and early warning networks. This supports a One Health model of integrated risk detection across sectors​.\nInstitutionalization of multisectoral governance through the Global Framework on Chemicals: The DG report notes that the newly adopted Global Framework on Chemicals promotes integrated legal and institutional mechanisms across health, environment, labor, and agriculture sectors. \nAlignment of chemical and pollution policy with broader health goals: The resolution enables the integration of environmental health risks into core public health priorities, encouraging health systems to account for pollution as a key social determinant",
+    "limitations": "Fragmented governance across sectors managing chemicals and waste: The report highlights a lack of coherent legal and institutional structures that link health with environmental, labor, and agricultural agencies, limiting coordinated action​\nWeak national systems for biomonitoring and poison control: Many countries lack functioning poison centres and systems to track chemical exposures in humans, undermining early detection and response to environmental health threats\nLimited health sector engagement in pollution policy: Despite high disease burdens, health ministries often play a marginal role in environmental and waste governance, especially in implementing frameworks like the Global Framework on Chemicals",
+    "provisions": "WHA76.17, para 1: Urges Member States to take the impact of chemicals, waste and pollution on human health into account in relevant national, regional and international policies, plans and processes, including those related to chemicals and waste, air and water quality, and food safety”\n\nWHA76.17, para 4: Requests the Director General: (1) to publish a report, incorporating science and risk based-assessments and conclusions on the human health implications of chemicals, waste and pollution as well as reporting on existing data gaps, including from a One Health approach, ensuring data disaggregation by sex, age, disability and any other relevant factor, that takes into account persistent and bio accumulative and persistent and mobile substances, as well as substances that are carcinogenic, mutagenic or reprotoxic, neurotoxic, immunotoxin or harmful to cardiovascular, respiratory and other organ systems, or endocrine disruptors; (2) in consultation with other One Health Quadripartite members, to further develop research on the linkages among human and animal health and the environment, such as in the case of chemicals, waste and pollution",
+    "interlinkages": "Basel Convention\nRotterdam Convention\nStockholm Convention\nMinamata Convention"
+  },
+  {
+    "id": 35,
+    "instrument": "CMS Resolution 12.6: Wildlife health & migratory species",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2024",
+    "governingBody": "CMS Conference of the Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Affirms the interdependence of wildlife, human, and ecosystem health, emphasizing disease prevention, non-infectious threats (e.g., pollution, stress), and the role of healthy ecosystems in fostering resilience. It calls for One Health-based governance, non-lethal and science-based responses, and cross-sector collaboration to address wildlife health holistically.",
+    "governanceRole": "Recognizes environmental drivers of wildlife disease beyond pathogens: Includes stressors like climate disruption, toxins, and undernutrition (Preamble, §5).\nAdvocates for upstream, non-lethal management strategies: Encourages ecosystem restoration and preventive planning rather than reactive culling or habitat destruction.\nBuilds continuity with prior wildlife-health resolutions and international guidance: Updates and consolidates previous resolutions (8.27, 9.8, 10.22), reinforcing long-term institutional memory",
+    "limitations": "Absence of a formal implementation mechanism or reporting framework: No compliance measures or timelines included.\nHealth sector roles are supportive rather than institutionalized: While the resolution is cross-sectoral, national health ministries are not mandated participants.\nData limitations in many countries undermine actionability: Acknowledged need for increased research, surveillance, and coordination, especially in the Global South",
+    "provisions": "Preamble: Recognizes the full suite of drivers of wildlife disease, including infectious, toxicological, nutritional, and climate-related causes.\n\n§2: Emphasizes that ecosystem health determines resilience across species and sectors.\n\n§4: Reiterates CMS’s commitment to non-lethal, science-based responses aligned with FAO, WOAH, Ramsar, and CBD mandates.\n\n§5: Links wildlife health deterioration to broader conservation and One Health goals, especially for migratory species.",
+    "interlinkages": "Convention on the Conservation of Migratory Species of Wild Animals (CMS)\nRamsar Convention\nInternational Health Regulations"
+  },
+  {
+    "id": 36,
+    "instrument": "CMS Resolution 14/18: Avian influenza",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2024",
+    "governingBody": "CMS Conference of the Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Addresses the threat of highly pathogenic avian influenza (HPAI) to migratory birds, ecosystems, livestock, and human health. It outlines a One Health approach for outbreak response, coordination across sectors, ecosystem protection, and prevention of zoonotic spillover, while rejecting culling and habitat destruction as response strategies.",
+    "governanceRole": "Formally applies a One Health lens to HPAI outbreak preparedness and response: Calls for virological, ecological, and epidemiological integration in planning and monitoring (¶1c, ¶4).\nRejects harmful wildlife control and habitat destruction policies: Aligns with FAO/WOAH/Ramsar guidance against lethal responses (¶2).\nEstablishes a conservation-driven surveillance model: Encourages monitoring, early warning, and wildlife data-sharing across sectors and countries (¶4, ¶5, ¶7)",
+    "limitations": "funding: Implementation is voluntary and contingent on national and donor support (¶6).\nHuman health agencies are supporting actors but not required implementers: WHO is mentioned, but national health systems are not institutionally mandated within the resolution.\nLimited guidance on integrating surveillance with public health systems: Wildlife-focused monitoring is strong, but human disease surveillance linkages are underdeveloped",
+    "provisions": "¶1: Calls for national wildlife HPAI contingency plans, cross-sectoral planning, and integrated outbreak response.\n\n¶2: Requests that responses avoid culling, habitat destruction, and environmentally harmful measures.\n\n¶3: Recommends multisectoral measures to prevent spillover and manage high-risk trade, farming, and wetland use.\n\n¶4: Supports surveillance, data-sharing, and research to assess HPAI impacts on wild bird populations.\n\n¶6: Urges donor support for Task Force recommendations; ¶7 requests integration into National Reports and future CoP reviews",
+    "interlinkages": "Convention on the Conservation of Migratory Species of Wild Animals (CMS)\nRamsar Convention\nInternational Health Regulations\nPandemic Influenza Preparedness (PIP) Framework\nTerrestrial Animal Health Code"
+  },
+  {
+    "id": 37,
+    "instrument": "Resolution Conf. 10.21 (Rev. CoP19): Transport of live specimens",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2022",
+    "governingBody": "CITES Conference of the Parties",
+    "actionTracks": [
+      "Track 1: Strengthen health systems",
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases"
+    ],
+    "principles": [
+      "Equity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Provides guidelines for the humane and health-conscious transport of live CITES-listed animals and plants. It encourages Parties to adopt IATA transport standards, minimize stress and mortality in transit, and incorporate health safeguards to reduce animal injury, cruelty, and disease transmission risk during trade. It supports collaboration with IATA, WOAH, IPPC, and other standard-setting bodies.",
+    "governanceRole": "Codifies health and welfare safeguards in international wildlife logistics: Integrates IATA and CITES transport standards into national permitting and enforcement processes (Rec. 2a, 2g, 6).\nRecognizes disease risks linked to transport-induced stress and improper handling: Addresses transport-related immunosuppression and high-mortality shipments as threats to animal health and zoonotic risk (Preamble ¶8, Rec. 3d).\nEncourages collaboration with veterinary and scientific experts: Recommends engagement of NGOs and standard-setting bodies for capacity-building (Rec. 5)",
+    "limitations": "Focus remains on species conservation and humane treatment rather than integrated disease surveillance: No direct mechanisms link transport compliance with public health monitoring.\nImplementation varies based on national capacity and regulatory frameworks: Reliant on Parties’ willingness and ability to legislate and enforce IATA/CITES guidelines.\nNon-binding nature may limit accountability: While widely respected, adoption of recommendations is voluntary and often lacks resourced follow-up",
+    "provisions": "Preamble ¶8: Acknowledges that transport stress may suppress immunity and increase infectious disease risk.\n\nRec. 2(a, g, h): Recommends that Parties use IATA standards and examine shipments at transfer points for welfare and health compliance.\n\nRec. 3(d): Directs Parties to investigate high-mortality shipments and issue recommendations to reduce recurrence.\n\nRec. 5: Invites NGOs with veterinary and transport expertise to assist Parties in effective implementation.\n\nRec. 6: Encourages application of IATA and CITES guidelines in domestic legs of international trade.",
+    "interlinkages": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)"
+  },
+  {
+    "id": 38,
+    "instrument": "Resolution Conf. 13.10 (Rev. CoP14): Trade in invasive alien species",
+    "type": "Resolution",
+    "parties": null,
+    "year": "2007",
+    "governingBody": "CITES Conference of the Parties",
+    "actionTracks": [
+      "Track 2: Emerging zoonotic epidemics",
+      "Track 3: Endemic zoonotic diseases",
+      "Track 6: Integrating the environment"
+    ],
+    "principles": [
+      "Parity",
+      "Stewardship",
+      "Transdisciplinarity"
+    ],
+    "description": "Acknowledges that international trade in live animals and plants can contribute to the spread of invasive alien species (IAS), and recommends that Parties incorporate IAS risk considerations into CITES permitting processes. It encourages collaboration between CITES and the CBD to address IAS risks within trade regulation.",
+    "governanceRole": "Integrates IAS prevention into international trade governance: Encourages national legislation to consider the biosecurity and ecological risks of species in commercial trade (Rec. 1a).\nPromotes risk consultation between importing and exporting states: Recommends bilateral communication to avoid unintended introductions (Rec. 1b).\nStrengthens cooperation between CITES and CBD: Recognizes the need for synergy between biodiversity conservation and invasive species regulation (Rec. 1c).",
+    "limitations": "No explicit integration of public health surveillance or veterinary sectors: Focuses on ecological risk, without specific consideration of zoonotic or agricultural disease vectors.\nRelies on national capacity to assess and regulate risk: Effectiveness depends on whether domestic authorities have tools and mandates to manage IAS in trade.",
+    "provisions": "Rec. 1(a): Recommends Parties consider IAS risks in domestic legislation on trade in live specimens.\n\nRec. 1(b): Advises exporters to consult with importers about domestic IAS regulations.\n\nRec. 1(c): Calls for cooperation and synergy between CITES and CBD on alien species introductions.",
+    "interlinkages": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)\nConvention on Biological Diversity (CBD)\nWTO Agreement on Sanitary and Phytosanitary Measures (SPS)"
+  }
 ]
