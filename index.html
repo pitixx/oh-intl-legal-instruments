@@ -19,7 +19,7 @@
         <div class="bg-white p-4 rounded-lg shadow-sm mb-6 flex flex-wrap gap-4 border border-gray-200">
             <input type="text" id="searchInput" placeholder="Search instruments by keyword..." class="flex-1 min-w-[250px] p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500">
             
-            <select id="categoryFilter" onchange="filterData()">
+            <select id="typeFilter" class="p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500">
               <option value="">All Categories</option>
               <option value="Treaty">Treaty</option>
               <option value="Standards">Standards</option>
@@ -82,10 +82,10 @@
                 card.onclick = () => openModal(item.id);
                 
                 card.innerHTML = `
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider">${item.type}</span>
-                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3">${item.instrument}</h3>
+                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider">${item.type || 'Unknown'}</span>
+                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3">${item.instrument || 'Untitled'}</h3>
                     <div class="flex flex-wrap gap-1 mt-auto">
-                        ${item.actionTracks.map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded border border-green-200">${track}</span>`).join('')}
+                        ${(item.actionTracks || []).map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded border border-green-200">${track}</span>`).join('')}
                     </div>
                 `;
                 grid.appendChild(card);
@@ -93,27 +93,29 @@
         }
 
         // 3. Handle Searching and Filtering
-
-        
         function filterData() {
-            // 1. Get the current values from both the search box and the dropdown
+            // Get the current values from both the search box and the dropdown
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const typeFilter = document.getElementById('typeFilter').value;
-            // 2. Filter the data based on both conditions
+            
+            // Filter the data based on both conditions
             const filtered = instrumentsData.filter(item => {
-            // Search across the title (instrument) and the description
-            const textToSearch = (item.instrument + " " + (item.description || "")).toLowerCase();
-            // Check if the search term is in the text
-            const matchesSearch = textToSearch.includes(searchTerm);
-            // Check if the type matches (or if "All Categories" is selected)
-            const matchesType = typeFilter === "" || item.type === typeFilter;
-            // Only return true if BOTH conditions are met
-            return matchesSearch && matchesType;
-    });
+                // Search across the title (instrument) and the description
+                const textToSearch = ((item.instrument || "") + " " + (item.description || "")).toLowerCase();
+                
+                // Check if the search term is in the text
+                const matchesSearch = textToSearch.includes(searchTerm);
+                
+                // Check if the type matches (or if "All Categories" is selected)
+                const matchesType = typeFilter === "" || item.type === typeFilter;
+                
+                // Only return true if BOTH conditions are met
+                return matchesSearch && matchesType;
+            });
 
-    // 3. Render the updated list
-    renderCards(filtered);
-}
+            // Render the updated list
+            renderCards(filtered);
+        }
 
         // 4. Modal Logic
         function formatText(text) {
@@ -126,8 +128,8 @@
             const item = instrumentsData.find(i => i.id === id);
             if (!item) return;
 
-            document.getElementById('modalType').textContent = item.type;
-            document.getElementById('modalTitle').textContent = item.instrument;
+            document.getElementById('modalType').textContent = item.type || '';
+            document.getElementById('modalTitle').textContent = item.instrument || '';
             
             const metaInfo = [
                 item.governingBody ? `<strong>Body:</strong> ${item.governingBody}` : '',
