@@ -26,7 +26,7 @@
               <option value="Framework">Framework</option>
               <option value="Strategy">Strategy</option>
               <option value="Codes of Conduct">Codes of Conduct</option>
-              <option value="Resolution">Resolution</option>
+              <option value="Resolutions">Resolutions</option>
             </select>
         </div>
 
@@ -77,13 +77,29 @@
             
             data.forEach(item => {
                 const card = document.createElement('div');
-                // Added cursor-pointer and an onclick event to trigger the modal
-                card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-lg hover:border-blue-300 transition cursor-pointer flex flex-col h-full';
+                // Added 'relative' so the top-right badge positions correctly inside the card
+                card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-lg hover:border-blue-300 transition cursor-pointer flex flex-col h-full relative';
                 card.onclick = () => openModal(item.id);
                 
+                // Determine One Health relevance styling
+                const relevance = item.oneHealthRelevance;
+                let badgeColor = 'bg-gray-100 text-gray-700 border-gray-300';
+                if (relevance === 3) {
+                    badgeColor = 'bg-green-100 text-green-800 border-green-300';
+                } else if (relevance === 2) {
+                    badgeColor = 'bg-yellow-100 text-yellow-800 border-yellow-300';
+                } else if (relevance === 1) {
+                    badgeColor = 'bg-red-100 text-red-800 border-red-300';
+                }
+
                 card.innerHTML = `
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider">${item.type || 'Unknown'}</span>
-                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3">${item.instrument || 'Untitled'}</h3>
+                    <div class="absolute top-4 right-4">
+                        <span class="text-xs font-bold px-2.5 py-1 rounded-full border ${badgeColor}" title="One Health Relevance: ${relevance}">
+                            OH: ${relevance !== undefined ? relevance : 'N/A'}
+                        </span>
+                    </div>
+                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider pr-16">${item.type || 'Unknown'}</span>
+                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3 pr-12">${item.instrument || 'Untitled'}</h3>
                     <div class="flex flex-wrap gap-1 mt-auto">
                         ${(item.actionTracks || []).map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded border border-green-200">${track}</span>`).join('')}
                     </div>
@@ -94,32 +110,21 @@
 
         // 3. Handle Searching and Filtering
         function filterData() {
-            // Get the current values from both the search box and the dropdown
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const typeFilter = document.getElementById('typeFilter').value;
             
-            // Filter the data based on both conditions
             const filtered = instrumentsData.filter(item => {
-                // Search across the title (instrument) and the description
                 const textToSearch = ((item.instrument || "") + " " + (item.description || "")).toLowerCase();
-                
-                // Check if the search term is in the text
                 const matchesSearch = textToSearch.includes(searchTerm);
-                
-                // Check if the type matches (or if "All Categories" is selected)
                 const matchesType = typeFilter === "" || item.type === typeFilter;
-                
-                // Only return true if BOTH conditions are met
                 return matchesSearch && matchesType;
             });
 
-            // Render the updated list
             renderCards(filtered);
         }
 
         // 4. Modal Logic
         function formatText(text) {
-            // Converts line breaks in the JSON text into actual HTML paragraph breaks
             if (!text) return '<p class="text-gray-500 italic">No information available.</p>';
             return text.split('\n').map(para => para.trim()).filter(para => para).map(para => `<p class="mb-2">${para}</p>`).join('');
         }
@@ -193,14 +198,12 @@
             document.body.classList.remove('modal-open');
         }
 
-        // Close modal when clicking outside the white box
         document.getElementById('instrumentModal').addEventListener('click', function(e) {
             if (e.target === this) {
                 closeModal();
             }
         });
 
-        // Event Listeners for the inputs
         document.getElementById('searchInput').addEventListener('input', filterData);
         document.getElementById('typeFilter').addEventListener('change', filterData);
     </script>
