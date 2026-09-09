@@ -77,29 +77,33 @@
             
             data.forEach(item => {
                 const card = document.createElement('div');
-                // Added 'relative' so the top-right badge positions correctly inside the card
                 card.className = 'bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-lg hover:border-blue-300 transition cursor-pointer flex flex-col h-full relative';
                 card.onclick = () => openModal(item.id);
                 
-                // Determine One Health relevance styling
+                // Map One Health relevance to Unicode circles
                 const relevance = item.oneHealthRelevance;
-                let badgeColor = 'bg-gray-100 text-gray-700 border-gray-300';
+                let circleSymbol = '';
+                let badgeColor = 'bg-gray-100 border-gray-200';
+
                 if (relevance === 3) {
-                    badgeColor = 'bg-green-100 text-green-800 border-green-300';
+                    circleSymbol = '\u{1F7E2}'; // Green circle
+                    badgeColor = 'bg-green-50 border-green-200';
                 } else if (relevance === 2) {
-                    badgeColor = 'bg-yellow-100 text-yellow-800 border-yellow-300';
+                    circleSymbol = '\u{1F7E0}'; // Orange circle
+                    badgeColor = 'bg-yellow-50 border-yellow-200';
                 } else if (relevance === 1) {
-                    badgeColor = 'bg-red-100 text-red-800 border-red-300';
+                    circleSymbol = '\u{1F534}'; // Red circle
+                    badgeColor = 'bg-red-50 border-red-200';
                 }
 
                 card.innerHTML = `
                     <div class="absolute top-4 right-4">
-                        <span class="text-xs font-bold px-2.5 py-1 rounded-full border ${badgeColor}" title="One Health Relevance: ${relevance}">
-                            OH: ${relevance !== undefined ? relevance : 'N/A'}
+                        <span class="text-sm px-2 py-1 rounded-full border shadow-sm ${badgeColor}" title="One Health Relevance: ${relevance !== undefined ? relevance : 'Unknown'}">
+                            ${circleSymbol}
                         </span>
                     </div>
-                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider pr-16">${item.type || 'Unknown'}</span>
-                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3 pr-12">${item.instrument || 'Untitled'}</h3>
+                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wider pr-12">${item.type || 'Unknown'}</span>
+                    <h3 class="text-lg font-semibold mt-2 mb-4 line-clamp-3 pr-10">${item.instrument || 'Untitled'}</h3>
                     <div class="flex flex-wrap gap-1 mt-auto">
                         ${(item.actionTracks || []).map(track => `<span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded border border-green-200">${track}</span>`).join('')}
                     </div>
