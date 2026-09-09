@@ -19,12 +19,14 @@
         <div class="bg-white p-4 rounded-lg shadow-sm mb-6 flex flex-wrap gap-4 border border-gray-200">
             <input type="text" id="searchInput" placeholder="Search instruments by keyword..." class="flex-1 min-w-[250px] p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500">
             
-            <select id="typeFilter" class="p-2 border border-gray-300 rounded bg-white focus:outline-none focus:ring-2 focus:ring-blue-500">
-                <option value="">All Types</option>
-                <option value="Treaty">Treaty</option>
-                <option value="Codes of Conduct">Codes of Conduct</option>
-                <option value="Guidelines">Guidelines</option>
-                <option value="Policy brief">Policy brief</option>
+            <select id="categoryFilter" onchange="filterData()">
+              <option value="">All Categories</option>
+              <option value="Treaty">Treaty</option>
+              <option value="Standards">Standards</option>
+              <option value="Framework">Framework</option>
+              <option value="Strategy">Strategy</option>
+              <option value="Codes of Conduct">Codes of Conduct</option>
+              <option value="Resolution">Resolution</option>
             </select>
         </div>
 
