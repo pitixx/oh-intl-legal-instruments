@@ -3,55 +3,23 @@
     "id": 1,
     "instrument": "International Plant Protection Convention (IPPC)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.ippc.int/en/publications/131/",
-    "numberParties": "185",
+    "parties": "185",
     "year": "1951, 1997",
     "governingBody": "Commission on Phytosanitary Measures (FAO)",
     "description": "Aims to prevent the introduction and spread of plant pests across borders while facilitating safe trade. Establishes standards for phytosanitary measures, encourages harmonization, and creates a framework for international surveillance, certification, and response.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens national plant health systems and surveillance, building capacity for pest detection."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Prevents international spread of pests affecting food security and ecological balance."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Establishes global standards for phytosanitary certification, supporting safe trade."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Links plant protection with broader environmental health by preventing ecosystem destabilization."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Reinforces equitable responsibilities across countries through harmonized plant health measures."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Aims to preserve ecological balance by preventing the spread of invasive plant pests."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes prevention over reaction, promoting long-term environmental stewardship."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Facilitates cross-sectoral and intergovernmental collaboration through regional organizations."
-      }
+      "Equity: Reinforces equitable responsibilities across countries through harmonized plant health measures.",
+      "Socio-ecological equilibrium: Aims to preserve ecological balance by preventing the spread of invasive plant pests.",
+      "Stewardship: Emphasizes prevention over reaction, promoting long-term environmental stewardship.",
+      "Transdisciplinarity: Facilitates cross-sectoral and intergovernmental collaboration through regional organizations."
     ],
     "governanceRole": "Legally binding framework for coordinated global plant health governance; harmonized international standards and surveillance systems; integrates plant health with trade, food security, and environmental protection.",
     "limitations": "No binding obligations on environmental monitoring or climate-related plant risks. Collaboration with other One Health instruments is not formally structured.",
@@ -62,45 +30,21 @@
     "id": 2,
     "instrument": "International Convention for Protection of New Plant Varieties (UPOV)",
     "oneHealthRelevance": 2,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.upov.int/edocs/pubdocs/en/upov_pub_221.pdf",
-    "numberParties": "78",
+    "parties": "78",
     "year": "1961, 1991",
     "governingBody": "Council of the Union (WIPO)",
     "description": "Provides an effective system of plant variety protection to encourage development of new varieties, granting breeders exclusive rights.",
     "actionTracks": [
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Improved plant varieties contribute to higher yield and nutrition for a stable food chain."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Encourages varieties that are climate-smart and adaptive to climate change."
-      }
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Provides benefits to breeders and farmers alike."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Supports crop innovation for environmental challenges."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Ensures future food security and sustainability."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Interdisciplinary collaboration between science, agri-business, and farmers."
-      }
+      "Equity: Provides benefits to breeders and farmers alike.",
+      "Socio-ecological equilibrium: Supports crop innovation for environmental challenges.",
+      "Stewardship: Ensures future food security and sustainability.",
+      "Transdisciplinarity: Interdisciplinary collaboration between science, agri-business, and farmers."
     ],
     "governanceRole": "Allows use of protected varieties for breeding new varieties (Breeder's Exemption). Supports climate change adaptation and capacity building for agricultural productivity.",
     "limitations": "Implementation challenges regarding testing requirements for low-resource countries. Strong breeders' rights may influence access for farmers or researchers.",
@@ -109,57 +53,25 @@
   },
   {
     "id": 3,
-    "instrument": "Convention on Wetlands of International Importance especially as Waterfowl Habitat (Ramsar Convention)",
+    "instrument": "Convention on Wetlands (Ramsar Convention)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.ramsar.org/about-convention-wetlands",
-    "numberParties": "172",
+    "parties": "172",
     "year": "1971; 1975",
     "governingBody": "Conference of the Contracting Parties (IUCN)",
     "description": "Establishes a global framework for wise use and conservation of wetlands. Parties must designate sites, maintain ecological character, and monitor changes.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds cross-sector capacity for ecosystem-public health collaboration."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Addresses ecological balance and biodiversity, mitigating zoonotic/pollution risks."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Reduces food-water-safety risks through wetland protection."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates environment into One Health by conserving ecosystems vital for health resilience."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equity by conserving wetlands vital to human-animal-environment alike."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Supports biodiversity and socio-ecological equilibrium."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Encourages stewardship and sustainable use of shared ecosystems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages multisectoral governance via national focal points, COP bodies, and public participation."
-      }
+      "Equity: Promotes equity by conserving wetlands vital to human-animal-environment alike.",
+      "Socio-ecological equilibrium: Supports biodiversity and socio-ecological equilibrium.",
+      "Stewardship: Encourages stewardship and sustainable use of shared ecosystems.",
+      "Transdisciplinarity: Encourages multisectoral governance via national focal points, COP bodies, and public participation."
     ],
     "governanceRole": "Mandated ecological monitoring and reporting. Infrastructure for cooperation via COP and STRP. Wise-use principle offering flexible implementation.",
     "limitations": "Broad obligations without binding enforcement mechanisms. Variation in implementation of 'wise use'. Limited explicit reference to human health.",
@@ -170,45 +82,21 @@
     "id": 4,
     "instrument": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://cites.org/eng/disc/text.php",
-    "numberParties": "184",
+    "parties": "184",
     "year": "1973",
     "governingBody": "Conference of the Parties (UNEP)",
     "description": "Regulates international trade in wildlife to ensure survival of vulnerable species via Appendices and permitting systems.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "States that the Convention should not alter domestic measures pertaining to public health or veterinary quarantine."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Focuses on the protection of wild flora and fauna as part of the environment."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Shared wildlife heritage."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Prevents biodiversity loss."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Humans as stewards of wildlife."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "International cooperation for enforcement."
-      }
+      "Equity: Shared wildlife heritage.",
+      "Socio-ecological equilibrium: Prevents biodiversity loss.",
+      "Stewardship: Humans as stewards of wildlife.",
+      "Transdisciplinarity: International cooperation for enforcement."
     ],
     "governanceRole": "Reduces risk of zoonotic disease emergence via reporting on pathogen spillover in trade. Collaborates with WOAH. Permitting system regulates human-animal contact points.",
     "limitations": "Limited scope focused on trade rather than broad ecosystem health. Relies on national resource availability for implementation.",
@@ -217,42 +105,22 @@
   },
   {
     "id": 5,
-    "instrument": "Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention; CMS)",
+    "instrument": "Convention on the Conservation of Migratory Species (CMS)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.cms.int/convention-text",
-    "numberParties": "131",
+    "parties": "131",
     "year": "1979; 1983",
     "governingBody": "Conference of the Parties (UNEP)",
     "description": "Provides framework to restore or maintain favorable conservation status of migratory species by protecting habitats, regulating use, and fostering regional agreements.",
     "actionTracks": [
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates environment in One Health by promoting ecosystem conservation, land management, and connectivity for population health."
-      }
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Protects species and habitats across all Parties for equitable ecosystem benefit."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Promotes socio-ecological balance by conserving migratory habitats and connectivity."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes stewardship via habitat restoration and species protection."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Advances transdisciplinarity through COP, Scientific Council, and agreements involving health/environment sectors."
-      }
+      "Equity: Protects species and habitats across all Parties for equitable ecosystem benefit.",
+      "Socio-ecological equilibrium: Promotes socio-ecological balance by conserving migratory habitats.",
+      "Stewardship: Emphasizes stewardship via habitat restoration and species protection.",
+      "Transdisciplinarity: Advances transdisciplinarity through COP and agreements involving health/environment sectors."
     ],
     "governanceRole": "Multisectoral surveillance and rapid risk response for wildlife health. Framework for cooperation via MoUs. Global data-sharing platforms.",
     "limitations": "Fragmented adoption of regional agreements. Enforcement gaps due to varying national capacities. Public health referenced only indirectly.",
@@ -263,55 +131,23 @@
     "id": 6,
     "instrument": "United Nations Convention on the Law of the Sea (UNCLOS)",
     "oneHealthRelevance": 2,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
-    "numberParties": "168",
+    "parties": "168",
     "year": "1982; 1994",
     "governingBody": "Meeting of States Parties (UN)",
     "description": "Comprehensive legal framework governing all uses of the world's oceans, establishing state rights/duties, and regulating marine environmental protection and resources.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds institutional capacity for marine monitoring and pollution response."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Addresses risks from marine pollution that drive disease emergence at the human-animal-ocean interface."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Regulates living marine resources with direct implications for aquatic food safety."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates the marine environment through binding obligations on pollution prevention."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Affirms equitable sharing of ocean resources and special requirements of developing states."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Requires conservation to maintain populations and protect fragile ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Imposes a binding duty to protect and preserve the marine environment."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Mandates global and regional cooperation for environmental standards."
-      }
+      "Equity: Affirms equitable sharing of ocean resources and special requirements of developing states.",
+      "Socio-ecological equilibrium: Requires conservation to maintain populations and protect fragile ecosystems.",
+      "Stewardship: Imposes a binding duty to protect and preserve the marine environment.",
+      "Transdisciplinarity: Mandates global and regional cooperation for environmental standards."
     ],
     "governanceRole": "Binding legal framework for marine environmental protection. Mandatory monitoring and transboundary notification. Conservation of aquatic resources.",
     "limitations": "Limited direct integration with human/animal health systems. Enforcement relies heavily on flag state compliance.",
@@ -320,47 +156,23 @@
   },
   {
     "id": 7,
-    "instrument": "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal",
+    "instrument": "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes",
     "oneHealthRelevance": 2,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.basel.int/",
-    "numberParties": "190",
+    "parties": "190",
     "year": "1989, 1992",
     "governingBody": "Conference of the Parties",
     "description": "Aims to control transboundary movement and management of hazardous wastes. Regulates export/import, prevents illegal dumping, and promotes waste risk reduction.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds national capacity for waste management and surveillance systems."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Advances safeguards against pollution and ecosystem degradation from hazardous waste."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Helps low-income countries prevent illegal dumping and environmental injustice."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Reduces toxic exposures that disrupt ecosystems, biodiversity, and food systems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embodies stewardship through waste minimization and safe disposal."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Fosters multisectoral engagement through obligations on monitoring and reporting."
-      }
+      "Equity: Helps low-income countries prevent illegal dumping and environmental injustice.",
+      "Socio-ecological equilibrium: Reduces toxic exposures that disrupt ecosystems, biodiversity, and food systems.",
+      "Stewardship: Embodies stewardship through waste minimization and safe disposal.",
+      "Transdisciplinarity: Fosters multisectoral engagement through obligations on monitoring and reporting."
     ],
     "governanceRole": "Reduces shared health risks from waste pollution. Supports national system strengthening for waste governance. Promotes international cooperation.",
     "limitations": "Focus primarily on waste management rather than broader health pathways. Variation in enforcement across contexts.",
@@ -371,109 +183,49 @@
     "id": 8,
     "instrument": "Convention on Biological Diversity (CBD)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.cbd.int/convention/text",
-    "numberParties": "196",
+    "parties": "196",
     "year": "1992, 1993",
     "governingBody": "Conference of the Parties",
     "description": "Provides an overarching framework on biodiversity targeting conservation, sustainable use, and fair/equitable sharing of genetic resources.",
     "actionTracks": [
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Pathogen sharing facilitates disease prevention and control."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Includes pathogens as genetic resources to assist with controlling zoonotic diseases."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Emphasizes importance of biodiversity as an integral pillar of the environment."
-      }
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes fair benefit sharing."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Acknowledges Indigenous knowledge."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Emphasizes biodiversity balance."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Encourages sustainable use for the future."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Supports multisector programs."
-      }
+      "Equity: Promotes fair benefit sharing.",
+      "Inclusion: Acknowledges Indigenous knowledge and marginalized voices.",
+      "Socio-ecological equilibrium: Emphasizes biodiversity balance.",
+      "Stewardship: Encourages sustainable use for the future.",
+      "Transdisciplinarity: Supports multisector programs."
     ],
     "governanceRole": "Adopted Global One Health Policy for pandemic prevention. WHO-CBD collaboration on monitoring. Risk management tools and equity focus.",
     "limitations": "Many health components remain voluntary. Lack of binding provisions to harmonize multi-sector legislation. Monitoring indicators still in development.",
     "provisions": "Article 8: In-situ conservation and managing LMO risks. Article 14: Environmental impact assessments. Article 15: Access to genetic resources.",
-    "interlinkages": "Mother Convention of Cartagena and Nagoya Protocols"
+    "interlinkages": "Cartagena and Nagoya Protocols"
   },
   {
     "id": 9,
-    "instrument": "Cartagena Protocol on Biosafety (Cartagena Protocol)",
+    "instrument": "Cartagena Protocol on Biosafety",
     "oneHealthRelevance": 3,
-    "instrumentType": "Protocol",
+    "type": "Treaty",
     "url": "https://bch.cbd.int/protocol/text",
-    "numberParties": "173",
+    "parties": "173",
     "year": "2000, 2003",
     "governingBody": "Meeting of the Parties",
     "description": "Protocol to the CBD ensuring safe transport, handling, and use of living modified organisms (LMOs) that may adversely affect biodiversity and human health.",
     "actionTracks": [
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "LMOs are agricultural and implicate food safety."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Aims to minimize biotechnology risks to the environment and human health."
-      }
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Capacity building for developing countries."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Public participation in country."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Protects biodiversity and health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Precautionary responsibility."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "International scientific cooperation."
-      }
+      "Equity: Capacity building for developing countries.",
+      "Inclusion: Public participation in country.",
+      "Socio-ecological equilibrium: Protects biodiversity and health.",
+      "Stewardship: Precautionary responsibility.",
+      "Transdisciplinarity: International scientific cooperation."
     ],
     "governanceRole": "Risk assessment guidance for LMOs. Biosafety Clearing-House for information sharing. Health-related indicators in reporting.",
     "limitations": "Primary emphasis on environmental impacts may not fully encompass human/animal health. Risk guidelines are non-binding. Resource constraints.",
@@ -482,47 +234,23 @@
   },
   {
     "id": 10,
-    "instrument": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization",
+    "instrument": "Nagoya Protocol on Access to Genetic Resources",
     "oneHealthRelevance": 3,
-    "instrumentType": "Protocol",
+    "type": "Treaty",
     "url": "https://www.cbd.int/abs/default.shtml",
-    "numberParties": "137",
+    "parties": "137",
     "year": "2010, 2014",
     "governingBody": "Meeting of the Parties",
     "description": "Protocol to the CBD providing a transparent legal framework for fair and equitable benefit-sharing arising from the utilization of genetic resources.",
     "actionTracks": [
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Ensures pathogens are shared to limit risks to epidemics."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Facilitates sharing of resources relevant to combating diseases."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Genetic resource sharing improves biodiversity as an aspect of the environment."
-      }
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Fair and equitable sharing of benefits from genetic resources."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Addresses rights of indigenous/local communities, ensuring prior informed consent."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages collaboration across research, public health, and industry."
-      }
+      "Equity: Fair and equitable sharing of benefits from genetic resources.",
+      "Inclusion: Addresses rights of indigenous/local communities, ensuring prior informed consent.",
+      "Transdisciplinarity: Encourages collaboration across research, public health, and industry."
     ],
     "governanceRole": "Framework for equitable benefit-sharing supporting health equity. ABS Clearing-House for info exchange. Capacity building for developing countries.",
     "limitations": "Varied national implementation of ABS legislation. Complex administrative processes for authorization. Legal uncertainty regarding scope interpretation.",
@@ -533,55 +261,23 @@
     "id": 11,
     "instrument": "United Nations Framework Convention on Climate Change (UNFCCC)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://unfccc.int/process-and-meetings/the-convention/history-of-the-convention/convention-documents",
-    "numberParties": "198",
+    "parties": "198",
     "year": "1992, 1994",
     "governingBody": "Conference of the Parties",
     "description": "Framework for intergovernmental efforts to tackle climate change, committing Parties to limit emissions and develop responses protecting vulnerable populations.",
     "actionTracks": [
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Frames climate change as causing adverse effects and obligates prevention."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Requires adaptation measures to reduce vulnerability to health impacts like disease."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Built on protecting the climate system in light of environmental commitments."
-      }
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Frames climate change as cross-sectoral requiring broad coordination."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Common but differentiated responsibilities explicitly recognizes inequality."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes adverse effects on ecosystems and links environmental stability to well-being."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls to protect climate system for present and future generations."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Calls for scientific cooperation, information exchange, and coordination."
-      }
+      "Equity: Frames climate change as cross-sectoral requiring broad coordination.",
+      "Inclusion: Common but differentiated responsibilities explicitly recognizes inequality.",
+      "Socio-ecological equilibrium: Recognizes adverse effects on ecosystems and links environmental stability to well-being.",
+      "Stewardship: Calls to protect climate system for present and future generations.",
+      "Transdisciplinarity: Calls for scientific cooperation, information exchange, and coordination."
     ],
     "governanceRole": "Established a Health Programme (COP26). Multisectoral agricultural initiatives. Operationalized Loss and Damage Fund. Emphasizes climate-health knowledge sharing.",
     "limitations": "Slow progress on mitigation. Finance gaps. Health is not a central component of core climate negotiations. Varied national reporting.",
@@ -592,50 +288,22 @@
     "id": 12,
     "instrument": "Paris Agreement",
     "oneHealthRelevance": 3,
-    "instrumentType": "Agreement",
+    "type": "Treaty",
     "url": "https://unfccc.int/sites/default/files/resource/parisagreement_publication.pdf",
-    "numberParties": "195",
+    "parties": "195",
     "year": "2015, 2016",
     "governingBody": "Meeting of the Parties",
     "description": "Agreement under UNFCCC aiming to limit global temperature rise via nationally determined contributions (NDCs).",
     "actionTracks": [
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Temperature reduction goals will slow the spread of vectors."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Goals are an effort to protect the environment and humans."
-      }
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Just transitions and financing for the poor."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Indigenous and human rights."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Limits warming for ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Intergenerational equity."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "All nations meant to contribute."
-      }
+      "Equity: Just transitions and financing for the poor.",
+      "Inclusion: Indigenous and human rights.",
+      "Socio-ecological equilibrium: Limits warming for ecosystems.",
+      "Stewardship: Intergenerational equity.",
+      "Transdisciplinarity: All nations meant to contribute."
     ],
     "governanceRole": "Encourages inclusive adaptation planning (Article 7.9). Glasgow Climate Pact emphasizes integrated health-climate approaches. Enhances capacity building and knowledge sharing.",
     "limitations": "Limited explicit health focus. Implementation relies on voluntary NDC fulfillment. Resource constraints for climate-related health measures.",
@@ -646,55 +314,23 @@
     "id": 13,
     "instrument": "United Nations Convention to Combat Desertification (UNCCD)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-10&chapter=27&clang=_en",
-    "numberParties": "197",
+    "parties": "197",
     "year": "1994, 1996",
     "governingBody": "Conference of the Parties",
     "description": "Legally binding agreement focused on land degradation and desertification. Promotes sustainable land management, ecosystem restoration, and climate resilience.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Supports national capacity-building for sustainable land management."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Addresses ecological shifts that create favorable conditions for zoonotic spillover."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Promotes actions to reduce vulnerability to endemic/vector-borne diseases in arid regions."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Centers environmental integrity by reversing land degradation."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Prioritizes rural/dryland communities facing degradation and health vulnerability."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Advances balance through land restoration and biodiversity conservation."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Supports long-term intergenerational responsibility for land/water."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Fosters collaboration between agriculture, climate, health, and indigenous knowledge."
-      }
+      "Equity: Prioritizes rural/dryland communities facing degradation and health vulnerability.",
+      "Socio-ecological equilibrium: Advances balance through land restoration and biodiversity conservation.",
+      "Stewardship: Supports long-term intergenerational responsibility for land/water.",
+      "Transdisciplinarity: Fosters collaboration between agriculture, climate, health, and indigenous knowledge."
     ],
     "governanceRole": "Recognizes biodiversity loss links to spillover/malnutrition. Promotes integrated land management balancing ecosystems and livelihoods. Strengthens funding mechanisms.",
     "limitations": "Health impacts are implied but not explicitly embedded in operational provisions. Implementation gaps due to limited national resources.",
@@ -705,55 +341,23 @@
     "id": 14,
     "instrument": "WTO Agreement on Sanitary and Phytosanitary Measures (SPS)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Agreement",
+    "type": "Treaty",
     "url": "https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm",
-    "numberParties": "164",
+    "parties": "164",
     "year": "1995",
     "governingBody": "WTO, SPS Committee",
     "description": "Sets rules for food safety and animal/plant health standards in international trade. Allows science-based standards while preventing arbitrary barriers.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Emphasizes science-based health protection measures and capacity."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Permits emergency measures to prevent cross-border outbreaks from imports."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Aims to enact measures against zoonoses risk in trade."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Enacts measures against foodborne risk in trade."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes scientific fairness in trade."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Prevents spread of pests/disease for animal and human health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Responsibility to protect health as a dimension of well-being."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Veterinary, plant, and health sectors must collaborate."
-      }
+      "Equity: Promotes scientific fairness in trade.",
+      "Socio-ecological equilibrium: Prevents spread of pests/disease for animal and human health.",
+      "Stewardship: Responsibility to protect health as a dimension of well-being.",
+      "Transdisciplinarity: Veterinary, plant, and health sectors must collaborate."
     ],
     "governanceRole": "Science-based approach (Article 2.2). Harmonization utilizing international standards. Capacity building for developing nations. Transparency in measures.",
     "limitations": "Harmonization across diverse contexts is complex. Some countries face ongoing resource constraints for SPS implementation.",
@@ -764,55 +368,23 @@
     "id": 15,
     "instrument": "Rotterdam Convention on the Prior Informed Consent Procedure",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.pic.int/TheConvention/Overview/TextoftheConvention/tabid/1048/",
-    "numberParties": "157",
+    "parties": "157",
     "year": "1998, 2004",
     "governingBody": "Conference of the Parties (UNEP/FAO)",
     "description": "Promotes shared responsibility in trade of hazardous chemicals. Establishes Prior Informed Consent procedure for exports, enhancing transparency and reducing health/environmental risks.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Enhances institutional capacities in chemical risk management for low-resource countries."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Reduces indirect drivers of disease by limiting toxicant exposure."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Requires consent to import hazardous pesticides that may contaminate food/feed."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates protection into global trade by regulating cross-border chemical flows."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Enables importing countries to make informed decisions over hazardous imports."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Reduces flow of pesticides/pollutants that destabilize ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advances precautionary management and transparent risk sharing."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Fosters collaboration between agriculture, health, trade, and environment."
-      }
+      "Equity: Enables importing countries to make informed decisions over hazardous imports.",
+      "Socio-ecological equilibrium: Reduces flow of pesticides/pollutants that destabilize ecosystems.",
+      "Stewardship: Advances precautionary management and transparent risk sharing.",
+      "Transdisciplinarity: Fosters collaboration between agriculture, health, trade, and environment."
     ],
     "governanceRole": "Empowers countries to prevent harmful chemical exposures across species. Builds multisectoral chemical governance capacity. Mandates science-based decision-making.",
     "limitations": "Health sector leadership varies. Listing processes involve multiple steps and time. Non-compliance challenges due to differing national capacities.",
@@ -823,55 +395,23 @@
     "id": 16,
     "instrument": "Stockholm Convention on Persistent Organic Pollutants (POPs)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://www.pops.int/TheConvention/Overview/TextoftheConvention/tabid/2232/Default.aspx",
-    "numberParties": "152",
+    "parties": "152",
     "year": "2001, 2004",
     "governingBody": "Conference of the Parties (UNEP)",
     "description": "Protects human health and the environment from bioaccumulating, persistent chemicals. Aims to eliminate/restrict POPs linked to cancer, immune disruption, etc.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens monitoring and regulatory oversight for health risk assessment."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Mitigates degradation that increases vulnerability to zoonoses."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Reduces foodborne/feed exposure by phasing out POPs."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Directly integrates environmental protection via legally binding controls on POPs."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Requires international cooperation to support low/middle-income countries."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Aims to restore equilibrium by eliminating disruptive toxic substances."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embodies stewardship via lifecycle approaches to chemical use."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Reinforces transdisciplinary collaboration across sectors."
-      }
+      "Equity: Requires international cooperation to support low/middle-income countries.",
+      "Socio-ecological equilibrium: Aims to restore equilibrium by eliminating disruptive toxic substances.",
+      "Stewardship: Embodies stewardship via lifecycle approaches to chemical use.",
+      "Transdisciplinarity: Reinforces transdisciplinary collaboration across sectors."
     ],
     "governanceRole": "Links ecosystem health to human/animal health through binding controls. Strengthens national capacity for chemical risk governance. Drives international cooperation.",
     "limitations": "Sectoral focus limits explicit One Health integration. Differences in national monitoring and regulatory systems. Cross-sector coordination mechanisms lack definition.",
@@ -882,50 +422,22 @@
     "id": 17,
     "instrument": "International Health Regulations",
     "oneHealthRelevance": 3,
-    "instrumentType": "Standard/Guideline",
+    "type": "Standards",
     "url": "https://apps.who.int/gb/bd/pdf_files/IHR_2022-en.pdf",
-    "numberParties": "196",
+    "parties": "196",
     "year": "2005, 2014, 2022, 2024",
     "governingBody": "World Health Assembly",
     "description": "Framework for international management of public health risks and emergencies. Requires reporting of significant events and capacity building.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Mandates development of minimum core capacities in surveillance/response."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Governs public health emergencies resulting in epidemics/pandemics."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Includes food safety events within its scope."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Helping weaker health systems."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Non-discrimination in control measures."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Shared responsibility to prevent and control public health risks."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Requires whole-of-government approach."
-      }
+      "Equity: Helping weaker health systems.",
+      "Inclusion: Non-discrimination in control measures.",
+      "Stewardship: Shared responsibility to prevent and control public health risks.",
+      "Transdisciplinarity: Requires whole-of-government approach."
     ],
     "governanceRole": "Enhanced early warning system. Mandates One Health multisectoral collaboration. Capacity building for developing nations. States Parties Committee supports compliance.",
     "limitations": "Resource constraints in meeting core capacities. Sovereignty considerations may lead to varied implementation during emergencies.",
@@ -936,55 +448,23 @@
     "id": 18,
     "instrument": "Minamata Convention on Mercury",
     "oneHealthRelevance": 3,
-    "instrumentType": "Convention/Treaty",
+    "type": "Treaty",
     "url": "https://minamataconvention.org/en/resources/minamata-convention-mercury-text-and-annexes",
-    "numberParties": "128",
+    "parties": "128",
     "year": "2013, 2017",
     "governingBody": "Conference of the Parties (UNEP)",
     "description": "Global treaty to protect human health and environment from anthropogenic emissions of mercury, including lifecycle measures.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens health/environmental systems through monitoring and phasing out devices."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Mitigates immune harm that heightens susceptibility to infectious disease."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Addresses mercury contamination in the food chain (fish)."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Regulates mercury releases into air, soil, and water."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equity by helping countries implement safe mercury alternatives."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Seeks equilibrium by reducing contamination of aquatic systems and food webs."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Requires parties to eliminate unnecessary mercury use and emissions."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Fosters cooperation among environmental, health, and industrial sectors."
-      }
+      "Equity: Promotes equity by helping countries implement safe mercury alternatives.",
+      "Socio-ecological equilibrium: Seeks equilibrium by reducing contamination of aquatic systems and food webs.",
+      "Stewardship: Requires parties to eliminate unnecessary mercury use and emissions.",
+      "Transdisciplinarity: Fosters cooperation among environmental, health, and industrial sectors."
     ],
     "governanceRole": "Limits cross-species neurotoxic exposure. Mandates national implementation plans linking environmental and health authorities. Supports technology transfer.",
     "limitations": "Informal sectors (artisanal gold mining) are hard to regulate. Phasing out timelines vary based on national capacity.",
@@ -995,62 +475,26 @@
     "id": 19,
     "instrument": "WHO Pandemic Agreement",
     "oneHealthRelevance": 3,
-    "instrumentType": "Agreement",
+    "type": "Treaty",
     "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA78/A78_R1-en.pdf",
-    "numberParties": "-",
-    "year": "2025, TBD",
+    "parties": "-",
+    "year": "2025",
     "governingBody": "Conference of the Parties (WHO)",
     "description": "Comprehensive global framework for pandemic prevention, preparedness, and response with equity as a core principle. Explicitly integrates a One Health approach (Article 5).",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Enhances capacities of national health systems through primary health care and infrastructure."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Requires a One Health approach, integrated surveillance, and cross-sectoral collaboration."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Requires surveillance of resistant pathogens and integration of AMR into plans."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Mandates policies that consider climate, ecosystems, and environmental drivers."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Advances equity by ensuring support for developing countries and access to countermeasures."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Strengthens inclusion of communities and Indigenous Peoples in decision-making."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Promotes socio-ecological balance by addressing environmental/human drivers of disease."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embodies stewardship through collaborative prevention protecting ecosystems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Establishes multisectoral collaboration across health, veterinary, and environment."
-      }
+      "Equity: Advances equity by ensuring support for developing countries and access to countermeasures.",
+      "Inclusion: Strengthens inclusion of communities and Indigenous Peoples in decision-making.",
+      "Socio-ecological equilibrium: Promotes socio-ecological balance by addressing environmental drivers of disease.",
+      "Stewardship: Embodies stewardship through collaborative prevention protecting ecosystems.",
+      "Transdisciplinarity: Establishes multisectoral collaboration across health, veterinary, and environment."
     ],
-    "governanceRole": "Prioritizes equity (Arts 2, 17, 18). Mandates One Health integration (Art 5). Creates pathogen access/benefit-sharing systems. Establishes COP.",
+    "governanceRole": "Prioritizes equity. Mandates One Health integration. Creates pathogen access/benefit-sharing systems. Establishes COP.",
     "limitations": "Sovereignty clauses may influence coordinated global implementation. Resource dependence. Annex timing delays details. Non-binding implementation mechanism.",
     "provisions": "Article 4: Pandemic surveillance. Article 5: One Health approach. Article 12: Pathogen Access and Benefit-Sharing System. Article 18: Sustainable financing.",
     "interlinkages": "International Health Regulations"
@@ -1059,60 +503,24 @@
     "id": 20,
     "instrument": "Terrestrial Animal Health Code",
     "oneHealthRelevance": 3,
-    "instrumentType": "Standard/Guideline",
-    "url": "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/?id=169&L=1&htmfile=sommaire.htm",
-    "numberParties": "",
+    "type": "Standards",
+    "url": "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/",
+    "parties": "",
     "year": "1968",
     "governingBody": "WOAH",
     "description": "International standards for disease prevention, zoonoses, and AMR control. Recognized reference standard under the WTO SPS Agreement.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Improves veterinary infrastructure and public health preparedness."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Establishes monitoring and response mechanisms to control disease outbreaks."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Prevents and manages zoonotic diseases in terrestrial animals."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Regulates trade/disease control in livestock and animal products for food consumption."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Seeks to control antimicrobial resistance in animals."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes collaboration between veterinary, public health, and environmental sectors."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Establishes guidelines accounting for the interconnectedness of animal, human, and environment."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Encourages responsible animal health management."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Aligns veterinary, trade, and public health policies for a holistic approach."
-      }
+      "Equity: Promotes collaboration between veterinary, public health, and environmental sectors.",
+      "Socio-ecological equilibrium: Establishes guidelines accounting for the interconnectedness of animal, human, and environment.",
+      "Stewardship: Encourages responsible animal health management.",
+      "Transdisciplinarity: Aligns veterinary, trade, and public health policies for a holistic approach."
     ],
     "governanceRole": "Comprehensive global standards. Supports cross-sectoral collaboration. Facilitates trade while ensuring health protection. Enhances surveillance/reporting.",
     "limitations": "Limited integration with environmental governance. Low-income countries struggle with recommended infrastructure capacities.",
@@ -1123,50 +531,22 @@
     "id": 21,
     "instrument": "Rio Declaration on Environment and Development",
     "oneHealthRelevance": 2,
-    "instrumentType": "Declaration",
+    "type": "Framework",
     "url": "https://icsid.worldbank.org/sites/default/files/parties_publications/C8394/Respondent%27s%20documents/RL%20-%20Legal%20Authorities/RL-0150-ENG%201992-06-13.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "1992",
     "governingBody": "UN",
     "description": "Establishes 27 principles for sustainable development, affirming sovereign rights alongside responsibility to prevent transboundary environmental harm.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Principle 9 calls for cooperation to strengthen capacity-building through scientific exchange."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Frames environmental protection as interlinked with development, promotes ecosystem integrity, and emphasizes precaution."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Affirms common but differentiated responsibilities and priority for developing countries."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Recognizes the role of women, youth, Indigenous peoples, and local communities."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Frames sustainable development as requiring harmony between humans and nature."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls to reduce unsustainable patterns and act as Earth stewards."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes international cooperation and cross-sectoral collaboration."
-      }
+      "Equity: Affirms common but differentiated responsibilities and priority for developing countries.",
+      "Inclusion: Recognizes the role of women, youth, Indigenous peoples, and local communities.",
+      "Socio-ecological equilibrium: Frames sustainable development as requiring harmony between humans and nature.",
+      "Stewardship: Calls to reduce unsustainable patterns and act as Earth stewards.",
+      "Transdisciplinarity: Promotes international cooperation and cross-sectoral collaboration."
     ],
     "governanceRole": "Normative foundation for environment-health integration. Provides equity framework for One Health governance. Establishes transboundary notification obligations.",
     "limitations": "Non-binding and declaratory. Limited direct health framing; depends on interpretation through subsequent instruments.",
@@ -1177,55 +557,23 @@
     "id": 22,
     "instrument": "Aquatic Animal Health Code",
     "oneHealthRelevance": 3,
-    "instrumentType": "Standard/Guideline",
+    "type": "Standards",
     "url": "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/",
-    "numberParties": "",
+    "parties": "",
     "year": "1995",
     "governingBody": "WOAH",
     "description": "International standards supporting the health of aquatic animals and disease control in aquatic trade.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Sets global standards for aquatic animal health."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Establishes guidelines for preventing and controlling aquatic zoonoses."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Regulates trade and food safety for aquatic animal products."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Promotes responsible antimicrobial use in aquaculture to prevent resistance."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Integrates fishery, aquaculture, and veterinary expertise."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Promotes biodiversity-conscious disease management."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Supports responsible aquaculture to prevent disease spillover and AMR."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Strengthens coordination between public health, fisheries, and environmental agencies."
-      }
+      "Equity: Integrates fishery, aquaculture, and veterinary expertise.",
+      "Socio-ecological equilibrium: Promotes biodiversity-conscious disease management.",
+      "Stewardship: Supports responsible aquaculture to prevent disease spillover and AMR.",
+      "Transdisciplinarity: Strengthens coordination between public health, fisheries, and environmental agencies."
     ],
     "governanceRole": "Provides standards for aquatic disease control. Supports a One Health approach recognizing links to food/human health. Encourages sustainable biosecurity.",
     "limitations": "Gaps in environmental regulation integration. Challenges for small-scale/informal aquaculture in meeting standards.",
@@ -1236,65 +584,25 @@
     "id": 23,
     "instrument": "The International Code of Conduct on Pesticide Management",
     "oneHealthRelevance": 3,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://openknowledge.fao.org/server/api/core/bitstreams/4aa015cc-f644-4a1a-88dc-d0c2272fca05/content",
-    "numberParties": "",
+    "parties": "",
     "year": "2014",
     "governingBody": "FAO/WHO",
     "description": "Voluntary framework for entities managing pesticides throughout their lifecycle. Promotes Integrated Pest Management and targets vulnerable groups' protection.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Calls on governments to build capacity and infrastructure for pesticide management."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Promotes practices that minimize health and environmental risks."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Addresses integrated vector management for disease control and health surveillance."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Calls for pesticide use in accordance with GAP and Codex residue limits."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Promotes biodiversity protection and minimizes adverse effects on the environment."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equitable access to safe pesticide management for developing countries."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Identifies vulnerable groups and calls for legislative protection."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Calls for biodiversity protection and IPM/IVM to reduce agroecosystem disruption."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embeds stewardship via a lifecycle approach and manufacturer responsibility."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Calls for coordinated action across governments, industry, academia, and civil society."
-      }
+      "Equity: Promotes equitable access to safe pesticide management for developing countries.",
+      "Inclusion: Identifies vulnerable groups and calls for legislative protection.",
+      "Socio-ecological equilibrium: Calls for biodiversity protection and IPM/IVM to reduce agroecosystem disruption.",
+      "Stewardship: Embeds stewardship via a lifecycle approach and manufacturer responsibility.",
+      "Transdisciplinarity: Calls for coordinated action across governments, industry, academia, and civil society."
     ],
     "governanceRole": "Establishes shared responsibilities across sectors. Strengthens national regulatory systems and surveillance capacity. Promotes IPM/IVM.",
     "limitations": "Variable implementation across countries. Relies on self-reporting with no formal compliance verification mechanism.",
@@ -1303,57 +611,25 @@
   },
   {
     "id": 24,
-    "instrument": "Sendai Framework for Disaster Risk Reduction (2015-2030)",
+    "instrument": "Sendai Framework for Disaster Risk Reduction",
     "oneHealthRelevance": 2,
-    "instrumentType": "Framework",
+    "type": "Framework",
     "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
-    "numberParties": "",
+    "parties": "",
     "year": "2015",
     "governingBody": "UN",
     "description": "Outlines targets and priorities to prevent/reduce disaster risks and losses in lives, livelihoods, and health.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Relates to health outcomes, including health facility damage reduction and worker training."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "All-hazards approach includes epidemics and pandemics."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Promotes ecosystem-based approaches to reduce environmental disaster risk."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Focus on impact to vulnerable communities."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Inclusive approach for all of society."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Promotes resilience of ecosystems and society."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Risk reduction for future generations."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Multi-sector and multi-level responses."
-      }
+      "Equity: Focus on impact to vulnerable communities.",
+      "Inclusion: Inclusive approach for all of society.",
+      "Socio-ecological equilibrium: Promotes resilience of ecosystems and society.",
+      "Stewardship: Risk reduction for future generations.",
+      "Transdisciplinarity: Multi-sector and multi-level responses."
     ],
     "governanceRole": "Promotes multisectoral disaster risk governance. Calls for enhancing health system resilience in cooperation with IHR. Promotes ecosystem approaches.",
     "limitations": "Primary emphasis is disaster risk rather than deep One Health integration. Ongoing implementation challenges in developing countries. Fragmented coordination.",
@@ -1364,65 +640,25 @@
     "id": 25,
     "instrument": "WHO Global Action Plan on Antimicrobial Resistance",
     "oneHealthRelevance": 2,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://www.who.int/publications/i/item/9789241509763",
-    "numberParties": "",
+    "parties": "",
     "year": "2015",
     "governingBody": "WHO",
     "description": "Framework for national action to combat AMR, emphasizing the One Health approach across human, animal, and agricultural sectors.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Requires training of healthcare workers, veterinarians, and farmers."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Targets agricultural antibiotic use to protect against zoonotic risks."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Monitors AMR in food."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Addresses AMR generally across domains."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Includes measures for wastewater treatment and monitoring environmental AMR genes."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Access to effective antibiotics for all."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Engaging farmers and communities."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Addresses AMR in the environment."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Antibiotic stewardship."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Explicitly mentions One Health coordination."
-      }
+      "Equity: Access to effective antibiotics for all.",
+      "Inclusion: Engaging farmers and communities.",
+      "Socio-ecological equilibrium: Addresses AMR in the environment.",
+      "Stewardship: Antibiotic stewardship.",
+      "Transdisciplinarity: Explicitly mentions One Health coordination."
     ],
     "governanceRole": "Promotes multisectoral collaboration. Focuses on capacity building via surveillance. Provides implementation blueprint for National Action Plans. Global coordination.",
     "limitations": "Low global implementation of action plans. Severe resource and financing constraints. Fragmented governance. Environmental dimension is underrepresented.",
@@ -1433,45 +669,21 @@
     "id": 26,
     "instrument": "WOAH Strategy on Antimicrobial Resistance (AMR)",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://www.woah.org/app/uploads/2021/03/en-amr-strategy-final.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2016",
     "governingBody": "WOAH",
     "description": "Supports WOAH Members to confront the threat of AMR in animals and humans, providing a framework for responsible antimicrobial use and surveillance.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Enhances capacities by promoting best practices in antimicrobial use."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Aims to reduce risks of zoonotic diseases by controlling AMR."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Directly addresses the challenge of antimicrobial resistance."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 5: Antimicrobial Resistance (AMR)"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Encourages collaboration across human, animal, and environmental health sectors."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advocates for responsible antimicrobial use to protect ecosystems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes integrated efforts among various disciplines."
-      }
+      "Equity: Encourages collaboration across human, animal, and environmental health sectors.",
+      "Stewardship: Advocates for responsible antimicrobial use to protect ecosystems.",
+      "Transdisciplinarity: Promotes integrated efforts among various disciplines."
     ],
     "governanceRole": "Facilitates international cooperation and information sharing. Promotes antimicrobial stewardship in veterinary medicine. Integrates environmental dimensions.",
     "limitations": "Implementation challenges due to varying member resources. Gaps in environmental surveillance and ecosystem monitoring.",
@@ -1482,55 +694,23 @@
     "id": 27,
     "instrument": "WHA 72(9) WHO global strategy on health, environment and climate change",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://iris.who.int/bitstream/handle/10665/331959/9789240000377-eng.pdf?sequence=1",
-    "numberParties": "",
+    "parties": "",
     "year": "2019",
     "governingBody": "WHO",
     "description": "Sets a transformative agenda to reduce deaths linked to environmental factors by 2030, calling for primary prevention and cross-sectoral policy integration.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Calls for building core public health and environmental capacities."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Addresses climate-sensitive and zoonotic diseases via early detection."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Links environmental degradation to AMR and supports integrated WASH systems."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Embeds environmental health and climate action as pillars of public health."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Empowers health sector to collaborate with other sectors on health determinants."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Addresses climate change, biodiversity loss, and pollution."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls for prevention-focused governance and environmentally sound policies."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes 'Health in All Policies' and co-developed cross-sector monitoring."
-      }
+      "Equity: Empowers health sector to collaborate with other sectors on health determinants.",
+      "Socio-ecological equilibrium: Addresses climate change, biodiversity loss, and pollution.",
+      "Stewardship: Calls for prevention-focused governance and environmentally sound policies.",
+      "Transdisciplinarity: Promotes 'Health in All Policies' and co-developed cross-sector monitoring."
     ],
     "governanceRole": "Mainstreams environmental health into public health leadership. Creates formal platforms for cross-sector coordination. Promotes integrated surveillance.",
     "limitations": "One Health framing is underdeveloped operationally. Does not create shared governance structures with environmental partners.",
@@ -1539,52 +719,24 @@
   },
   {
     "id": 28,
-    "instrument": "Codex Code of Practice to Minimize and Contain Foodborne AMR (CXC 61-2005, revised 2021)",
+    "instrument": "Codex Code of Practice to Minimize and Contain Foodborne AMR",
     "oneHealthRelevance": 3,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/fr/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B61-2005%252FCXC_061e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2021",
     "governingBody": "Joint FAO/WHO Codex Alimentarius Commission",
     "description": "Supports governments tackling foodborne AMR by addressing responsible antimicrobial use across the food chain, from production to retail.",
     "actionTracks": [
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Addresses foodborne illness as an aspect of food safety hazards."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Seeks to address AMR across One Health dimensions."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Acknowledges environmental pathways must be managed in AMR containment."
-      }
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Ensures AMR strategies benefit human and animal health."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Requires global cooperation in regulation."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Prudent antimicrobial use."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Integrates veterinary, agricultural, and public health."
-      }
+      "Equity: Ensures AMR strategies benefit human and animal health.",
+      "Inclusion: Requires global cooperation in regulation.",
+      "Stewardship: Prudent antimicrobial use.",
+      "Transdisciplinarity: Integrates veterinary, agricultural, and public health."
     ],
     "governanceRole": "Requires cross-sectoral coordination on AMR. Prompts inclusion into national AMR action plans. Promotes integrated food, animal, and human surveillance.",
     "limitations": "Scope challenges as human healthcare/environment sectors are outside Codex. Low-resource settings face implementation capacity issues.",
@@ -1593,47 +745,23 @@
   },
   {
     "id": 29,
-    "instrument": "Codex General Standard for Contaminants and Toxins in Food and Feed (CXS 193-1995, Revised 2023)",
+    "instrument": "Codex General Standard for Contaminants and Toxins in Food and Feed",
     "oneHealthRelevance": 2,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/fr/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXS%2B193-1995%252FCXS_193e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2023",
     "governingBody": "Joint FAO/WHO Codex Alimentarius Commission",
     "description": "Sets general principles and maximum levels for chemical contaminants and natural toxins in foods and animal feeds to protect public health and ensure fair trade.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens risk assessment/management of chemical hazards."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Promotes integrated food safety by including animal feed."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Manages contaminants originating from environmental pollution impacting food safety."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Addresses environmental contaminants in food production."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes risk management to prevent chemical contamination."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Integrates environmental, agricultural, and food safety sciences."
-      }
+      "Inclusion: Addresses environmental contaminants in food production.",
+      "Stewardship: Promotes risk management to prevent chemical contamination.",
+      "Transdisciplinarity: Integrates environmental, agricultural, and food safety sciences."
     ],
     "governanceRole": "Fosters collaboration among food, agriculture, and environmental authorities. Facilitates trade and harmonized global data exchange.",
     "limitations": "Requires extensive inter-sector monitoring capacity. Doesn't cover pesticides or veterinary drugs. High testing burdens for low-resource settings.",
@@ -1642,47 +770,23 @@
   },
   {
     "id": 30,
-    "instrument": "General Principles of Food Hygiene (CXC 1-1969, Revised 2022)",
+    "instrument": "General Principles of Food Hygiene",
     "oneHealthRelevance": 3,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/it/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2022",
     "governingBody": "Joint FAO/WHO Codex Alimentarius Commission",
     "description": "Provides foundational food hygiene practice codes applicable throughout the food chain to prevent contamination, establishing GHPs and HACCP systems.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Emphasizes fundamental hygiene capacities in food systems."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Focuses on strengthening assessment, management, and communication of food safety risks."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 4: Food safety risks"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Universal hygiene standards across all food sectors."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Requires safe water use and proper waste management."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes sustainable hygiene practices."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "HACCP integrates multiple food safety disciplines."
-      }
+      "Equity: Universal hygiene standards across all food sectors.",
+      "Inclusion: Requires safe water use and proper waste management.",
+      "Stewardship: Promotes sustainable hygiene practices.",
+      "Transdisciplinarity: HACCP integrates multiple food safety disciplines."
     ],
     "governanceRole": "Engages producers, veterinary professionals, and regulators. International adoption harmonizes safety measures to protect health/trade.",
     "limitations": "Focuses primarily on food handling, rarely explicitly engaging environmental authorities. Capacity concerns for small farms implementing HACCP.",
@@ -1693,60 +797,24 @@
     "id": 31,
     "instrument": "Decision 15/4: Kunming-Montreal Global Biodiversity Framework",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2022",
     "governingBody": "CBD CoP",
     "description": "Post-2020 global strategy to halt/reverse biodiversity loss by 2030, explicitly embedding biodiversity-health interlinkages and One Health approaches.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Calls for cross-sectoral policy coordination and improved access to health products."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Includes measures to reduce spillover risk from land use/wildlife trade."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Supports ecosystem-based approaches to control diseases."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Addresses AMR/pharmaceutical pollution and cross-sector risk reduction."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Embeds pollution/climate/invasive species as drivers of biodiversity loss and health inequality."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Affirms equity for Indigenous Peoples, LMICs, and intergenerational justice."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Frames biodiversity as foundational determinant of health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Centers nature-based solutions and sustainable resource use."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Formalizes whole-of-society cooperation."
-      }
+      "Equity: Affirms equity for Indigenous Peoples, LMICs, and intergenerational justice.",
+      "Socio-ecological equilibrium: Frames biodiversity as foundational determinant of health.",
+      "Stewardship: Centers nature-based solutions and sustainable resource use.",
+      "Transdisciplinarity: Formalizes whole-of-society cooperation."
     ],
     "governanceRole": "Elevates biodiversity-health linkages globally. Integrates these into spatial planning/food systems. Anchors equity/inclusive participation.",
     "limitations": "No standalone One Health indicator. Health ministries are not explicitly included in governance mandates.",
@@ -1757,70 +825,26 @@
     "id": 32,
     "instrument": "One Health Joint Plan of Action",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://www.fao.org/one-health/resources/publications/joint-plan-of-action",
-    "numberParties": "",
+    "parties": "",
     "year": "2022",
     "governingBody": "Quadripartite (FAO, UNEP, WOAH, WHO)",
     "description": "Joint strategy by the Quadripartite outlining six action tracks addressing zoonoses, AMR, food safety, environment, and endemic disease burdens.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds OH surveillance and workforce systems."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Targets spillover risk drivers like habitat loss and wildlife trade."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Focuses on endemic zoonoses and NTDs via integrated interventions."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Strengthens coordination/surveillance through Codex and INFOSAN."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Embeds global/national AMR strategies with common platforms."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates environment through joint planning and pollution management."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Equity and fairness across all sectors in governance."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Inclusion of Indigenous/local communities, gender, and youth."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Emphasizes balance via biodiversity protection and ecosystem health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes proactive environmental management and AMR stewardship."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Grounded in transdisciplinary collaboration across policy and academia."
-      }
+      "Equity: Equity and fairness across all sectors in governance.",
+      "Inclusion: Inclusion of Indigenous/local communities, gender, and youth.",
+      "Socio-ecological equilibrium: Emphasizes balance via biodiversity protection and ecosystem health.",
+      "Stewardship: Promotes proactive environmental management and AMR stewardship.",
+      "Transdisciplinarity: Grounded in transdisciplinary collaboration across policy and academia."
     ],
     "governanceRole": "Anchors a global shared implementation structure. Provides roadmap tools for national adoption. Defines Theory of Change and robust M&E framework.",
     "limitations": "Limited uptake in several continents regarding the development of specific strategic plans.",
@@ -1829,47 +853,23 @@
   },
   {
     "id": 33,
-    "instrument": "MRLs and Risk Management Recommendations for Residues of Veterinary Drugs in Foods (CXM 2-2023)",
+    "instrument": "MRLs and Risk Management Recommendations for Residues of Veterinary Drugs",
     "oneHealthRelevance": 2,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://www.fao.org/fao-who-codexalimentarius/sh-proxy/it/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXM%2B2%252FMRL2e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2023",
     "governingBody": "Joint FAO/WHO Codex Alimentarius Commission",
     "description": "Compendium listing Maximum Residue Limits (MRLs) and Risk Management Recommendations for veterinary drugs in animal-derived foods.",
     "actionTracks": [
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Strengthens management of chemical food safety hazards."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Enforcing limits complements efforts to curb AMR."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Addresses veterinary pollutants entering the food chain."
-      }
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Links veterinary drug use to environmental safety."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Enforces responsible veterinary drug practices."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Requires cooperation between veterinary and food safety regulators."
-      }
+      "Inclusion: Links veterinary drug use to environmental safety.",
+      "Stewardship: Enforces responsible veterinary drug practices.",
+      "Transdisciplinarity: Requires cooperation between veterinary and food safety regulators."
     ],
     "governanceRole": "Harmonized international benchmark encouraging regulatory cooperation. Promotes joint surveillance and cross-agency enforcement.",
     "limitations": "Capacity constraints for enforcement in LMICs. Focuses strictly on consumer health rather than environmental/occupational exposure. Finite list of evaluated drugs.",
@@ -1880,60 +880,24 @@
     "id": 34,
     "instrument": "Decision 16/19: Global Action Plan for Biodiversity and Health",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-19-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2024",
     "governingBody": "CBD Conference of the Parties",
     "description": "Adopts the GAP on Biodiversity and Health, supporting the GBF, recognizing biodiversity as a determinant of health and outlining voluntary actions.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Promotes national coordination across sectors including health."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Addresses spillover risk via sustainable land use/wildlife reform."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Supports reduction of disease vulnerability via habitat restoration."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Links AMR/pollution to OH, urging safe waste practices."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Recognizes biodiversity loss/pollution as health threats."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equity through support to LMICs and intergenerational equity."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Grounds action in socio-ecological balance connecting integrity to well-being."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes ecosystem restoration and safe wildlife management."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Institutionalizes coordination via focal points and inclusive governance."
-      }
+      "Equity: Promotes equity through support to LMICs and intergenerational equity.",
+      "Socio-ecological equilibrium: Grounds action in socio-ecological balance connecting integrity to well-being.",
+      "Stewardship: Emphasizes ecosystem restoration and safe wildlife management.",
+      "Transdisciplinarity: Institutionalizes coordination via focal points and inclusive governance."
     ],
     "governanceRole": "Operationalizes linkages across GBF targets. Formalizes One Health governance structures (interministerial). Promotes inclusive implementation.",
     "limitations": "Resource/capacity gaps not mitigated by designated funds. Limited integration with public health system mandates.",
@@ -1944,45 +908,21 @@
     "id": 35,
     "instrument": "Provisional Voluntary Code of Conduct on the Sustainable Management of Plastics in Agriculture",
     "oneHealthRelevance": 3,
-    "instrumentType": "Code/Standard",
+    "type": "Codes of Conduct",
     "url": "https://openknowledge.fao.org/server/api/core/bitstreams/3dd07f18-cfe8-4255-bfa2-04379babbb7e/content",
-    "numberParties": "",
+    "parties": "",
     "year": "2025",
     "governingBody": "FAO",
     "description": "Guides sustainable management of agricultural plastics across their lifecycle, aiming to reduce environmental/health risks and leakage.",
     "actionTracks": [
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Aims to protect food safety, human/animal health from agricultural plastic pollution."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Integrates environmental considerations across agrifood systems by addressing pollution impacts."
-      }
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Calls for fair participation of vulnerable groups and smallholder farmers."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Addresses plastic pollution impacts on soil properties and biodiversity."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes stewardship through the 6R model."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages multistakeholder collaboration across sectors."
-      }
+      "Equity: Calls for fair participation of vulnerable groups and smallholder farmers.",
+      "Socio-ecological equilibrium: Addresses plastic pollution impacts on soil properties and biodiversity.",
+      "Stewardship: Promotes stewardship through the 6R model.",
+      "Transdisciplinarity: Encourages multistakeholder collaboration across sectors."
     ],
     "governanceRole": "Establishes a cross-sectoral policy framework linking plastic management to OH. Promotes evidence-building. Supports national technical cooperation.",
     "limitations": "Meant to complement, not preempt, future legally binding plastic treaties. Non-binding reporting without formal compliance mechanisms.",
@@ -1993,65 +933,25 @@
     "id": 36,
     "instrument": "WOAH One Health Strategy",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://www.woah.org/en/document/woah-one-health-strategy/",
-    "numberParties": "",
+    "parties": "",
     "year": "2024",
     "governingBody": "WOAH",
     "description": "Roadmap embedding One Health within veterinary services, highlighting coordination and workforce capacity to manage zoonoses, AMR, food, and environmental health.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds institutional and workforce capacity in veterinary services."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Targets zoonotic disease detection and prevention."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Supports neglected zoonoses and vector-borne disease control."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Integrates food safety assessment and communication."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Embeds antimicrobial stewardship."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Emphasizes ecosystem dynamics and climate-health interfaces."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Advocates for veterinary inclusion in national health strategies."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Advances balance through ecosystem-informed surveillance."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embeds stewardship through responsible antimicrobial use."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Fosters collaboration including environmental, public, and animal health."
-      }
+      "Equity: Advocates for veterinary inclusion in national health strategies.",
+      "Socio-ecological equilibrium: Advances balance through ecosystem-informed surveillance.",
+      "Stewardship: Embeds stewardship through responsible antimicrobial use.",
+      "Transdisciplinarity: Fosters collaboration including environmental, public, and animal health."
     ],
     "governanceRole": "Positions veterinary services as OH change-agents using MCM OT tools. Focuses on workforce competency. Promotes integrated data systems (WAHIS).",
     "limitations": "Environment sector engagement remains secondary. Resource constraints hinder implementation in LMICs. Not legally enforceable.",
@@ -2060,62 +960,26 @@
   },
   {
     "id": 37,
-    "instrument": "Global Action Plan on Climate Change and Health (A78/27)",
+    "instrument": "Global Action Plan on Climate Change and Health",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA78/A78_4Add2-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2025",
     "governingBody": "WHO",
     "description": "Framework integrating health into climate policies via leadership, evidence, and capacity-building. Promotes climate-resilient, low-carbon health systems.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens health systems and climate resilience via capacity-building."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Reduces risks of outbreaks via a One Health approach to climate drivers."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Addresses climate-sensitive diseases through adaptation planning."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Embeds climate mitigation and ecosystem protection into health planning."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Advances equity recognizing linkages across systems."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Strengthens inclusion of marginalized groups in climate planning."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Addresses environmental drivers of disease."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embodies stewardship via resilient low-carbon systems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Links health, environment, agriculture, and energy sectors."
-      }
+      "Equity: Advances equity recognizing linkages across systems.",
+      "Inclusion: Strengthens inclusion of marginalized groups in climate planning.",
+      "Socio-ecological equilibrium: Addresses environmental drivers of disease.",
+      "Stewardship: Embodies stewardship via resilient low-carbon systems.",
+      "Transdisciplinarity: Links health, environment, agriculture, and energy sectors."
     ],
     "governanceRole": "Prioritizes equity. Promotes intersectoral One Health integration. Strengthens research and data systems. Provides capacity-building guidance.",
     "limitations": "Resource dependence on external funding. Coordination complexity may slow progress. Nationally determined actions risk uneven uptake.",
@@ -2124,57 +988,25 @@
   },
   {
     "id": 38,
-    "instrument": "Global strategy for the prevention and control of high pathogenic avian influenza (2024–2033)",
+    "instrument": "Global strategy for the prevention and control of high pathogenic avian influenza",
     "oneHealthRelevance": 3,
-    "instrumentType": "Strategy/Plan",
+    "type": "Strategy",
     "url": "https://www.woah.org/en/document/global-strategy-for-the-prevention-and-control-of-high-pathogenicity-avian-influenza-2024-2033/",
-    "numberParties": "",
+    "parties": "",
     "year": "2025",
     "governingBody": "FAO and WOAH",
     "description": "Ten-year roadmap to reduce impacts of HPAI via a OH systems approach. Focuses on prevention, protection, and transformation of poultry value chains.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds surveillance and response capacities across domains."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Targets early detection and prevention of spillover."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Promotes reduced AMR via improved vaccination and biosecurity."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Addresses environmental risks and wildlife conservation in control."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes shared responsibility across sectors."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes ecological dynamics in managing spillover."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advances sustainable transformation of poultry systems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Operationalizes coordination via multi-level governance."
-      }
+      "Equity: Promotes shared responsibility across sectors.",
+      "Socio-ecological equilibrium: Recognizes ecological dynamics in managing spillover.",
+      "Stewardship: Advances sustainable transformation of poultry systems.",
+      "Transdisciplinarity: Operationalizes coordination via multi-level governance."
     ],
     "governanceRole": "Anchors OH in animal disease control. Strengthens joint surveillance/data-sharing. Builds institutional capacity via task forces and steering committees.",
     "limitations": "National funding uneven (LMICs lack budgets). Limited operational inclusion of public health authorities outside outbreak response.",
@@ -2183,57 +1015,25 @@
   },
   {
     "id": 39,
-    "instrument": "Ramsar Resolution IX.23: Highly pathogenic avian influenza and its consequences for wetland and waterbird conservation and wise use",
+    "instrument": "Ramsar Resolution IX.23: Highly pathogenic avian influenza and its consequences for wetland and waterbird conservation",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.ramsar.org/sites/default/files/documents/pdf/res/key_res_ix_23_e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2005",
     "governingBody": "Conference of the Contracting Parties",
     "description": "Recognizes HPAI risks, rejects lethal control/habitat destruction, and calls for coordinated, multisectoral response emphasizing ecosystem-based management.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Urges national preparedness and multisector contingency planning."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Emphasizes cross-sectoral response to reduce spillover potential."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Focuses on threats to migratory bird populations and ecosystem health."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Frames wetland destruction as counterproductive, underscoring intact ecosystems."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Highlights vulnerability of rural livelihoods and LMICs."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Positions biodiversity monitoring as buffer against disease emergence."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advocates ecological stewardship over reactive disease control."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes intersectoral governance linking health, agriculture, and conservation."
-      }
+      "Equity: Highlights vulnerability of rural livelihoods and LMICs.",
+      "Socio-ecological equilibrium: Positions biodiversity monitoring as buffer against disease emergence.",
+      "Stewardship: Advocates ecological stewardship over reactive disease control.",
+      "Transdisciplinarity: Promotes intersectoral governance linking health, agriculture, and conservation."
     ],
     "governanceRole": "Encourages safe land use rejecting culling. Calls for integrated contingency planning. Promotes cooperation with FAO, WHO, WOAH, and CMS.",
     "limitations": "Health and veterinary integration relies on voluntary proactive national participation. Scientific uncertainty regarding transmission pathways.",
@@ -2244,45 +1044,21 @@
     "id": 40,
     "instrument": "Ramsar Resolution VIII.18 Invasive species and wetlands",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.ramsar.org/sites/default/files/documents/pdf/res/key_res_viii_18_e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2002",
     "governingBody": "Conference of the Contracting Parties",
     "description": "Addresses IAS threats to wetlands, calling for national risk assessments, rapid response, and policy harmonization with CBD and IUCN.",
     "actionTracks": [
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Identifies IAS as threats that undermine ecosystem function."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Promotes integrated IAS management, especially in shared wetlands."
-      }
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Acknowledges uneven national capacities for IAS monitoring."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Frames IAS as disruptors that increase disease vulnerability."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embeds prevention to preserve wetland integrity."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages collaboration with multiple institutions."
-      }
+      "Equity: Acknowledges uneven national capacities for IAS monitoring.",
+      "Socio-ecological equilibrium: Frames IAS as disruptors that increase disease vulnerability.",
+      "Stewardship: Embeds prevention to preserve wetland integrity.",
+      "Transdisciplinarity: Encourages collaboration with multiple institutions."
     ],
     "governanceRole": "Integrates IAS control into national policies. Promotes early detection and transboundary coordination. Includes aquatic/terrestrial invasions.",
     "limitations": "Relies on national reporting and voluntary alignment. Training and capacity-building are encouraged but not resourced.",
@@ -2293,50 +1069,22 @@
     "id": 41,
     "instrument": "Ramsar Resolution VIII.3: Climate change and wetlands: impacts, adaptation, and mitigation",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.ramsar.org/sites/default/files/documents/pdf/res/key_res_viii_03_e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2002",
     "governingBody": "Conference of the Contracting Parties",
     "description": "Highlights dual role of wetlands regarding climate change. Urges integration of wetland resilience and carbon storage into strategies, preventing ecological damage from mitigation.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Supports capacity-building for climate adaptation and disaster risk mitigation."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Frames wetland degradation as driver of disease risk."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Prioritizes ecosystem-based mitigation for carbon-rich wetlands."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Recognizes risks to vulnerable communities dependent on wetlands."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Grounds linkages in biodiversity and ecosystem service resilience."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes peatland restoration and resilience-based planning."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Calls for coordinated planning across UNFCCC, CBD, and IPCC."
-      }
+      "Inclusion: Recognizes risks to vulnerable communities dependent on wetlands.",
+      "Socio-ecological equilibrium: Grounds linkages in biodiversity and ecosystem service resilience.",
+      "Stewardship: Emphasizes peatland restoration and resilience-based planning.",
+      "Transdisciplinarity: Calls for coordinated planning across UNFCCC, CBD, and IPCC."
     ],
     "governanceRole": "Links climate vulnerability to disease and disaster. Promotes wetland-based adaptation. Encourages collaboration with climate science bodies.",
     "limitations": "Limited explicit public health framing. Lacks integration with ministries of health or disease monitoring systems.",
@@ -2347,55 +1095,23 @@
     "id": 42,
     "instrument": "Ramsar Resolution XI.12: Wetlands and health: taking an ecosystem approach",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.ramsar.org/document/resolution-xi12-wetlands-health-taking-ecosystem-approach",
-    "numberParties": "",
+    "parties": "",
     "year": "2012",
     "governingBody": "Conference of the Contracting Parties",
     "description": "Defines wetlands as central to health. Embraces OH/EcoHealth frameworks, calling for integrated management to address disease risks and well-being.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Promotes integrated disease planning across sectors."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Identifies wetland degradation as a driver of spillover."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Emphasizes prevention of waterborne/vector-borne diseases."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Frames wetland health as essential to resilience and disaster risk reduction."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Recognizes wetlands' role supporting vulnerable/Indigenous populations."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Connects biodiversity loss and contamination to poor health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advocates for ecosystem-based disease prevention."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes whole-of-landscape planning and dialogue."
-      }
+      "Equity: Recognizes wetlands' role supporting vulnerable/Indigenous populations.",
+      "Socio-ecological equilibrium: Connects biodiversity loss and contamination to poor health.",
+      "Stewardship: Advocates for ecosystem-based disease prevention.",
+      "Transdisciplinarity: Promotes whole-of-landscape planning and dialogue."
     ],
     "governanceRole": "Endorses formal ecosystem approaches to health. Promotes Ramsar technical reports for integrated risk assessments. Supports capacity building.",
     "limitations": "Health system integration depends on national interpretation. Disease linkages require specific policy alignment.",
@@ -2404,62 +1120,26 @@
   },
   {
     "id": 43,
-    "instrument": "WOAH Resolution 27: The \"One Health\" Approach to Address Health Risks at the Animal Human Ecosystem Interface",
+    "instrument": "WOAH Resolution 27: The 'One Health' Approach to Address Health Risks at the Animal Human Ecosystem Interface",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://doc.woah.org/dyn/portal/digidoc.xhtml?statelessToken=G3M_ZUOTjaGQKjV1ESYssPVm57pF25iNPnOSHcWL7cA=&actionMethod=dyn%2Fportal%2Fdigidoc.xhtml%3AdownloadAttachment.openStateless",
-    "numberParties": "",
+    "parties": "",
     "year": "2012",
     "governingBody": "WOAH",
     "description": "Promotes integrated OH governance by linking human, animal, and ecosystem health. Underscores veterinary roles in zoonoses, AMR, and food safety.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Promotes integrated capacity building for surveillance and response."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Aims to mitigate risks at the animal-human-ecosystem interface."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Supports collaborative control through multisectoral coordination."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Encourages prudent antimicrobial use in animals."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Underscores role of ecosystem disruption in disease emergence."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equity by encouraging cooperation across sectors."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Emphasizes interconnectedness of humans, animals, and ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls for preventive, sustainable health policies protecting animal welfare."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Urges integrated responses involving various knowledge systems."
-      }
+      "Equity: Promotes equity by encouraging cooperation across sectors.",
+      "Socio-ecological equilibrium: Emphasizes interconnectedness of humans, animals, and ecosystems.",
+      "Stewardship: Calls for preventive, sustainable health policies protecting animal welfare.",
+      "Transdisciplinarity: Urges integrated responses involving various knowledge systems."
     ],
     "governanceRole": "Promotes cross-sectoral coordination platforms. Encourages risk-based policy design. Strengthens integrated surveillance efforts.",
     "limitations": "Fragmented veterinary and environmental integration. Veterinary authorities often lack formal mandates in intersectoral platforms. Incompatible data sharing.",
@@ -2470,60 +1150,24 @@
     "id": 44,
     "instrument": "Conference Resolution 4/2015: Antimicrobial Resistance",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.fao.org/4/mo153e/mo153e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2015",
     "governingBody": "FAO",
     "description": "Commits FAO to global AMR response using OH approach linking agriculture and health. Urges national strategies and multisectoral cooperation.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Builds capacities to address AMR in agriculture and environment."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Supports early action to reduce AMR-related health threats."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Promotes food safety via Codex standards and responsible use."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Positions AMR as core priority driving prudent use and policy."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Acknowledges environmental dimensions calling for waste management."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes shared responsibility across sectors."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Highlights ecological drivers of AMR like contamination."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Encourages sustainable antimicrobial use in food systems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Formalizes collaboration through Quadripartite."
-      }
+      "Equity: Promotes shared responsibility across sectors.",
+      "Socio-ecological equilibrium: Highlights ecological drivers of AMR like contamination.",
+      "Stewardship: Encourages sustainable antimicrobial use in food systems.",
+      "Transdisciplinarity: Formalizes collaboration through Quadripartite."
     ],
     "governanceRole": "Anchors AMR within FAO mandate. Supports national action plans. Integrates AMR into food safety and surveillance systems.",
     "limitations": "Limited operational detail on environmental implementation. Voluntary nature weakens accountability. Narrow focus on food/ag sectors.",
@@ -2534,50 +1178,22 @@
     "id": 45,
     "instrument": "UNEA Resolution 2/16: Mainstreaming of biodiversity for well-being",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://docs.un.org/en/UNEP/EA.2/Res.16",
-    "numberParties": "",
+    "parties": "",
     "year": "2016",
     "governingBody": "UNEP",
     "description": "Calls on governments to integrate biodiversity into national policy aligned with 2030 Agenda. Encourages cross-sectoral collaboration for well-being.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Encourages policy integration connecting biodiversity to health."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Supports sustainable land use to reduce disease vulnerability."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Promotes mainstreaming in key sectors stabilizing ecosystems."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Advocates equity through country-specific approaches."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Reinforces balance integrating conservation into food/tourism."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Embodies stewardship promoting sustainable resource use."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages cross-sectoral governance."
-      }
+      "Equity: Advocates equity through country-specific approaches.",
+      "Socio-ecological equilibrium: Reinforces balance integrating conservation into food/tourism.",
+      "Stewardship: Embodies stewardship promoting sustainable resource use.",
+      "Transdisciplinarity: Encourages cross-sectoral governance."
     ],
     "governanceRole": "Supports biodiversity mainstreaming across development sectors. Aligns with SDGs. Builds political momentum.",
     "limitations": "Focuses on planning over implementation lacking concrete execution guidance.",
@@ -2588,55 +1204,23 @@
     "id": 46,
     "instrument": "UNEA Resolution 3/4: Environment and Health",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://undocs.org/UNEP/EA.3/RES.4",
-    "numberParties": "",
+    "parties": "",
     "year": "2017",
     "governingBody": "UNEP",
     "description": "Comprehensively addresses interlinkages between environment and health, promoting integrated governance and risk management.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens national capacities for integrated policies."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Calls for mainstreaming biodiversity in food/ecosystem policies."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Recognizes environmental drivers of AMR calling for surveillance."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Positions pollution and degradation as central to health inequality."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes equity via support for developing countries."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes structural threats to health/ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes prevention and life-cycle approaches."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Embeds transdisciplinary action across diverse sectors."
-      }
+      "Equity: Promotes equity via support for developing countries.",
+      "Socio-ecological equilibrium: Recognizes structural threats to health/ecosystems.",
+      "Stewardship: Emphasizes prevention and life-cycle approaches.",
+      "Transdisciplinarity: Embeds transdisciplinary action across diverse sectors."
     ],
     "governanceRole": "Operationalizes OH across clusters. Expands evidence base with WHO/FAO/WOAH. Promotes multisectoral coordination platforms.",
     "limitations": "No formal intersectoral mandates. Limited compliance tracking. Funding constraints for LMICs.",
@@ -2647,60 +1231,24 @@
     "id": 47,
     "instrument": "Conference Resolution 6/2019: Antimicrobial Resistance",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.fao.org/fileadmin/user_upload/bodies/Conference_2019/C2019_REP/NA421_C2019_REP_en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2019",
     "governingBody": "FAO",
     "description": "Reaffirms FAO's AMR leadership, endorsing Quadripartite collaboration, urging surveillance/prudent use, and supporting LMICs.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Calls for cross-sectoral capacity building."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Promotes early detection of threats."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Links AMR to safety and urges prudent use."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Reinforces stewardship to curb resistance."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Expands focus to environmental AMR drivers."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes shared responsibilities across domains."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes environmental contamination as AMR driver."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes responsible use and sustainable practices."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Strengthens joint AMR governance through Quadripartite."
-      }
+      "Equity: Promotes shared responsibilities across domains.",
+      "Socio-ecological equilibrium: Recognizes environmental contamination as AMR driver.",
+      "Stewardship: Emphasizes responsible use and sustainable practices.",
+      "Transdisciplinarity: Strengthens joint AMR governance through Quadripartite."
     ],
     "governanceRole": "Endorses expanded Tripartite/UNEP framework. Aligns with WHO GAP. Prioritizes support for LMICs.",
     "limitations": "Lacks clarity on operationalizing environmental surveillance. No structured roles for civil society.",
@@ -2711,60 +1259,24 @@
     "id": 48,
     "instrument": "Resolution 14: OIE's Engagement in the One Health Global Effort to Control Antimicrobial Resistance",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.woah.org/app/uploads/2021/03/a-reso14-2019.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2019",
     "governingBody": "WOAH",
     "description": "Strengthens global coordination for AMR via OH approach, focusing on action plans, Tripartite coordination, and sustainable investments.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Supports veterinary capacities and AMR surveillance."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Recognizes AMR as a transboundary threat."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Addresses use in food-producing animals."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Focuses on reducing misuse supporting stewardship."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Highlights environmental contamination from waste."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes veterinary roles in multisectoral efforts."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes AMR as threat to balance."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls for behavioral change in agricultural practices."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Coordinates global cross-sector monitoring efforts."
-      }
+      "Equity: Promotes veterinary roles in multisectoral efforts.",
+      "Socio-ecological equilibrium: Recognizes AMR as threat to balance.",
+      "Stewardship: Calls for behavioral change in agricultural practices.",
+      "Transdisciplinarity: Coordinates global cross-sector monitoring efforts."
     ],
     "governanceRole": "Promotes antimicrobial stewardship. Supports ANIMUSE database for harmonized surveillance. Capacity building in veterinary governance.",
     "limitations": "Limited regulation of antimicrobials in animal sectors. Inconsistent reporting. Insufficient enforcement capacity in some countries.",
@@ -2775,50 +1287,22 @@
     "id": 49,
     "instrument": "WHA 73.5: Strengthening efforts on food safety",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA73/A73_R5-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2020",
     "governingBody": "WHO",
     "description": "Reaffirms food safety as core to health. Calls for OH approach integrating health, agriculture, trade, and environment policies.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Encourages health-in-all-policies for food safety."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Promotes actions across supply chain for safety."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Promotes coherent actions to tackle foodborne AMR."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Integrates food safety into national multi-sector policies."
-      },
-      {
-        "id": 2,
-        "name": "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices",
-        "narrative": "Advocates for sustainability and access for all."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes responsible investment in safety systems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Emphasizes coordinated global governance."
-      }
+      "Equity: Integrates food safety into national multi-sector policies.",
+      "Inclusion: Advocates for sustainability and access for all.",
+      "Stewardship: Promotes responsible investment in safety systems.",
+      "Transdisciplinarity: Emphasizes coordinated global governance."
     ],
     "governanceRole": "Promotes OH cross-sector collaboration. Calls for health-in-all-policies. Advocates for Codex usage and WHO/FAO collaboration.",
     "limitations": "Focus remains largely on national governments with less explicit integration of communities. Implementation varies by capacity.",
@@ -2829,55 +1313,23 @@
     "id": 50,
     "instrument": "WHA 74.7: Strengthening WHO preparedness for and response to health emergencies",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_R7-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2021",
     "governingBody": "WHO",
     "description": "Roadmap for strengthening emergency capacities. Calls for OH collaboration, improved surveillance, and equitable access to tools.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Reinforces capacity building under the IHR."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Emphasizes early detection and response through OH approach."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Promotes AMR prevention during emergencies."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Supports collaboration among WHO/FAO/WOAH/UNEP."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 5: Antimicrobial Resistance (AMR)",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Emphasizes collaborative preparedness across domains."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Links emergencies to environmental disruption."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls for proactive stewardship and long-term resilience."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Advances formal collaboration among Quadripartite agencies."
-      }
+      "Equity: Emphasizes collaborative preparedness across domains.",
+      "Socio-ecological equilibrium: Links emergencies to environmental disruption.",
+      "Stewardship: Calls for proactive stewardship and long-term resilience.",
+      "Transdisciplinarity: Advances formal collaboration among Quadripartite agencies."
     ],
     "governanceRole": "Institutionalizes OH coordination globally. Integrates surveillance (GLEWS). Supports country-led multisectoral preparedness.",
     "limitations": "Human health remains dominant frame. Operational specificity lacking. Member State focus may sideline non-state expertise.",
@@ -2888,55 +1340,23 @@
     "id": 51,
     "instrument": "UNEA Resolultion 5/6: Biodiversity and Health",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://docs.un.org/uNEP/EA.5/Res.6",
-    "numberParties": "",
+    "parties": "",
     "year": "2022",
     "governingBody": "UNEP",
     "description": "Recognizes interlinkages between biodiversity and well-being. Emphasizes OH in preventing pandemics and supports cross-policy integration.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens OH coordination and data systems."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Calls to reduce spillover risks."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Encourages restoration buffering against diseases."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Embeds conservation into health governance."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Support for developing countries in OH implementation."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Re-centers ecosystem services as foundational to health."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Supports intergenerational stewardship."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Calls for transdisciplinary approaches."
-      }
+      "Equity: Support for developing countries in OH implementation.",
+      "Socio-ecological equilibrium: Re-centers ecosystem services as foundational to health.",
+      "Stewardship: Supports intergenerational stewardship.",
+      "Transdisciplinarity: Calls for transdisciplinary approaches."
     ],
     "governanceRole": "Promotes capacity building in LMICs. Aligns biodiversity with zoonotic prevention. Highlights risks during spillover events.",
     "limitations": "Health sector engagement is advisory. Lacks measurable benchmarks for integration progress.",
@@ -2947,55 +1367,23 @@
     "id": 52,
     "instrument": "WHA 75.13: Global strategy on infection prevention and control",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "",
-    "numberParties": "",
+    "parties": "",
     "year": "2022",
     "governingBody": "WHO",
     "description": "Mandates development of global strategy on IPC to reduce healthcare infections and AMR, aligning with WASH and OH frameworks.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens IPC capacities across all levels of care."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Recognizes IPC as cornerstone of outbreak response."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Integrates IPC with food safety and WASH systems."
-      },
-      {
-        "trackId": 5,
-        "trackName": "AMR",
-        "rationale": "Directly links IPC to curbing AMR."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 4: Food safety risks",
+      "Track 5: Antimicrobial Resistance (AMR)"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Calls for IPC measures across all settings."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Recognizes interplay of health, WASH, and environment."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advocates science-based IPC preventing harm."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Aligns IPC with AMR, safety, and environmental programs."
-      }
+      "Equity: Calls for IPC measures across all settings.",
+      "Socio-ecological equilibrium: Recognizes interplay of health, WASH, and environment.",
+      "Stewardship: Advocates science-based IPC preventing harm.",
+      "Transdisciplinarity: Aligns IPC with AMR, safety, and environmental programs."
     ],
     "governanceRole": "Integrates IPC with AMR/WASH. Emphasizes workforce development. Establishes measurable implementation frameworks.",
     "limitations": "Weak IPC presence outside hospitals disrupts coordination. Fragmented HAI data. IPC professionals lack structural authority.",
@@ -3006,45 +1394,21 @@
     "id": 53,
     "instrument": "WHA 76.17: The impact of chemicals, waste and pollution on human health",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA76/A76_R17-en.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2023",
     "governingBody": "WHO",
     "description": "Calls for commitments to the WHO Global Strategy to address risks of plastics, chemicals, and waste via cross-sector engagement.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Strengthens surveillance capacities for impacts of pollution."
-      },
-      {
-        "trackId": 4,
-        "trackName": "Food safety risks",
-        "rationale": "Calls for regulation of pollutants in food systems."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Centers pollution as key determinant in health strategies."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 4: Food safety risks",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Acknowledges harmful effects of pollution on ecosystems."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Promotes policies reducing pollution sustainably."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages cooperation among health and environment authorities."
-      }
+      "Socio-ecological equilibrium: Acknowledges harmful effects of pollution on ecosystems.",
+      "Stewardship: Promotes policies reducing pollution sustainably.",
+      "Transdisciplinarity: Encourages cooperation among health and environment authorities."
     ],
     "governanceRole": "Strengthens biomonitoring systems. Institutionalizes multisector governance via Global Framework on Chemicals. Aligns pollution policy with health goals.",
     "limitations": "Fragmented governance across sectors. Weak national biomonitoring systems. Limited health sector engagement in pollution policy.",
@@ -3055,55 +1419,23 @@
     "id": 54,
     "instrument": "CMS Resolution 12.6: Wildlife health & migratory species",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "",
-    "numberParties": "",
+    "parties": "",
     "year": "2024",
     "governingBody": "CMS Conference of the Parties",
     "description": "Affirms interdependence of wildlife, human, and ecosystem health. Emphasizes OH-based governance and non-lethal responses.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Promotes national capacity building and integration of wildlife health."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Acknowledges migratory wildlife role in disease emergence."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Emphasizes cumulative pressures on species."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Links ecosystem degradation to declining resilience."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Encourages support to low-income countries."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Defines healthy ecosystems as determinants of resilience."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Emphasizes ecosystem-based prevention and non-lethal response."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Strengthens cross-border collaboration among agencies."
-      }
+      "Equity: Encourages support to low-income countries.",
+      "Socio-ecological equilibrium: Defines healthy ecosystems as determinants of resilience.",
+      "Stewardship: Emphasizes ecosystem-based prevention and non-lethal response.",
+      "Transdisciplinarity: Strengthens cross-border collaboration among agencies."
     ],
     "governanceRole": "Recognizes environmental drivers of disease. Advocates upstream non-lethal management. Consolidates previous resolutions.",
     "limitations": "No formal compliance framework. Health sector roles are supportive rather than institutionalized. Data limitations in Global South.",
@@ -3114,55 +1446,23 @@
     "id": 55,
     "instrument": "CMS Resolution 14/18: Avian influenza",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://www.cms.int/sites/default/files/document/cms_cop14_res.14.18_avian-influenza_e.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "2024",
     "governingBody": "CMS Conference of the Parties",
     "description": "Addresses HPAI threat to birds, ecosystems, and humans via OH approach. Rejects culling/habitat destruction.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Calls for wildlife contingency planning and preparedness."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Prioritizes mitigation of transmission across interfaces."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Seeks to conserve vulnerable bird populations."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Promotes ecosystem integrity opposing habitat degradation."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Recognizes inequities and calls for global support."
-      },
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Frames intact ecosystems as buffers against emergence."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Opposes destructive responses calling for biosecurity."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Institutionalizes cross-border coordination."
-      }
+      "Equity: Recognizes inequities and calls for global support.",
+      "Socio-ecological equilibrium: Frames intact ecosystems as buffers against emergence.",
+      "Stewardship: Opposes destructive responses calling for biosecurity.",
+      "Transdisciplinarity: Institutionalizes cross-border coordination."
     ],
     "governanceRole": "Formally applies OH lens to HPAI outbreak response. Rejects harmful wildlife control. Establishes conservation-driven surveillance.",
     "limitations": "Implementation is voluntary. Human health agencies are not mandated implementers. Limited guidance on integrating surveillance.",
@@ -3173,45 +1473,21 @@
     "id": 56,
     "instrument": "Resolution Conf. 10.21 (Rev. CoP19): Transport of live specimens",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "https://cites.org/sites/default/files/documents/COP/19/resolution/E-Res-10-21-R19.pdf",
-    "numberParties": "",
+    "parties": "",
     "year": "1997, 2022",
     "governingBody": "CITES Conference of the Parties",
     "description": "Guidelines for humane, health-conscious transport of CITES-listed species, adopting IATA standards to minimize stress and disease transmission.",
     "actionTracks": [
-      {
-        "trackId": 1,
-        "trackName": "Enhancing One Health capacities",
-        "rationale": "Encourages capacity for health-sensitive wildlife transport."
-      },
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Addresses disease transmission linked to transport stress."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Reduces morbidity exacerbating pressures on ecosystems."
-      }
+      "Track 1: Enhancing One Health capacities",
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases"
     ],
     "principles": [
-      {
-        "id": 1,
-        "name": "Equity between sectors and disciplines",
-        "narrative": "Promotes safety in trade via standardized protocols."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Advances stewardship by minimizing transport cruelty/harm."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Encourages coordination between CITES, IATA, WOAH."
-      }
+      "Equity: Promotes safety in trade via standardized protocols.",
+      "Stewardship: Advances stewardship by minimizing transport cruelty/harm.",
+      "Transdisciplinarity: Encourages coordination between CITES, IATA, WOAH."
     ],
     "governanceRole": "Codifies health safeguards in logistics. Recognizes disease risks linked to handling. Encourages expert collaboration.",
     "limitations": "Focus on conservation over integrated disease surveillance. Relies on national legislation. Voluntary adoption lacks accountability.",
@@ -3222,45 +1498,21 @@
     "id": 57,
     "instrument": "Resolution Conf. 13.10 (Rev. CoP14): Trade in invasive alien species",
     "oneHealthRelevance": 3,
-    "instrumentType": "Decision/Resolution",
+    "type": "Resolutions",
     "url": "",
-    "numberParties": "",
+    "parties": "",
     "year": "2004, 2007",
     "governingBody": "CITES Conference of the Parties",
     "description": "Acknowledges trade in live animals/plants contributes to IAS spread. Recommends incorporating IAS risks into permitting and CBD collaboration.",
     "actionTracks": [
-      {
-        "trackId": 2,
-        "trackName": "Zoonotic epidemics and pandemics",
-        "rationale": "Recognizes IAS facilitate zoonotic emergence."
-      },
-      {
-        "trackId": 3,
-        "trackName": "Neglected tropical and vector-borne diseases",
-        "rationale": "Highlights health impacts on ecosystems and endemic species."
-      },
-      {
-        "trackId": 6,
-        "trackName": "Integrating the environment into OH",
-        "rationale": "Emphasizes integrated regulation preventing biological invasions."
-      }
+      "Track 2: Zoonotic epidemics & pandemics",
+      "Track 3: Endemic & vector-borne diseases",
+      "Track 6: Integrating the environment"
     ],
     "principles": [
-      {
-        "id": 3,
-        "name": "Socio-ecological equilibrium",
-        "narrative": "Accounts for ecosystem vulnerability in live trade."
-      },
-      {
-        "id": 4,
-        "name": "Stewardship",
-        "narrative": "Calls for precaution in trade affecting shared ecosystems."
-      },
-      {
-        "id": 5,
-        "name": "Transdisciplinarity and multisectoral collaboration",
-        "narrative": "Promotes inter-convention cooperation (CITES-CBD)."
-      }
+      "Socio-ecological equilibrium: Accounts for ecosystem vulnerability in live trade.",
+      "Stewardship: Calls for precaution in trade affecting shared ecosystems.",
+      "Transdisciplinarity: Promotes inter-convention cooperation (CITES-CBD)."
     ],
     "governanceRole": "Integrates IAS prevention into trade governance. Promotes risk consultation between states. Strengthens CITES/CBD cooperation.",
     "limitations": "No explicit integration of public health/veterinary sectors. Relies on national capacity to regulate risk.",
