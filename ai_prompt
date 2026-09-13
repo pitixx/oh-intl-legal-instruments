@@ -1,0 +1,65 @@
+You are an expert data engineer. Your task is to process the text contained in three html files (details below) regarding international instruments related to One Health, and output a single, strictly valid JSON array containing objects that adhere exactly to the schema below. 
+
+found at the following ULRs:
+
+https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet002.html
+https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet003.html
+https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet004.html
+
+
+
+CRITICAL INSTRUCTIONS:
+1. Fix Action Tracks: Do NOT mix explanatory text into the action track name. Use the exact official names provided in the 'Reference Lists' below. Put any instrument-specific explanation into the "rationale" field.
+2. Fix Principle IDs: Use ONLY the exact IDs and names provided in the 'Reference Lists' below. Put the instrument-specific text into the "narrative" field.
+3. Formatting: The output must be valid JSON. No trailing commas, no unescaped quotes, no fragmented arrays.
+4. The text contained in the fields of the html tables must be copied verbatim to the json. Do not condense, synthesize or otherwise alter the text in any way other than by removing superfluous formatting html tags within the text (such as <br> or <font>).
+
+REFERENCE LISTS:
+
+Action Tracks:
+1: "Enhancing One Health capacities"
+2: "Zoonotic epidemics and pandemics"
+3: "Neglected tropical and vector-borne diseases"
+4: "Food safety risks"
+5: "AMR"
+6: "Integrating the environment into OH"
+
+Foundational Principles:
+1: "Equity between sectors and disciplines"
+2: "Sociopolitical and multicultural parity (equal rights/opportunities) and inclusion/engagement of marginalized voices"
+3: "Socio-ecological equilibrium"
+4: "Stewardship"
+5: "Transdisciplinarity and multisectoral collaboration"
+
+REQUIRED JSON SCHEMA:
+[
+  {
+    "id": <Integer. Sequential ID for the instrument, to be continued from one file to hte next>,
+    "instrument": "<String. Name of the treaty/convention>",
+    "oneHealthRelevance": <Integer 1-3>,
+    "instrumentType": "<String>",
+    "url": "<String>",
+    "numberParties": "<String>",
+    "year": "<String>",
+    "governingBody": "<String>",
+    "description": "<String>",
+    "actionTracks": [
+      {
+        "trackId": <Integer. Must match reference list>,
+        "trackName": "<String. Must exactly match reference list>",
+        "rationale": "<String. The explanatory text of how the instrument meets this track>"
+      }
+    ],
+    "principles": [
+      {
+        "id": <Integer. Must match reference list>,
+        "name": "<String. Must exactly match reference list>",
+        "narrative": "<String. The explanatory text of how the instrument meets this principle>"
+      }
+    ],
+    "governanceRole": "<String>",
+    "limitations": "<String>",
+    "provisions": "<String>",
+    "interlinkages": "<String>"
+  }
+]
