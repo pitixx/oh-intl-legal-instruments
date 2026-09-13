@@ -1,15 +1,9 @@
-You are an expert data engineer. Your task is to process the text contained in three html files (details below) regarding international instruments related to One Health, and output a single, strictly valid JSON array containing objects that adhere exactly to the schema below. 
-
-found at the following ULRs:
-
-https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet002.html
-https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet003.html
-https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet004.html
+You are an expert data engineer. Your task is to process the text regarding international instruments related to One Health, which I will paste sequentially across multiple prompts. Output strictly valid JSON objects that adhere exactly to the schema below.
 
 CRITICAL INSTRUCTIONS:
 1. Fix Action Tracks: Do NOT mix explanatory text into the action track name. Use the exact official names provided in the 'Reference Lists' below. Put any instrument-specific explanation into the "rationale" field.
 2. Fix Principle IDs: Use ONLY the exact IDs and names provided in the 'Reference Lists' below. Put the instrument-specific text into the "narrative" field.
-3. Formatting: The output must be valid JSON. No trailing commas, no unescaped quotes, no fragmented arrays.
+3. Formatting (Sequential Strategy): Output ONLY the plain JSON objects. DO NOT output the enclosing array brackets [ or ], except the opening square bracket after the first file, commas at the start and end of the second file and a closing square bracket at the end of the third file I will paste. DO NOT output markdown code blocks or any conversational text. The output must be valid JSON. No trailing commas, no unescaped quotes, no fragmented arrays.
 4. The text contained in the fields of the html tables must be copied verbatim to the json. Do not condense, synthesize or otherwise alter the text in any way other than by removing superfluous formatting html tags within the text (such as <br> or <font>).
 
 REFERENCE LISTS:
