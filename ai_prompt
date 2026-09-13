@@ -2,11 +2,9 @@ You are an expert data engineer. Your task is to process the text contained in t
 
 found at the following ULRs:
 
-https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet002.html
-https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet003.html
-https://github.com/pitixx/oh-intl-legal-instruments/blob/main/sheet004.html
-
-
+https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet002.html
+https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet003.html
+https://raw.githubusercontent.com/pitixx/oh-intl-legal-instruments/refs/heads/main/sheet004.html
 
 CRITICAL INSTRUCTIONS:
 1. Fix Action Tracks: Do NOT mix explanatory text into the action track name. Use the exact official names provided in the 'Reference Lists' below. Put any instrument-specific explanation into the "rationale" field.
